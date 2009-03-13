@@ -4,14 +4,14 @@
 \usepackage[urlcolor=blue,colorlinks=true]{hyperref}
 
 \title{Stolen Hours House Rules}
-\author{Andrew Sayman <lorien420@myrealbox.com>}
+\author{Andrew Sayman}
 \begin{document}
 \date{03/13/2009}
 \maketitle
 \clearpage
 
 \tableofcontents
-
+\clearpage
 
 \hypertarget{toc1}{}
 \section{Introduction}
@@ -19,8 +19,8 @@ This is meant as a guide to the house rules and errata for Stolen Hours. It offe
 
 
 \hypertarget{toc2}{}
+\clearpage
 \section{Combat}
-\tableofcontents
 \hypertarget{toc3}{}
 \subsection{Preamble}
 Combat should not be the main focus of any LARP. Portrayal, drama, and genre are at a minimal in combat scenes. However, combat does happen in the world of darkness. Senseless death is part and parcel of the genre. With the continued existence of a PC in the balance, it becomes crucial for STs and Narrators to know Combat rules.
@@ -137,6 +137,7 @@ Thermonuclear Holocaust: This is a bad mamma jamma.
 
 
 \hypertarget{toc14}{}
+\clearpage
 \section{Abilities}
 This is the list of acceptable abilities, and their function.
 
@@ -253,8 +254,8 @@ As per LotN:SG.
 
 
 \hypertarget{toc15}{}
+\clearpage
 \section{Disciplines}
-\tableofcontents
 
 \hypertarget{toc16}{}
 \subsection{Animalism}
@@ -557,8 +558,8 @@ As per LotN:R. You must meet all the requirements to use mental disciplines. You
 
 
 \hypertarget{toc36}{}
+\clearpage
 \section{Character Creation}
-\tableofcontents
 
 \hypertarget{toc37}{}
 \subsection{Age and Generation}
@@ -594,7 +595,7 @@ Garou, Wraiths, Mages, Mummies, Imbued Hunters, Fae, Bete, and all the other nas
 
 \hypertarget{toc40}{}
 \subsubsection{Ghouls}
-Players who choose to play the Ghoul of another character, will receive 1 free "generation point" per month that they serve as a Ghoul. These points can only be spent for generation. Unspent generational points are lost. Players who wish to build Ghouls to pre-established players must first gain the OOC permission of their potential regnant¿s player. All ghouls are blood-bound to their regnant. All regnants must pay 1 blood point per ghoul at the beginning of game to maintain them (including NPC ghouls). Stolen Hours disallows "free" Ghouls and Ghouls with NPC regnants as playable. Players of Ghouls must have a PC Regnant.
+Players who choose to play the Ghoul of another character, will receive 1 free "generation point" per month that they serve as a Ghoul. These points can only be spent for generation. Unspent generational points are lost. Players who wish to build Ghouls to pre-established players must first gain the OOC permission of their potential regnantï¿½s player. All ghouls are blood-bound to their regnant. All regnants must pay 1 blood point per ghoul at the beginning of game to maintain them (including NPC ghouls). Stolen Hours disallows "free" Ghouls and Ghouls with NPC regnants as playable. Players of Ghouls must have a PC Regnant.
 
 \hypertarget{toc41}{}
 \subsection{Inigo Montoya}
@@ -739,11 +740,11 @@ Only a good time can assuage your otherwise empty existence
 \item[Bravo]
 You are something of a bully
 \item[Bureaucrat]
-You organize everything including the paperwork, and you¿ve got the paperwork to prove it
+You organize everything including the paperwork, and youï¿½ve got the paperwork to prove it
 \item[Caregiver]
 You seek to comfort and nurture others
 \item[Chameleon]
-You blend in with whatever group you¿re with
+You blend in with whatever group youï¿½re with
 \item[Celebrant]
 You have a passion that you are driven by
 \item[Child]
@@ -783,11 +784,11 @@ Despite a calm appearance, you surround yourself with Chaos
 \item[Fanatic]
 Your purpose consumes your existence and gives your life meaning
 \item[Follower]
-If a person is a leader, it¿s for a reason. Best to listen to them.
+If a person is a leader, itï¿½s for a reason. Best to listen to them.
 \item[Gallant]
 You are flamboyant, always seeking attention and the chance to be the brightest star
 \item[Gambler]
-It¿s all about beating the odds, and you¿ve got nothing to lose
+Itï¿½s all about beating the odds, and youï¿½ve got nothing to lose
 \item[Hedonist]
 Life is meaningless so enjoy it as long as it lasts
 \item[Idealist]
@@ -795,13 +796,13 @@ You are committed to a cause greater than yourself
 \item[Interrogator]
 It's not the answers that matter, it's the pleasure you get asking the questions.
 \item[Innovator]
-If there's a better way, you¿re trying to figure it out
+If there's a better way, youï¿½re trying to figure it out
 \item[Jester]
 Always the clown and can't take life or death seriously
 \item[Judge]
 You seek justice and reconciliation
 \item[Leader]
-Good thing you¿re around, no one else has a clue
+Good thing youï¿½re around, no one else has a clue
 \item[Loner]
 You are forever alone, even in a crowd
 \item[Loyalist]
@@ -883,7 +884,7 @@ Alluring, Elegant, Gorgeous, Magnetic, Seductive
 \item[Miscellaneous]
 Diplomatic, Empathetic, Intimidating, Friendly, Witty
 \item[Negative]
-Bestial, Callous, Condescending, Cruel, Dull, Feral, Meek, Naïve, Obnoxious, Repugnant, Shy, Tactless, Untrustworthy
+Bestial, Callous, Condescending, Cruel, Dull, Feral, Meek, Naï¿½ve, Obnoxious, Repugnant, Shy, Tactless, Untrustworthy
 \end{description}
 
 \hypertarget{toc57}{}
@@ -1078,8 +1079,8 @@ Ghouls have 6 blood traits instead of the usual 5: 3 of which are Kindred blood 
 
 
 \hypertarget{toc79}{}
+\clearpage
 \section{Guide to Virtues, Willpower, and Blood}
-\tableofcontents
 
 This document is a work in-progress meant to bring together some disparate rules into one place and offer role-playing advice. Much of this material is supplementary to LotN:R, but would be useful to read anyway for advice or just so you know how the storyteller's of Stolen Hours interpret these systems.
 
@@ -1145,8 +1146,8 @@ When a regnant dies, the thrall is aware of the death. The blood bond doesn't br
 
 
 \hypertarget{toc86}{}
+\clearpage
 \section{Teaching and Learning}
-\tableofcontents
 
 \hypertarget{toc87}{}
 \subsection{Abilities}
@@ -1223,12 +1224,12 @@ Learning time on a success in weeks. Horizontal: Discipline level. Vertical: Ins
 
 
 \hypertarget{toc92}{}
+\clearpage
 \section{Merits and Flaws}
 Merits and Flaws are described in the following way:
 
 name [cost] - Book or Description.
 
-\tableofcontents
 
 \hypertarget{toc93}{}
 \subsection{Merits}
@@ -1670,8 +1671,8 @@ As per LotN:R.
 
 
 \hypertarget{toc103}{}
+\clearpage
 \section{Clan Specific Merits and Flaws}
-\tableofcontents
 
 \hypertarget{toc104}{}
 \subsection{Clans}
