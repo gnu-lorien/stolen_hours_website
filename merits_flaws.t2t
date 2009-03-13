@@ -1,0 +1,431 @@
+
+%!target: xhtml
+%!options: -o merits_flaws.html --toc
+%!postproc: WINDOW_TITLE "Merits and Flaws"
+%!postproc: MAIN_TITLE "Merits and Flaws House Rules and Errata"
+%!include(xhtml): ''pre_main_content.html''
+Merits and Flaws are described in the following way:
+
+name [cost] - Book or Description.
+
+%%toc
+
+== Merits	==
+=== Mental ===
+: Code of honor [1] 
+As per LotH:R. This version of this merit is available to mortals only.
+: Coldly logical [1] 
+As per LotN:CG.
+: Common sense [1] 
+As per LotN:R.
+: Concentration [1] 
+As per LotN:R.
+: Higher purpose [1] 
+As per LotH:R.
+: Introspection [1] 
+As per LotN:SG.
+: Time sense [1] 
+As per LotN:R.
+: Berserker [2] 
+As per LotW:R. This merit is limited and must have Storyteller approval.
+: Code of honor [2] 
+As per LotN:R. The Code by which your character lives must be approved by a Storyteller and noted on your character sheet.
+: Eidetic memory [2] 
+As per LotN:R.
+: Light sleeper [2] 
+As per LotN:R.
+: Natural linguist [2] 
+As per LotN:R. You may purchase 2 languages for 1 experience point.
+: Calm heart [3] 
+As per LotN:R. Brujah cannot possess this merit.
+: Iron will [3] 
+As per LotN:R. You do not need to spend a willpower to gain the free retest versus Dominate. Instead of granting 3 bonus traits for use against mind affecting magics, the character gains a free retest.  This applies only to Dominate.
+: Jack of all trades [5] 
+As per LotH:R.
+
+
+=== Social ===
+: Arcane heritage [1] 
+As per LotH:R.
+: Natural leader [1] 
+As per LotN:R.
+: Prestigious sire [1] 
+As per LotN:R.
+: Debt of gratitude [1-3]
+As per LotN:R. This merit is limited and requires Storyteller approval.
+: Ecclesiastical rank [1-3]
+As per LotH:R.
+: Nobility [1-3]
+As per tLN.
+: Manse [2]
+As per tLN.
+: Nightclub [2]
+As per tSH.
+: Reputation [2]
+As per LotH:R. The social group must be specified.
+: Research grant [2]
+As per LotH:R.
+: Sanctity [2]
+As per LotN:SG.
+: Spy network [2]
+As per tLN. This merit is limited and requires Storyteller approval.
+: Top secret access [2]
+As per LotH:R. This merit is limited and requires Storyteller approval.
+: Double identity [3]
+As per LotH:R.
+: License to kill [4]
+As per LotH:R. This merit is limited and requires Storyteller approval.
+
+
+=== Physical ===
+: Acute sense [1]
+As per LotN:R.
+: Ambidextrous [1]
+As per LotN: R. This merit is limited and must have Storyteller approval.
+: Bruiser [1]
+As per LotN:CG.
+: Catlike balance [1]
+As per LotN:R.
+: Double jointed [1]
+As per LotH:R.
+: Eat food [1]
+As per LotN:R. This merit is limited and must have Storyteller approval.
+: Early riser [1]
+As per LotN:SG. This merit allows you to 'cut in line' for blood tests at sign in and has a strong impact on Downtimes.
+: Friendly face [1]
+As per LotN:CG.
+: Blush of health [2]
+As per LotN:R. This merit requires a badge to be worn denoting the merit.
+: Enchanting voice [2]
+As per LotN:R.
+: Light sleeper [2]
+As per LotH:R. This version of this merit is available only to mortals and ghouls.
+: Misplaced heart [2]
+As per tLN. This merit requires an additional static challenge on any staking attempt.
+: Resemble vampire [2]
+As per LotH:R. This merit is available only to mortals and ghouls.
+: Efficient digestion [3]
+As per LotN:R.
+: Increased pain tolerance [3]
+As per LotH:PG.
+: Poisonous blood [3]
+As per LotH:R. This merit is available to mortals only.
+: Daredevil [4]
+Works as the merit <I>Lucky</I>, although Daredevil traits may only be used if outcome will be detrimental if you fail. The Narrator or Storyteller present will determine if Daredevil is an appropriate retest. You cannot take both Daredevil and Luck. This merit is limited and requires Storyteller approval.
+: Huge size [4]
+As per LotN:R. This merit requires a badge to be worn denoting the merit
+: Long lived [4]
+As per LotH:PG. This merit is available to mortals only.
+
+
+=== Supernatural ===
+Notation - All Supernatural merits are limited and require Storyteller approval.
+
+: Bright aura [1]
+As per LotN:CG.
+: Healing touch [1]
+As per LotN:CG.
+: Inoffensive to animals [1]
+As per LotN:CG.
+: Shivers [1]
+As per LotH:R.
+: Faerie blood [1-5]
+As per LotH:R. This merit is available to mortals only.
+: Fae songs [1-5]
+As per tSH. This merit is available only to mortals. You must have the merit faerie blood before purchasing this merit.
+: Magical item [1-3]
+As per LotH:R.
+: Burning aura [2]
+As per LotH:PG.
+: Danger sense [2]
+As per LotH:R. Any attacker attempting to gain surprise must count for one additional number to gain the benefits of surprise.
+: Faerie affinity [2]
+As per tLN.
+: Magic resistance [2]
+As per LotN:R.
+: Medium [2]
+As per LotN: R.
+: Occult library [2]
+As per LotH:R.
+: Pale aura [2]
+As per LotH:R. This merit is available to mortals and ghouls only.
+: Ghost sight [3]
+As per LotH:R.
+: Kinain [3]
+As per LotH:R. This merit is available to mortals only.
+: Kinfolk [3]
+As per LotH:R. This merit is available to mortals only.
+: Oracular ability [3]
+As per LotN:R.
+: Supernatural companion [3]
+As per LotW:R.
+: Psychic/sorcerous awareness [3-4]
+As per LotH:R. This merit is available to mortals and ghouls only.
+: Spirit mentor [3]
+As per LotN:R.
+: Symbol independence [3]
+As per LotH:R. This merit is available to mortals only, and not available for purchase.
+: Destiny [4]
+As per LotH:R.
+: Easy consort [4]
+As per LotH:R.
+: Ecumenist [4]
+As per LotH:R. This merit is available to mortals only, and not available for purchase.
+: Loyalty [4]
+As per LotH:R.
+: Prophecy [4]
+As per LotH:R.
+: True love [4]
+As per LotN:R. The willpower granted by this merit cannot be used for any use of a permanent willpower, such as Aegis.
+: Unbondable [4]
+As per LotN:R. This will protect a character from Vaulderie, but will not protect that character from the Tremere clan flaw.
+: Clear sighted [5]
+As per LotH:R.
+: Innate magical ability [5]
+You have some sort of ability that makes you unique. It should not be the same as any vampiric discipline, though the power level should be equitable to an Intermediate discipline. This merit is limited and requires consultation with an ST.
+: Life giver [5]
+As per LotH:R. This merit is available to mortals only.
+: Luck [5]
+As per LotN:R.
+: Speaker with the dead [5]
+As per LotH:R.
+: Gnosis [5-7]
+As per LotH:R. This merit is available to mortals only.
+: Mysterious guardian [6]
+As per LotH:R.
+: Nine lives [6]
+As per LotN:R.
+: Fist of god [7]
+As per LotH:R. This merit is not available for purchase.
+: Regeneration [7]
+As per tSH.
+: True faith [7]
+As per LotN:R. This merit is not available for purchase.
+
+
+== Flaws ==
+=== Mental ===
+: Anachronism [1]
+As per LotH:R.
+: Compulsion [1]
+As per LotH:R. This flaw must be specified.
+: Deep sleeper [1]
+As per LotN:R.
+: Illiterate [1]
+As per LotH:R.
+: Nightmares [1]
+As per LotN:R. The player must check with an ST at the beginning of each game.
+: Prey exclusion [1]
+As per LotN:R.
+: Shy [1]
+As per LotN:R.
+: Soft hearted [1]
+As per LotN:R.
+: Speech impediment [1]
+As per LotN:R. This flaw should always be roleplayed. It should be noted that difficulties such as Tourette's syndrome are much more serious than a speech impediment and will not be accepted with this flaw.
+: Superstitious [1-3]
+As per LotE.
+: Amnesia [2]
+As per LotN:R.
+: Confused [2]
+As per LotH:R.
+: Low self image [2]
+As per LotH:R.
+: Lunacy [2]
+As per LotN:R.
+: Pack mentality [2]
+As per LotW:R. Pack may be equivalent to coterie.
+: Phobia [2]
+As per LotN:R.
+: Short fuse [2]
+As per LotN:R.
+: Territorial [2]
+As per LotN:R. This flaw may be applied to more areas than feeding grounds.
+: Thirst for innocence [2]
+As per LotN:CG.
+: Vengeful [2]
+As per LotN:R. This flaw must be specified.
+: Absent-minded [3]
+As per LotH:R.
+: Company man [3]
+As per LotH:R.
+: Driving goal [3]
+As per LotH:R. This flaw must be specified.
+: Hatred [3]
+As per LotW:R.
+: Guilt-wracked [4]
+As per LotN:CG.
+: Weak willed [5]
+As per LotN:R.
+: Flashbacks [6]
+As per LotN:SG.
+
+
+=== Social ===
+: Dark secret [1]
+As per LotN:R.
+: Infamous sire [1]
+As per LotN:R. Must wear badge.
+: Isolated upbringing [1]
+As per LotH:R.
+: Mistaken identity [1]
+As per LotN:R.
+: Sire's resentment [1]
+As per LotN:R.
+: Special responsibility [1]
+As per LotN:SG. This flaw must be specified.
+: Blackmailed [1-2]
+As per LotH:R.
+: Enemy [1-5]
+As per LotN:R. The strength of the flaw may represent not only how strong the enemy is, but how vehemently they pursue the character.
+: Guardian [1-5]
+As per LotH:PG.
+: Rebel [1-3]
+As per LotH:R. Must wear badge.
+: Dangerous secret [2]
+As per LotH:R.
+: Known to be dead [2]
+As per tLN.
+: Notoriety [2]
+As per LotH:R. Must wear badge.
+: Persistent parents [2]
+As per LotW:R.
+: Secret friendship [2]
+As per LotH:R. This flaw must be specified.
+: Ward [3]
+As per LotW:R.
+: Hunted [4]
+As per LotN:R.
+: Probationary sect member [4]
+As per LotN:R. Must wear badge.
+: Inept [5]
+As per LotW:R.
+
+
+=== Physical === 
+: Animal musk [1]
+As per LotW:R. The player must wear a badge to denote this flaw.
+: Changeling eyes [1]
+As per tSH. The player must wear a badge to denote this flaw.
+: Hard of hearing [1]
+As per LotN:R.
+: Short [1]
+As per LotN:R. The player must wear a badge to denote this flaw.
+: Smell of the grave [1]
+As per LotN:R. The player must wear a badge to denote this flaw.
+: Allergic [1-4]
+As per LotH:PG.
+: Bad sight [1-3]
+As per LotN:R.
+: Disfigured [2]
+As per LotN:R.
+: Dulled bite [2]
+As per LotN:CG.
+: Fourteenth generation [2]
+As per LotN:R.
+: Glowing eyes [2]
+As per LotN:CG. The player must wear a badge to denote this flaw.
+: One eye [2]
+As per LotN:R. The player must wear a badge or eye patch to denote this flaw.
+: Permanent fangs [2]
+As per LotN:R. The player must wear fangs or a badge to denote this flaw.
+: Vulnerability to silver [2]
+As per LotN:SG.
+: Weak sense [2]
+As per LotH:R.
+: Addiction [3]
+As per LotN:R.
+: Child [3]
+As per LotN:R. This flaw is limited and requires Storyteller approval. The player must wear a badge to denote this flaw.
+: Deformity [3]
+As per LotN:R. The player must wear a badge to denote this flaw.
+: Hemophiliac [3]
+As per LotH:R.
+: Infectious bite [3]
+As per LotN:R.
+: Lame [3]
+As per LotN:R. This flaw should always be roleplayed.
+: Lazy [3]
+As per LotN:SG.
+: Leper [3]
+As per tLN. The player must wear a badge or display appropriate roleplay to denote this flaw.
+: Monstrous [3]
+As per LotN:R. The player must wear a badge or display appropriate roleplay to denote this flaw.
+: One arm [3]
+As per LotH:R. This flaw should always be roleplayed.
+: Permanent wound [3]
+As per LotN:R.
+: Potent blood [3]
+As per LotH:R. This flaw is available to mortals and ghouls only.
+: Slow healing [3]
+As per LotN:R.
+: Conspicuous consumption [4]
+As per LotN:R
+: Deaf [4]
+As per LotN:R. This flaw should always be roleplayed.
+: Disease carrier [4]
+As per LotN:R.
+: Mute [4]
+As per LotN:R.
+: Thin blood [4]
+As per LotN:R.
+: Flesh of the corpse [5]
+As per LotN:R. The player must wear a badge to denote this flaw.
+: Infertile vitae [5]
+As per LotN:SG.
+: Blind [6]
+As per LotN:R.
+
+
+=== Supernatural ===
+: Bard's tongue [1]
+As per LotH:PG. If combined with Oracular Ability, this merit changes. Please see an ST.
+: Cast no reflection [1]
+As per LotN:R.
+: Cold breeze [1]
+As per LotN:CG. The player must wear a badge to denote this flaw and announce this flaw upon entering a room.
+: Offensive to animals [1]
+As per LotH:PG. This flaw is available to mortals only.
+: Repulsed by garlic [1]
+As per LotN:R.
+: Touch of frost[1]
+As per LotN:R.
+: Echoes [1 or 3]
+As per LotN:R. This flaw must be specified.
+: Demon hounded [1-4]
+As per tLN. The strength of this flaw may represent not only how strong the demon is, but how vehemently they pursue the character. 
+: Cursed [1-5]
+As per LotN:R.
+: Geas [1-5]
+As per LotH:PG. This flaw must be specified and requires Storyteller approval.
+: Beacon of the unholy [2]
+As per LotN:CG. The player must wear a badge to denote this flaw.
+: Bound [2]
+As per LotN:CG.
+: Eerie presence [2]
+As per LotN:R. The player must wear a badge to denote this flaw.
+: Deathsight [2]
+As per LotN:CG.
+: Lord of the flies [2]
+As per LotN:CG. The player must wear a badge to denote this flaw.
+: Magic susceptibility [2]
+As per LotH:R.
+: Surreal quality [2]
+As per tSH. The player must wear a badge to denote this flaw.
+: Can't cross running water [3]
+As per LotN:R.
+: Haunted [3]
+As per LotN:R. This flaw is unavailable until further notice.
+: Repelled by crosses [3]
+As per LotN:R.
+: Spectre meat [3]
+As per LotH:R.
+: Grip of the damned [4]
+As per LotN:R.
+: Wyrm tainted [4]
+As per LotN:R. This flaw is available to mortals only.
+: Dark fate [5]
+As per LotN:R.
+: Light sensitive [5]
+As per LotN:R.
+%!include(xhtml): ''post_main_content.html''

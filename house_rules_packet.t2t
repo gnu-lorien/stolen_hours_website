@@ -1,0 +1,43 @@
+Stolen Hours House Rules
+Andrew Sayman <lorien420@myrealbox.com>
+%%mtime(%m/%d/%Y)
+%!target: tex
+%!options: --toc --toc-level=6
+
+%%toc
+
+
+= Introduction =
+This is meant as a guide to the house rules and errata for Stolen Hours. It offers modifications and clarifications to rules published by White Wolf Publishing in various sources.
+
+
+= Combat =
+%!include(tex): combat.t2t
+
+
+= Abilities =
+%!include(tex): abilities.t2t
+
+
+= Disciplines =
+%!include(tex): disciplines.t2t
+
+
+= Character Creation =
+%!include(tex): creation.t2t
+
+
+= Guide to Virtues, Willpower, and Blood =
+%!include(tex): guide_to_virtues_willpower_and_blood.t2t
+
+
+= Teaching and Learning =
+%!include(tex): teaching.t2t
+
+
+= Merits and Flaws =
+%!include(tex): merits_flaws.t2t
+
+
+= Clan Specific Merits and Flaws =
+%!include(tex): clan_merits_flaws.t2t

@@ -1,0 +1,20 @@
+
+%!target: xhtml
+%!options: -o houserules.html
+%!postproc: WINDOW_TITLE "House Rules"
+%!postproc: MAIN_TITLE "House Rules"
+%!include(xhtml): ''pre_main_content.html''
+
+- [Character Creation creation.html]
+- [Ghouls pc_ghoul_creation.html]
+- [Abilities abilities.html]
+- [Combat combat.html]
+- [Teaching and Learning teaching.html]
+- [Guide to Abbreviations abbrev.html]
+- [Guide to Virtues, Willpower, and Blood guide_to_virtues_willpower_and_blood.html]
+- [Downtimes Guide downtimes.html]
+- [Disciplines disciplines.html]
+- [General Merits and Flaws merits_flaws.html]
+- [Clan Specific Merits and Flaws clan_merits_flaws.html]
+
+%!include(xhtml): ''post_main_content.html''

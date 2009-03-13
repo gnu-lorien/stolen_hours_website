@@ -1,0 +1,69 @@
+
+%!target: xhtml
+%!options: -o teaching.html -H --toc
+%!postproc: WINDOW_TITLE "In Character Info"
+%!postproc: MAIN_TITLE "In Character Info"
+%!include(xhtml): ''pre_main_content.html''
+
+%%toc
+
+== Theme and Mood ==
+Coming soon!
+
+
+== Feeding Grounds ==
+These are the places in which your character is officially allowed to feed if you are a member of the listed clan. They are in descending order of which clan is currently getting the most blood.
+
+: Clan Gangrel
+City of Perry
+
+Bleckley County
+
+Twiggs County
+
+Macon: Ward 1 North
+
+: Clan Nosferatu
+Peach County
+
+Washington County
+
+Morgan County
+
+: Clan Toreador
+Greene County
+
+Hancock County
+
+Macon: Ward 1 South
+
+Macon: Ward 3 North
+
+: Clan Brujah
+Monroe County
+
+Crawford County
+
+Macon: Ward 3 South
+
+: Clan Ventrue
+City of Dublin
+
+Johnson County
+
+: Clan Tremere
+Wilkinson County
+
+Macon: Ward 5
+
+: Clan Malkavian
+Jasper County
+
+Putnam County
+
+
+== News Articles ==
+Coming soon!
+
+
+%!include(xhtml): ''post_main_content.html''

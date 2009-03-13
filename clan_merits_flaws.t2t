@@ -1,0 +1,181 @@
+
+%!target: xhtml
+%!options: -o clan_merits_flaws.html --toc
+%!postproc: WINDOW_TITLE "Clan Specific Merits and Flaws"
+%!postproc: MAIN_TITLE "Clan Specific Merits and Flaws House Rules and Errata"
+%!include(xhtml): ''pre_main_content.html''
+
+%%toc
+
+== Clans ==
+Only members of the listed clan may take selections from those clan's listings.
+
+
+=== Assamites ===
+: Unbroken ""[3 Flaw]""
+For whatever reason, the Tremere curse was stronger in you than in most of your clanmates. This was no great liability while all of you were so afflicted. However, when ur-Shulgi cast the Breaking, the great ritual's power did no fully cleanse you. You now share your caste's thirst for Cainite blood -- but for you, the very substance you crave is still a poison. You take one health level of lethal damage for every Blood Trait of non-Assamite blood you ingest, though these Blood Traits do enter your Blood Pool after the damage is inflicted. You may not use Fortitude powers or other supernatural abilities to reduce this damage. You gain one free retest on every Self-Control challenge dealing with the warrior caste flaw. If you are a sorcerer or vizier, this Flaw is worth one additional point (for a total of 4), but you gain the warrior caste's addiction in addition to your own caste's weakness.
+
+
+=== Brujah ===
+: Compassionate ""[3 Merit]""
+You have the moral character of the Brujah of old, the proud warrior-poets who did what they did because their hearts called to them. The player must spend one temporary Willpower Trait to attempt a retest, which is treated as if it were one level higher on the Hierarchy of Sins. The player must accept the results of the second test.
+: Dynamic personality ""[5 Merit]""
+People are drawn to you, due to some characteristic appeal you exude. You may purchase more Backgrounds with Experience Traits. When the player purchases Traits in Allies, Contacts, Herd or Retainer, he may gain two Background Traits per Experience Trait spent.
+: Obvious predator ""[2 Flaw]""
+Either your face or your immediate disposition lets people know that you nothing good in store for the, Mortals react poorly to people who exude such a blatant air of menace. This flaw is largely a matter of roleplaying. A player who chooses this Flaw must wear a card of other item that identifies him as an Obvious Predator. Kindred with this Flaw lose all ties in social challenges with mortals. Obvious Predator does not inflict a penalty upon Intimidation-related challenges.
+: Uncontrollable ""[4 Flaw]""
+Rage and passion constantly war in the soul of a volatile Brujah. Perhaps you were ill tempered before the Embrace, or perhaps your Brujah lineage awakened some latent fury. In any case, even more so than your clanmates, you are prone to frenzy. You always lose on ties in attempts to resist frenzy.
+
+
+=== Caitiff ===
+: Personal masquerade ""[3 Merit]""
+You have convinced a clan that you are one of them. They have already accepted you, but you need to be sure they never learn the truth.
+: New bloodline ""[7 Merit]""
+The random disciplines you carry as a Caitiff will carry on to all of your childer, and to theirs as well. Essentially, you've created your own bloodline.
+: Clan weakness ""[3 Flaw]""
+You have gained the clan weakness of one of the clan that possesses a discipline that you also possess.
+
+
+=== Gangrel ===
+: Ruse of the wolf's clothing ""[2 Merit]""
+While in animal form, you have a form of 'Blush of Health' that allows you to pass as the living form of that animal. Other animals will accept you as just another one of them and Garou are unable to detect the wyrm in you unless you have three or fewer Humanity traits.
+
+
+=== Giovanni ===
+: Consanguineous resistance ""[1 Merit]""
+Your character cannot be blood bound by anyone who shares his mortal bloodlines. That is, if you were born into the Gioanni family, you cannot be bound by anyone else who was born a Gionanni, though you can still be bound by Pisanob of the Giovannia clan or by Kindred of any other clan. Similarly, a Dunsirn with Consanguineous Resistance could not be bound by others who were born into the mortal Dunsirn family, but could be bound be a Milliner of the Giovanni clan (for instance). As described above, you cannot be bound by anyone from your own mortal patria-lineage.
+: Proxy kissed ""[4 or 8 Merit]""
+Before the Embrace, you received the traditional Giovanni Proxy Kiss. Other members of your clan tend to be more comfortable that you were Embraced in the "proper Giovanni fashion." You begin play with a partial bloodbond to one other Giovanni Kindred. You gain the basic Potence level Prowess in addition to your others Disciplines, and you can purchase the first Intermediate level with your starting Discipline levels at character creation. If you choose the eight trait version of this merit, you come into play with partial bonds to two Giovanni Kindred or a full bond to one, and you also gain the Basic Fortitude Discipline Endurance. The Flaw Bound must be taken for no additional points.
+: Sanguine incongruity ""[5 Merit]""
+Giovanni with this atavism are few and far between -- fewer than a dozen reported instances have occurred since the clan rose from the ashes of the clan that preceded them. Kindred possessing it do not bear the Curse of Lamia; their Kiss causes no more damage than the blood loss itself. These vampires acquire a peculiar pallor upon Embrace, however -- they look like corpses, and no amount of blood ingestion can flush their features (as other vampires are able to do). Giovanni with this Merit are afforded a wide berth, as the Giovanni tend to be quite superstitious about it. Your peculiar appearance gives you a one-Trait resolution penalty on all Social challenges relying on Appearance-related Traits. However, you do not suffer from the normal Giovanni disadvantage.
+: Inbred ""[1 -5 Flaw]""
+For one Trait, you suffer a one-Trait resolution penalty on Social challenges, because you have an unwholesome or flawed physical appearance. For three Traits, you suffer this penalty and also a one-Trait resolution penalty on Physical challenges due to congenital health defects. For five Traits, you suffer from an effect equivalent to one other Flaw or Derangement chosen by the Storyteller in addition to the previous hindrances. Bring a banjo.
+: Shadow walker ""[6 Flaw]""
+You are fully subject to the Shadowlands and the ghosts there. Ghostly architecture blocks you and wraithly attacks can injure you. You can't actually see the Underworld without the use of other powers, but you can be impeded by it. When and whether this occurs is a matter for Storyteller discretion, but it can be quite a hindrance. Once per game session, one attempted action will fail automatically due to ghostly interjection. However, retests and overbids may be used as normal.
+
+
+=== Lasombra ===
+: Ther sense ""[1 Merit]""
+This acumen is very much prized among seafaring Lasombra. A few sires manage to pass on its intricacies to their childer. You subconsciously sense impending bad weather. The Storyteller makes a Perception + Survival roll (difficulty 7) on your behalf to give up to several hours- notice of storms and other weather problems before they manifest. Make a Static Mental Challenge against seven Traits for advance warning of bad weather.
+: Controllable night sight ""[2 Merit]""
+You can choose to invert the effects of light and darkness on yourself. Spend one turn in concentration to turn Night Sight on or off, plus one per each health level of injury you currently suffer. While Night Sight is active, pitch-black darkness seems brightly and uniformly lit to you, while any light brighter than a hundred-watt bulb creates a zone of pure darkness. The penalties for partial darkness instead apply to weak illumination. This Merit doesn-t allow you to see through Obtenebration-created darkness, which glows with pure white light that obscures all details.
+: Pelagic harmony ""[3 Merit]""
+Being close to the sea clams you and reinforces your self-control. You receive a 1 Trait Bonus to Willpower Tests while on or within sight of the sea.
+: Poseidon-s call ""[1 Flaw]""
+Your self-control varies with the weather. In Calm weather, receive a +1 Trait bonus to virtue tests to resist a frenzy, a - 1 Trait penalty in rough seas and thunderstorms, and a -2 Trait penalty in hurricanes and other particularly severe storms.
+: Pelagic compulsion ""[2 Flaw]""
+You become increasingly agitated when on land. Suffer a -1 Trait penalty on Willpower tests when you-ve been away from the sea for 24 hours or more.
+: Death's reflection ""[3 Flaw]""
+You cast a reflection normally which would cancel out the clan weakness - except that your reflection always shows the state that you-d be in if you were dead. Any Lasombra more than a few decades old looks in reflection like an ambling skeleton. Younger vampires appear as rotting corpses. Wear a card that indicates your condition to others.
+
+
+=== Malkavian ===
+: Benevolent blood ""[1 Merit]""
+Your blood still carries the Curse of Malkav, but its effects have been lessened just a little bit. Any ghouls you create suffer none of the usual deranging side effects of drinking Malkavian blood. They can be loaded to the gills with your blood and not come one step nearer to gaining a derangement. (They might still be driven insane by life with you, though, depending on how demanding your reality is.) Of course, any childer you Embrace will still gain a derangement after the Embrace as usual -- although your vitae is easily diluted by mortal blood, the pure stuff carries the Curse as one would expect.
+: Immaculate aura ""[1 Merit]""
+Whether because of your iron control or some fluke of chance, your aura does not give away your insanity. The aura doesn't shift or swirl at all, even when you're confused, frenzied or in a psychotic fit. Any other use of Aura Perception works as normal. This merit simply removes the madness swirls from the aura of a Malkavian.
+: Deadened nerves ""[4 Merit]""
+Whether is was a condition you held in life or an odd side effect of the Embrace, your nervous system is missing a few connections. You have very little tactile sense, whether pleasure or pain. The downside of this is obvious: One of your senses is greatly impaired, which can keep you from noticing important warnings (a blade at your back, for instance... Or in it.) However, your deadened nerves also protect you from pain, allowing you to ignore your wounds until your flesh is literally blasted from your bones. Bruised characters with this Merit have their full Trait levels for all tied challenges. When Wounded, they need not risk additional Traits to attempt challenges, although they still automatically lose tied challenges. This merit requires ST approval. If a Malkavian with this Merit is involved in combat, the ST or Narrator need not tell the player how much damage they have taken as the Malkavian would not necessarily know.
+: Disembodied mentor ""[5 Merit]""
+The voices in your head may tell you things, but by God, they're useful things. You have a personal guide and advisor (bought as usual through the Background: Mentor) who exists largely in your own skull. He may have been a Malkavian who uploaded himself into the Network, or perhaps he's an imaginary construct with access to the shared memories of the clan. Either way, it's exceedingly hard for your enemies to cut you off from your mentor's counsel, and it's usually pretty easy to call on his advice when you need it. Unfortunately, this Merit also has its drawbacks; your mentor can find you whenever he chooses, and can be a real distraction when you're trying to do something he finds irrelevant. You're not freed from the obligations of your relationship, either; you find yourself running errands for your mentor just as often as any other pupil would, if not more so. Note: any Players who attempt to powergame this merit by insisting on having their own personal -pet ST- to follow around and answer questions for them throughout a game will be squashed. Use your disembodied mentor sparingly and remember, do not taunt happy fun ball.
+: Sympathetic bond ""[5 Merit]""
+For whatever reason, you unconsciously cause a peculiar supernatural form of feedback through the links of the blood bond. Although you're not immune to being blood bound (and cannot take the Merit: Unbondable), if you do become bound to someone, your regnant also becomes blood bound to you to an equal extent. Even if she was already blood bound to another, she now has the unenviable position of being thrall to two vampires at once. This can obviously lead to some unplanned and quite twisted codependent relationships.
+: Stigmata ""[2-4 Flaw]""
+You constantly seep blood from phantom wounds; even though your flesh remains unbroken, you bleed. The bleeding is fairly slight, but incessant, costing you an extra blood point each evening (marked off just before dawn). The 2-trait version of this flaw gives you a one-trait penalty on Social challenges; and the 4-trait version if this flaw indicates that you bleed from your eye-sockets. This obviously makes it almost impossible to travel within human society unveiled, and very much disturbs other Cainites increasing the penalty for Social challenges to two traits, and causing a one-trait penalty to visual perception challenges besides.
+: Infectious ""[3 Flaw]""
+Your bite transmits the madness of your clan. Whenever you feed from a mortal, the power of the Kiss holds them in place as normal. However, your mortal prey may gain a temporary derangement from the transmission of blood. The madness lasts for a week or so for each blood trait taken. Malkavians with this Flaw are often the ones you hear about infesting asylums. It's the most low-key place for them to feed. When a Malkavian with this Flaw feeds, she makes a static test with the Narrator or Storyteller to determine if a derangement transfers into the victim.</P></
+
+
+=== Nosferatu ===
+: Lizard limbs ""[1 Merit]""
+By burning a Blood trait and a Willpower trait, you can shed one of your limbs. You can do this for as much blood and Willpower as you're willing to sacrifice. You gain a Physical Flaw appropriate to the appendage lost, and must roleplay the deformity until the limb grows back.
+: Long fingers ""[1 Merit]""
+You gain the Physical trait Dexterous, and a one-Trait bonus in all challenges involving manual dexterity.
+: Oversized fangs ""[1 Merit]""
+Gain two bonus Traits useful in any biting attack.
+: Piscine ""[1 Merit]""
+Gain a bonus trait during any challenge related to swimming or movement through water. This trait is available to you only when you are at least chest-deep in water.
+: Slimy ""[1 Merit]""
+Gain two bonus traits when someone is trying to grapple you.
+: Gaping maw ""[1 Merit]""
+You can drain an extra Blood trait per round.
+: Sleep unseen ""[2 Merit]""
+Spend an extra Blood trait (in addition to any required by Obfuscate) before laying down to sleep.
+: False reflection ""[3 Merit]""
+Spend a Mental trait for each use of this (beyond any expenditure for Mask of 1000 faces -- so that's one Trait for your voice, one for your reflection, etc.) per camera or recording device.
+: Foul blood ""[3 Merit]""
+After biting or feeding from you, the victim must make a Simple Test to avoid becoming nauseated for a full scene; no spending Willpower to avoid the test (it tastes that bad). If the victim becomes nauseated, he suffers a one-Trait penalty on all Physical Challenges. This makes blood bonds torturous, the Embrace becomes even more difficult, and ghouling is near impossible.
+: Reptile buddy ""[3 Merit]""
+Your reptilian sidekick is considered to have the following: 7 Physical traits, 0 Social traits, 2 Mental traits. Fortitude (Endurance, Mettle) and Potence (Prowess, Might). It has 12 blood and 3 Willpower. The reptile understands your native language perfectly, and is capable of following complex orders. This merit is limited, requires an approved history and Animalism: Quell the Beast.
+: Patagia ""[4 Merit]""
+You can't actually fly or hover with this Merit, only glide like a flying squirrel on flaps of leathery skin that stretch from under your arms and down you sires. You may not carry passengers and only personal items may travel with you. Furthermore, you need wind to carry you, and if there's none, you drop like a stone so don't even think about using this indoors. You may glide at normal walking speed.
+: Tough hide ""[4 Merit]""
+You have an additional Bruised Health level.
+: Blunt fangs ""[1 Flaw]""
+You need to make an extra Physical Challenge in order to get your teeth in your victim. Your dulled bite does a level of damage to your victim for each Blood Trait you acquire.
+: Stench ""[1 Flaw]""
+Lose all ties related to stealth automatically with this Flaw. It's pretty hard to sneak up on someone when he can smell you coming. Please do not neglect personal hygiene to roleplay this Flaw. Just wear a badge.
+: Anosmia ""[2 Flaw]""
+From the reek of spoiled milk to the delicture perfume of a magnolia in bloom, from the tang of blood on your tongue to the memory of your last martini, the world of smell is gone to you.
+: Withered leg ""[3 Flaw]""
+Gain the Negative Traits Lame x3 (but no benefits from it), and you fail any challenges that require two good legs, such as running or dancing. This flaw should be roleplayed.
+: Parasitic infection ""[4 Flaw]""
+When you go into play at the beginning of the evening, make the usual vitae test. Once you learn your level of vitae, make four Simple Tests -- each loss or tie indicates a Blood Trait lost to your parasites. You suffer a one-Trait penalty during Self-Control tests. Roleplay the constant itching the parasites give you. Also, wear a tag to indicate to onlookers that your skin is quite literally crawling.
+: Putrescent ""[4 Flaw]""
+Whenever you take damage, make a Static Test to see if one level of the damage becomes aggravated due to your accelerated decay. You stink horribly, as well, and should wear a tag to indicate this stench. Unmasked, you appear as a rotting, decaying corpse from an Ed Wood movie.
+: Traitor ""[4 Flaw]""
+Oh, you're a bastard alright, and if the other Nosferatu find out about this, they'll kill you on sight. You've been leaving information through a designated drop point about your alleged allies. You must betray secrets about your allies, most typically your coterie, every game session. At the end of the session, your traitorous actions must be reported to the Storytellers. If you haven't been enough of a bastard, one of your secrets may just make its rounds on the local information networks.
+: Incoherent ""[5 Flaw]""
+Maybe your tongue fell out during the Embrace, or your vocal cords are atrophied from disuse. For whatever reason, you just can't speak clearly. You may use sign language to communicate with others, write down what you wish to say, or resort to a series of grunts and clicks. This flaw must be roleplayed.</P></
+
+
+=== Ravnos ===
+The Ravnos Bloodline possesses no available Merits or Flaws.
+
+
+=== Toreador ===
+: Controllable thirst ""[1 Merit]""
+In order to promote your social graces, you are required to be surrounded by a multitude of mortals. One slip would be your most disastrous mistake. Whenever you are resisting a frenzy due to the sight, smell or taste of blood, you gain a free retest.
+: Blas&eacute; ""[3 Merit]""
+You are not easily impressed. You-ve seen the best, and all the rest are sorely lacking. Gain a free retest against all challenges designed to impress you (including some Presence powers).
+: Greater colors ""[3 Merit]""
+You can see colors in a light unlike any others. You are up five traits in any aura perception test against any target. You may only use this merit against a specific target once per night but may do it to as many targets as you deem necessary.
+: Poor taste ""[1 Flaw]""
+You wouldn't know Monet from a second grader. Because of this you are subject to the Toreador clan weakness for all performances of level two or higher instead of three.
+
+
+=== Tremere ===
+: Attuned taste ""[2 Merit]""
+You've got a natural instinct for the flavors in blood. When you taste blood, you can tell if the blood is from a vampire, and you can automatically taste its potence (generation). There is no test or cost. If the blood is not from a vampire, you only know that -- you cannot specifically tell Lupine or faerie blood from human blood without other testing methods.
+: Bound to the council ""[3 Flaw]""
+Whenever you want to do something that violates the commands of the Tremere hierarchy, you must expend a Willpower Trait. Your actions will be highly constrained, you may be thrust into unpleasant situations against your will, and you'll be in a world of hurt if you ever manage to get past the bond.
+: Double betrayer ""[4 Flaw]""
+You have the mark of the Betrayer. A tag must be worn when in the presence of other Tremere. You are two traits down on all Social challenges with the other Tremere. Because you're an expatriate of the Sabbat, though, you don't know enough up-to-date signs and codes to pass yourself off as a member. In short, you screwed up and you're going to pay for it forever.
+: Thaumaturgically inept ""[5 Flaw]""
+Your character finds Thaumaturgy to be his worst subject. As a result, this adds one Trait to the difficulty of any static test and adds five minutes to the casting time of any effect (because you're fumbling with the words, you misdrew the circle, etc). You are one Social trait down on resolution of challenges when dealing with Tremere of higher ranks than you are.
+
+
+=== Tzimisce ===
+: Pain tolerance ""[2 Merit]""
+Your body is hardened to pain, possibly because your nerves just don't convey these adverse feelings or simply because you've experienced suffering and torture beyond comprehension and it has pushed you beyond the average tolerance. As such, you ignore penalties at the Bruised health levels.
+: Dracon's temperament ""[3 Merit]""
+At the start of each game session, you may choose a new Nature. However, the Storyteller may, at his leisure, call you over and swap your present Nature for a new one to act out.
+: Haven affinity ""[3 Merit]""
+You must first spend a Mental trait and engage in a simple challenge with the Storyteller. If successful, you will earn a bonus Trait in all challenges initiated within your haven.
+: Revenant disciplines ""[3 Merit]""
+You must first clear the heritage of your Revenant family with the Storyteller before purchasing this merit. At character creation, take the three innate Disciplines of your revenant family instead of those of the Tzimisce. Any Discipline not of your revenant family, even ones passed on through the blood of the Tzimisce, must be purchased as out of clan.
+: Ancestral soil dependence ""[2 Flaw]""
+Your dependence on the magically rich and diseased soil of Eastern Europe is so severe that, until you are in possession of two handfuls, you will suffer a two-Trait penalty to all challenges.
+: Scarface [2-4 Flaw]
+You-re a walking mass of overlapping scar tissues. Your Cainite healing is effective, yet flawed. Every closed wound grows scar tissue. Vicissitude use on these scars only aggravates the scarification. As a 2 point Flaw, you suffer the negative Social trait Scarface x2 that must be open and notoriously presented on a badge. As a 3 point Flaw, your Social traits may never exceed five Traits, and as a 4 point Flaw, you suffer the negatives of the lesser levels as well as suffering a one Trait penalty to all Physical challenges.
+: Revenant weakness ""[3 Flaw]""
+You suffer both the weakness of your clan as well as your revenant family limitation. You suck.
+: Consumption ""[5 Flaw]""
+When testing for blood at the beginning of each game session, you suffer a level of bashing damage that can only be healed by ingesting mortal flesh, enough to replace the fleshy tissue depleted from your body as a result of this Flaw. You cannot pre-empt the effects of these corrosive bacteria by ingesting human flesh before the damage is taken; without the Eat Food merit, you will vomit out this flesh like any other food.
+
+
+=== Ventrue ===
+: Paragon ""[6 Merit]""
+The embrace has awakened within you an aspect that others find compelling. You may exceed your normal generational limit by one in the following areas: Allies, Clan Prestige, Status, Contacts, Fame, Herd, Retainers, Resources, Influence, Mentor.
+
+%!include(xhtml): ''post_main_content.html''

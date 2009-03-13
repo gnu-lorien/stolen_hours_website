@@ -1,0 +1,55 @@
+
+%!target: xhtml
+%!options: -o abbrev.html
+%!postproc: WINDOW_TITLE "Book Abbreviations"
+%!postproc: MAIN_TITLE "Guide to Book Title Abbreviations"
+%!include(xhtml): ''pre_main_content.html''
+== Guide to Reference Abbreviations ==
+: DETG
+Dark Epics Theatre Group
+: LotN
+Laws of the Night
+: LotN:R
+Laws of the Night: Revised
+: LotN:CG
+Laws of the Night: Camarilla Guide
+: LotN:SG
+Laws of the Night: Sabbat Guide
+
+: LotN:StG
+Laws of the Night: Storyteller's Guide
+: LoE
+Laws of Elysium
+: LdG
+Liber des Ghouls
+: LotH
+Laws of the Hunt
+: LotH:R
+Laws of the Hunt: Revised
+: LotH:PG
+Laws of the Hunt: Players Guide
+
+: tLN
+The Long Night
+: LotW
+Laws of the Wild
+: LotW:R
+Laws of the Wild: Revised
+
+: LotWW
+Laws of the Wild West
+: OBV
+Oblivion
+: tSH
+The Shining Host 
+: LotE
+Laws of the East
+: MET:J#
+M.E.T. Journal (insert issue number)
+: CB:"X"
+Clanbook: "X"
+: LoA
+Laws of Ascension
+: DE
+Dark Epics
+%!include(xhtml): ''post_main_content.html''

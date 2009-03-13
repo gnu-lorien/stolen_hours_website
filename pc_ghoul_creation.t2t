@@ -1,0 +1,102 @@
+
+%!target: xhtml
+%!options: -o teaching.html -H --toc
+%!postproc: WINDOW_TITLE "PC Ghouls"
+%!postproc: MAIN_TITLE "PC Ghoul Character Creation, Errata and Exceptions"
+%!include(xhtml): ''pre_main_content.html''
+
+%%toc
+
+This page is deprecated and not being used. It's mainly here for historical reasons and as a good summary of Laws of the Hunt.
+
+In general, ghoul character creation follows the same except when specifically noted below. These rules are primarily inspired by Laws of the Hunt.
+
+
+== Caveat Emptor ==
+The following rules only apply to a ghoul that is three-points blood bound to a Regnant. If something should happen to their regnant, they are fully dependent upon Kindred blood for survival. Assuming they do not age to death when running out of blood, they will lose access to all of their supernatural powers and immediately return to starts for normal mortals.
+
+In many ways, PC ghouls are more powerful than PC vampires. They can walk during the day. They still have access to disciplines. It should never be forgotten that they take damage in a way wholly different from Kindred. Aggravated damage will destroy limbs permanently, and lethal leaves you bleeding to death.
+
+PC ghouls are also susceptible to disease and must consider the consequences of things like following a Nosferatu into his sewer haven. They will get tired and take penalties from exhaustion. While there are many nifty gifts, there are many ways to lose it all that does not normally come into play for Kindred.
+
+
+== Blood Pool ==
+Ghouls have a maximum blood pool of 10, and may only spend up to 9 of those blood traits at a rate of 1 per turn. The amount of blood available to be spent is determined by how much blood they have received from their regnant. Vitae does not refresh in any other way.
+
+If the last blood point in a ghoul's body is drained, they are effectively no longer a ghoul and immediately suffer the effects of having not been fed properly even if they are rescucitated from this state.
+
+It should be noted that "spending blood" doesn't reduce the amount of blood in a ghoul's body. They are expending the supernatural properties of the blood rather than physically using it up. Only bleeding and other powers that target blood directly will otherwise take blood from their bodies.
+
+
+== Maximum Traits ==
+The maximum traits for a ghoul are determined by their age when they become a ghoul. There are three categories: Young (13 - 19 years old), Peak (20 - 65 years old), and Old (65 years of age and older).
+
+: Attributes
+|| Age  | Mortal | Ghoul  |
+| Young |     9  | 10     |
+| Peak  |    12  | 13     |
+| Old   |     6  | 7     ||
+: Willpower
+|| Age  | Mortal | Ghoul  |
+| Young |     6  | 8      |
+| Peak  |     8  | 9      |
+| Old   |     9  | 10    ||
+: Humanity
+|| Age  | Mortal | Ghoul  |
+| Young |     4  | 4      |
+| Peak  |     5  | 4      |
+| Old   |     5  | 4     ||
+
+
+Upon embrace, a ghoul's maximum traits become determined by their Generation. When this happens, they are refunded xp for the additional traits that are lost. They do not lose any negative physical traits that were gained through disease, damage, or other effects.
+
+
+== Disciplines ==
+Each ghoul starts out with either //Swiftness//, //Prowess//, or //Endurance//. From then on, they must be taught any other levels from their regnant. The regnant must possess a discipline at least one level above what he wishes to teach, and may only teach one of the cardinal 8 disciplines (__Celerity__, __Fortitude__, __Potence__, __Animalism__, __Presence__, __Dominate__, __Auspex__, and __Obfuscate__).
+
+In addition, the costs for these disciplines is higher for a ghoul. This cost also increases the learning time, which may be lowered normally by usage of __Instruction__. Also, ghouls may only learn up to a specific level depending upon the generation of ther regnant.
+
+|| Category    | Cost | Generation |
+|     Basic    |  6   |    <= 11   |
+| Intermediate |  12  |    <= 10   |
+|   Advanced   |  18  |    >= 9   ||
+
+Note that while the ghoul of a 9th generation regnant may learn an Advanced disciplines, they must still be taught by someone who possesses the Elder level. They also may not learn an Advanced level until they are of sufficient age that failing to drink Kindred vitae would kill them.
+
+If a ghoul is embraced, they are refunded the price difference between the disciplines as a ghoul, and as a vampire.
+
+
+== Damage ==
+
+
+=== Bashing ===
+Bashing damage generally cannot kill a ghoul and will only leave them bruised and in pain. When a ghoul reaches incapacitated from bashing damage they are knocked unconscious for ten minutes. Any further damage wraps as lethal.
+
+
+=== Lethal ===
+Lethal damage will quickly kill a mortal. Once they have been wounded by lethal damage, they will lose 1 point of blood and take another health level of lethal damage every 10 minutes. 
+
+If a mortal is incapacitated by lethal damage, they are considered mortally wounded. At this point, they cannot regain consciousness normally and lose a physical trait every ten minutes. When their physical traits are gone, the mortal has died.
+
+Only spending Vitae or successful usage of the __Medicine__ (Wound Level) can successfully stabalize a ghoul in this state. If the wounds are not recovered supernaturally, hospitalization is required to successfully recover from this level of damage.
+
+
+=== Aggravated ===
+In addition to using the above rules for lethal damage, aggravated has an extra kick. Each time a ghoul takes aggravated damage, he must make a simple test against his current wound level using __Survival__ as a retest. If he fails this test, he will instantly take a negative physical trait of //Lame// or //Decrepit// and some permanent injury appropriate to the damage source. Whether these can ever be healed fully is entirely up to the storyteller.
+
+
+=== Killing Blow ===
+One may attempt at any time to deliver a killing blow against a mortal. They must bid two additional traits and successfully strike their opponent in a opposed challenge appropriate to the type of a attack. If successful, and the attack does damage, the aggressor then makes two simple tests. If they win both outright, the mortal is dead.
+
+When using a killing blow, you must accept a pummel party from the defender if requested.
+
+//Aegis// may block the killing blow, but must be used before the two simple tests.
+
+
+== Multiple Regnants ==
+A ghoul may only have one regnant at a time. Any other blood bonds are considered to have no effect on their supernatural capabilities. The only way to change regnants is for the original blood bond to fade.
+
+Until this supernatural love and compassion is gone, the ghoul will still reflect that original regnant, no matter how much their new, would-be Kindred master has fed them.
+
+
+%!include(xhtml): ''post_main_content.html''

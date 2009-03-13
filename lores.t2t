@@ -1,0 +1,59 @@
+
+%!target: txt
+%!options: -o lores.html
+%!postproc: WINDOW_TITLE "Lores"
+%!postproc: MAIN_TITLE "Lores House Rules and Errata"
+%!include(txt): ''pre_main_content.html''
+<FONT FACE="Arial" SIZE=2><BR><P ALIGN="JUSTIFY">
+The ability of lores represents specialized secret knowledge within the World of Darkness. If a character possesses even a single level of a particular lore, he possesses knowledge that is rarified and hidden under layers of misinformation, denial, and myth. GA:SH recognizes five levels of lore.</P>
+<P ALIGN="JUSTIFY"></P>
+<B><P ALIGN="JUSTIFY">Lore x1: Student</B>: At this level of the lore, you have discovered a few kernels of truth. You know enough to know two things: you realize the subject of study does, indeed, exist (despite the best intentions to keep it repressed) as well as realizing how much you truly do NOT understand about the subject.</P>
+<P ALIGN="JUSTIFY"></P>
+<B><P ALIGN="JUSTIFY">Lore x2: Initiate</B>: At this level, you have progressed to understanding basic systems and procedures of the topic. No longer merely an annoyance to the topic group, you now constitute a legitimate threat.</P>
+<P ALIGN="JUSTIFY"></P>
+<B><P ALIGN="JUSTIFY">Lore x3: Scholar</B>: At this level you are dedicated to study, and/or developing an obsession for the topic. You begin to use topical lexicon in common discussion, and are considered a creature to go to for answers on this topic.</P>
+<P ALIGN="JUSTIFY"></P>
+<B><P ALIGN="JUSTIFY">Lore x4: Expert</B>: You are a living library of information on the topic. Undoubtedly, you have survived more than a few assassination attempts by the topic.</P>
+
+<P ALIGN="JUSTIFY"></P>
+<B><P ALIGN="JUSTIFY">Lore x5: Authority</B>: Total knowledge.</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">An incomplete list of possible Lores include:</P>
+<P ALIGN="JUSTIFY"></P><DIR>
+<I><P ALIGN="JUSTIFY">Lupine Lore</I>: Knowing that throwing a stick and shouting FETCH tends not to distract the werewolves. Milkbones, however, may.</P>
+<P ALIGN="JUSTIFY"></P>
+<I><P ALIGN="JUSTIFY">Kindred Lore</I>: Vampiric Anatomy, rare disciplines, vampiric history, vampiric legends</P>
+
+<P ALIGN="JUSTIFY"></P>
+<I><P ALIGN="JUSTIFY">Vampire Lore</I>: Discerning the truth between fact and fiction regarding vampires</P>
+<P ALIGN="JUSTIFY"> </P>
+<I><P ALIGN="JUSTIFY">Camarilla Lore</I>: How the sect works, celebrities within the sect, sect history</P>
+<P ALIGN="JUSTIFY"></P>
+<I><P ALIGN="JUSTIFY">Wraith Lore</I>: Knowing the difference between Casper and Slimer. Wraithly conjecture, ghostly philosophy, etc.</P>
+<P ALIGN="JUSTIFY"></P>
+<I><P ALIGN="JUSTIFY">Sabbat Lore</I>: How the sect works, celebrities within the sect, sect history, etc.</P>
+
+<P ALIGN="JUSTIFY"></P>
+<I><P ALIGN="JUSTIFY">Hunter Lore</I>: Who hunts the hunters? How do they work? What do they use? Who are they?</P>
+<P ALIGN="JUSTIFY"></P>
+<I><P ALIGN="JUSTIFY">Sewer Lore</I>: How to navigate the sewers, knowing the signs to look for, finding the warrens, how the sewers work, knowing what trash is common down there, and what¿s odd, etc (<B>Nosferatu characters get a level of sewer lore for free at character generation</B>)</P>
+<P ALIGN="JUSTIFY"></P>
+<I><P ALIGN="JUSTIFY">Clan Lore</I> (i.e. Ventrue Lore, Gangrel Lore, etc): Inner clan politics, organization, myths, and history</P>
+<P ALIGN="JUSTIFY"></P>
+<I><P ALIGN="JUSTIFY">Infernal Lore</I>: Deal with the devil and sing his sweet song. How do the servitors of evil deal with foul monsters? What is the goal of the Enemy? What secrets are worth slivers of your soul?</P>
+
+<P ALIGN="JUSTIFY"></P>
+<I><P ALIGN="JUSTIFY">Changeling Lore</I>: Knowing how to spot the Fae, knowing their lexicon, knowing how to pronounce &quot;Sidhe&quot;, recognizing their work, history of the fuzzy little buggers, etc.</P>
+<P ALIGN="JUSTIFY"></P>
+<I><P ALIGN="JUSTIFY">Mage Lore</I>: Generally knowing how best to run away from the madmen who like to pee in Reality¿s Eyes from time to time. Knowing the Traditions, perhaps some of the philosophies behind magic, etc.</P>
+<P ALIGN="JUSTIFY"></P>
+<I><P ALIGN="JUSTIFY">Cult Lore</I> (Lillith Lore, Enochian Lore, etc.): Ahi hay Lilitu! What does the cult serve, what do they want, the proper way to clothe temple virgins, etc.</P></DIR>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">All characters in GA:SH are pre-approved for their Clan Lore up to x3, for their Sect Lore up to x3, and for Kindred Lore up to x3. Nosferatu can go up to x3 in Sewer Lore. If a player believes she should have a higher limit, they may petition the HST.</P>
+
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">Lores are used in two fashions: First, if a player is asking if his character would know a certain thing, the ST will first consult the player¿s character sheet. Does she have the appropriate Lore? Does she have the appropriate level of the appropriate lore? If the answer is yes to both of these questions, (secondly) then a test is made. The ST adjudicating the scene will determine if the test is a simple test or static test. The ST need not inform the player of which test it is. If the player fails the test, the ST should consider giving the player false information, rather than simply announcing &quot;You don¿t know&quot;. Players may retest these chops with a level of lore ability.</P>
+<P ALIGN="JUSTIFY"></P>
+<B><P ALIGN="JUSTIFY">Caveat Emptor</B>! Consider the following, what would a vampire do to a mortal they found who had Kindred Lore? Now imagine what a werewolf would do if they found you had Lupine lore. Those who know, know enough to keep their knowledge secret.</P>
+</FONT>
+%!include(txt): ''post_main_content.html''

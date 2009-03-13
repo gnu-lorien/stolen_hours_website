@@ -1,0 +1,490 @@
+
+%!target: xhtml
+%!options: -o creation.html -H --toc
+%!postproc: WINDOW_TITLE "Character Creation"
+%!postproc: MAIN_TITLE "Character Creation House Rules and Errata"
+%!include(xhtml): ''pre_main_content.html''
+
+%%toc
+
+== Age and Generation ==
+Due to the setting of this chronicle, players are limited to playing younger characters. As such, the background Generation is limited to 10th and higher. When developing a character concept, you may have characters that are up to 50 years old in the Embrace.
+
+There are exceptions to this rule, but it requires purchase of one of two merits or flaws. The Recently Arisen flaw (3pts) which also has an RP price-tag applied, and may also include the purchase of additional negative traits (of all three varieties) to make up for your modern ignorance, and slow rise from torpor. There are characters out there that will be grandfathered in this, but they are the last of a dying breed.
+
+The other is the Age merit (3pts) to represent that you've been up and active for a longer period of time. This gets you past nasty things like wondering why people call dragons "747's", and that there are not "tiny invisible men" inside of computers. As with recently arisen, be expected to RP the fact that you still aren't 'entirely with it' and cognizant of all modern mores.
+
+These options are limited, and should only be requested if you're quite certain you have the story researched and the character portrayal prowess to pull it off.
+
+
+=== In-game Embrace ===
+Players are encouraged, though not forced by any means, to play the Childe or Ghoul of another player's character. In an effort to portray this IC notion of lineage, players who play Childer of pre-established characters will have the necessary generational cost halved. However, players **must** allocate beginning points to establish the necessary generation, and must be embraced in the chronicle.
+: Example 
+If a tenth generation Ventrue will be your sire, you must choose Ventrue as a clan as well as paying enough points to reach 11th generation. 13th (the "default" generation) to 12th is one point. 12th to 11th is one point. Divide this total in half and it costs you one point.
+
+
+A cost for generation may never go below 1 point. Players must gain the OOC permission of their potential sire's player, before using this advantage.
+
+
+== Non-Vampire Concepts ==
+
+Players who wish to portray mortals are strongly encouraged to consider their potential role as chum in a tank of sharks. If you nevertheless wish to portray a mortal, follow the rules for mortal generation as described in LotH. No matter how trivial or unassuming a mortal character is built to be, the Character ST must approve it. It is also highly encouraged that players of mortals use a deus ex machina to explain their interaction with Vampires. If you wish to have a tie to another Vampire character, you must first gain the OOC permission of that vampire's player. 
+
+: Caveat Emptor
+In most cases this will result in a Breach of the Masquerade, and things will become incredibly lethal both to the mortal and vampire connection. If a mortal is embraced, follow the rules on pg. 269 of LotN:R.
+
+
+Garou, Wraiths, Mages, Mummies, Imbued Hunters, Fae, Bete, and all the other nasties that inhabit the World of Darkness are disallowed as player characters. Vampires, Ghouls, or Mortals are it.
+
+
+=== Ghouls ===
+Players who choose to play the Ghoul of another character, will receive 1 free "generation point" per month that they serve as a Ghoul. These points can only be spent for generation. Unspent generational points are lost. Players who wish to build Ghouls to pre-established players must first gain the OOC permission of their potential regnant¿s player. All ghouls are blood-bound to their regnant. All regnants must pay 1 blood point per ghoul at the beginning of game to maintain them (including NPC ghouls). Stolen Hours disallows "free" Ghouls and Ghouls with NPC regnants as playable. Players of Ghouls must have a PC Regnant.
+
+== Inigo Montoya ==
+Stolen Hours, being a member of One World by Night, employs the //Inigo Montoya Rule//. Players are disallowed to build characters that have links of any kind to previous characters they may have played. If your character is to be avenged, allow someone else the opportunity to build that as her personal plot.
+
+
+== The End of a Character ==
+If you grow bored with your character and wish to bring in another, your first character is said to be //"retired"//. Characters that are retired become NPCs under the direct control of the ST staff. We will do as we please with them to further plot. That character's former player will neither be consulted in her former characters actions and portrayals, nor will she have any say in regards to anything that concerns that former character. All points spent into that character are lost.
+
+Characters that can no longer be played due to reasons of plot are said to be //"shelved"//. Players may shelve characters only with permission of the ST staff and 2/3rds majority vote by the Narrators Council. Shelved characters may only be reactivated by the permission of the ST staff and a 2/3rds majority vote by the Narrators Council. There must be sufficient IC and OOC explanation by the player why she wishes to shelve her character. What constitutes sufficient remains in the purview of the ST staff.
+
+
+=== Rollover Experience Points ===
+Players who have had genre characters in good standing may earn up to 30xp in rollover for a new character should their previous character be permanently taken out of play (retired/killed). ALL other standard character creation rules apply. Players with characters administratively destroyed due to disciplinary reasons will receive no rollover points to apply to their next character.
+
+Determination of rollover points is based upon total number of XP earned on the previous character. This is a one-to-four point scale, with every 4 XP earned on a previous character counting towards 1 rollover XP for the new character (rounded to the nearest integer).
+
+: Example
+A retired or killed character with 59 earned XP will garner a 15 XP rollover.
+
+
+== Gaining More Background Points ==
+Players may submit a detailed history of their character for ST approval. Histories are worth between 1-3 freebie points, depending on quality, research performed, imagination, and content. The amount of this award is entirely up to the ST staff and is non-negotiable. These histories do not replace the requirement of the BAL. Any history that involves another PC must meet with that player prior to submission of history.
+
+Players may submit character portraits, sculptures, soundtracks, or any other creative endeavor once per character for 1-3 freebie points. Points are awarded on the basis of effort, not on quality or personal taste. The amount of this award is entirely up to the ST staff and is non-negotiable. Such submissions remain the property of the player submitting them, although we may ask permission to use them on occasion.
+
+Players may submit a haven write up for 1-3 freebie points. Points awarded are based on effort, research, and imagination. 
+
+Stolen Hours operates on a first come, first serve haven basis. For example, if you want the Jones Building to be your haven, and it is already another player characters haven, you must both a) choose another haven and b) not bring knowledge of that building as a haven IC. To do so constitutes metagaming. This write-up must meet ST approval before points are awarded. No Batcaves. No Fortresses of Solitude. No Avengers Mansions. No cities that transform into a 200 ft tall robot. No spacecraft. See a pattern yet? These write ups are more for your benefit than ours, as defending ones Haven can become the principal obsession of many a Kindred. Stolen Hours does allow haven strikes. If you do not submit a haven write-up, your haven will be considered to have only the most minimal defenses. Yes, you can meet Final Death over a downtime.
+
+All freebie points must be expended at character generation. Experience points need not be.
+
+
+== Regular Experience Rewards ==
+Golden Ankhs are worth 1 point and are considered experience points. A golden ankh is an award that is bestowed by the players of the game to a specific player to reward superior roleplaying. All golden ankhs must be seconded, and reasons for the award must be announced. Each player should make only one nomination.
+
+The ST staff may award bonus XP for exceptional portrayal. Players will not necessarily be informed of this award.
+
+Player characters will earn 2xp per game attended (base).
+
+Players who are approved to act in the role of Narrator will gain 1 extra experience point per game, in addition to the points they earn for attendance.
+
+STs will earn 4 experience points a game and under no circumstances may exceed this limit. STs are ineligible for Golden Ankhs, although we still enjoy being recognized for superior role-play. STs may not possess active characters in the Chronicle they manage. They may have an inactive character in which they drop their earned experience points. Only when an ST steps down, may she choose to activate that character. Till then, the character is kept "in the background". Any exceptions to this rule must be met by a unanimous decision by the other STs.
+
+
+== BAL ==
+Before entering game with a new character, all players should fill out an application and have it approved by the Character ST. The application is worth no freebie or experience points. The application is intended to help the player flesh out the character and alert the STs to any potential problems that need to be addressed before the character has an impact on the setting.
+
+
+=== Mortal Life ===
++ When and where were you born?
++ What was your profession?
++ What was your name?
++ Describe your interests/abilities
++ Describe your greatest triumph and failure
++ Describe your family
++ A quote that describes your mortal life:
+
+
+=== The Embrace ===
++ When and where were you embraced?
++ What did you look like when you were Embraced? (this may affect your permanent appearance)
++ Why were you embraced? What made you special enough to be made immortal?
++ Who was/is your sire?
++ Describe your Embrace
++ Are you interested in making Childer of your own?
++ What would constitute a suitable Childer for you?
+
+
+=== Being ===
++ Is immortality a blessing or a curse (or neither)?
++ What are your goals?
++ Were you present at any major historical event?
++ Have you met any of the other characters or NPCs before?
++ What unique or strange skills/abilities do you possess?
++ Describe any relevant relationships you have or have had
++ What do you fear the most?
+
+
+=== Allegiances ===
++ What sect are you?
++ Why?
++ What has it done for you?
++ What have you done for it?
++ Do you have any allies, and whom are they?
++ Do you have any enemies, and who are they?
++ What is your secret?
+
+
+=== The World ===
++ Where are you from, most recently?
++ Why are you here?
++ Where is your haven?
++ Describe your attitude on mortals.
++ Describe your attitude on your clan.
++ Describe your thoughts on the Beast.
++ Where are you going?
+
+
+=== Immortality ===
++ What do you do with your endless time?
++ What entertains you?
++ How does it feel to be a vampire?
++ How do you feed?
++ Describe your Beast
++ How much status do you hold, and why were you awarded it?
++ What is your lie?
+
+
+== Nature and Demeanor ==
+Stolen Hours does not distinguish between Sabbat and Camarilla Natures as such that only those within a certain sect may take a certain Nature. Any character may take any of the Natures listed below, though you should be aware of its potentially destructive guidelines concerning the morality path your character may be on. 
+
+For example, Characters on the Path of Humanity are encouraged to not take Torturer as a Nature. Characters that disregard their Nature will likely be required to make a Morality test, or they may even have Morality stripped without a test by an ST. Your Nature is the foundation of your own strength, which is used to overcome many struggles, including The Beast. If you violate your nature, you will be subjected to a Morality test. Please note that Malkavians may declare new Natures and Demeanors at the beginning of each game. At times, these changes will be assigned to them.
+
+: Alpha
+You were born to lead, and you prove it repeatedly
+: Architect
+You seek to create something of lasting value
+: Autocrat
+You want to be in charge and in control
+: Avant-garde
+You live for new things, cutting edge is all that will do
+: Barbarian
+Order is nothing, honor is what matters
+: Bon Vivant
+Only a good time can assuage your otherwise empty existence
+: Bravo
+You are something of a bully
+: Bureaucrat
+You organize everything including the paperwork, and you¿ve got the paperwork to prove it
+: Caregiver
+You seek to comfort and nurture others
+: Chameleon
+You blend in with whatever group you¿re with
+: Celebrant
+You have a passion that you are driven by
+: Child
+You never really grew up and need someone to take care of you
+: Competitor
+You take great excitement in the pursuit of victory. Every challenge is a contest to be won
+: Confidant
+You enjoy listening, and work hard to see that others trust you
+: Conformist
+You are a follower at heart and find it easy to adapt, adjust and comply
+: Conniver
+There's always an easier way and it usually involves someone else doing your work
+: Critic
+Nothing's perfect, and you make sure everyone knows that
+: Curmudgeon
+Bitter and cynical. You always see the glass as half empty and know that everyone will do the stupid thing
+: Dabbler
+You want to sample all of the new things in the world.
+: Daredevil
+You love taking risks and will seize any opportunity to do so. Unlike Thrill Seeker, you are less concerned with the potential danger of any situation.
+: Dark Pioneer
+You can't change the traditions of the past but you will do anything to create the disturbing traditions of the future.
+: Dark Poet
+You want to share the beauty of darkness with the rest of the world.
+: Defender
+The shepherd from Ezekial 25:17
+: Deviant
+You exist for no one's pleasure then your own
+: Director
+You don't have to be in control as long as they are doing it your way
+: Drunk Uncle
+When things are going well you are everyone's best friend, when things are going poorly you're their worst nightmare.
+: Explorer
+Nothing excites you like exploring
+: Eye of the Storm
+Despite a calm appearance, you surround yourself with Chaos
+: Fanatic
+Your purpose consumes your existence and gives your life meaning
+: Follower
+If a person is a leader, it¿s for a reason. Best to listen to them.
+: Gallant
+You are flamboyant, always seeking attention and the chance to be the brightest star
+: Gambler
+It¿s all about beating the odds, and you¿ve got nothing to lose
+: Hedonist
+Life is meaningless so enjoy it as long as it lasts
+: Idealist
+You are committed to a cause greater than yourself
+: Interrogator
+It's not the answers that matter, it's the pleasure you get asking the questions.
+: Innovator
+If there's a better way, you¿re trying to figure it out
+: Jester
+Always the clown and can't take life or death seriously
+: Judge
+You seek justice and reconciliation
+: Leader
+Good thing you¿re around, no one else has a clue
+: Loner
+You are forever alone, even in a crowd
+: Loyalist
+You're the yes-man
+: Martyr
+You need to be needed, suffer for your cause and enjoy being morally superior
+: Masochist
+You exist to test you limit and see how much you can tolerate before you collapse
+: Mediator
+Your words can calm anyone down
+: Monster
+You know you are a creature of darkness and act like it
+: Pedagogue
+You know it all and need to enlighten others...at length if necessary.
+: Penitent
+You exist to atone for the grave sin you have committed for simply being who you are.
+: Perfectionist
+You simply demand the best from others as well as yourself
+: Rebel
+No need for a cause you rebel out of habit and passion
+: Recruiter
+It makes sense to build your side up before tearing theirs down
+: Rogue
+You believe it is all for the better of your own survival. No need to fret about others when you have you to worry about.
+: Scientist
+Diligent, rational examination can reveal all the secrets of the world.
+: Shamanist
+You see your killer's role as part of the supernatural order.
+: Stalker
+The chase is all; the capture and feeding almost anticlimactic
+: Soldier
+You are pleased to carry out orders expeditiously and to the letter.
+: Sorority Sister
+You do what ever the in-crowd does and do it better.
+: Survivor
+You struggle to survive no matter what the odds.
+: Thrill Seeker
+Live for the rush brought on by danger
+: Torturer
+Pain isn't a profession for you; it is a calling.
+: Traditionalist
+You prefer the orthodox and conservative ways. You prefer to accomplish your goals through time tested methods.
+: Trickster
+You find absurdity in everything and choose to enlighten the spirits of those around you.
+: Visionary
+You look beyond the mundane and see the truly wondrous; wisdom is your quest - insight your key.
+
+
+== Traits ==
+Traits are not straight numbers, but instead reflect the adjectives that describe your character. Only 3 points worth of negative traits per category (physical, social, mental) may be taken. Each negative trait earns you one freebie point. No more than five total negative traits can be taken. Clan related disadvantages do not count towards this limit. A trait may be bought as high as x5.
+
+Appropriate traits are as follows:
+
+
+=== Physical Traits ===
+: Strength-related
+Brawny, Ferocious, Stalwart, Tough, Wiry, Vicious
+: Dexterity-related
+Dexterous, Graceful, Lithe, Nimble, Quick, Fierce
+: Stamina-related
+Enduring, Resilient, Robust, Rugged, Tireless, Deadly, Savage
+: Miscellaneous
+Agile, Brutal, Energetic, Steady, Tenacious, Vigorous, Aggressive
+: Negative
+Clumsy, Cowardly, Decrepit, Delicate, Docile, Flabby, Frail, Lame, Lethargic, Puny, Sickly, Slow, Soft
+
+
+=== Social Traits ===
+: Charisma-related
+Charismatic, Charming, Dignified, Eloquent, Expressive, Genial, Intense, Threatening
+: Manipulation-related
+Beguiling, Commanding, Ingratiating, Persuasive, Manipulative
+: Appearance-related
+Alluring, Elegant, Gorgeous, Magnetic, Seductive
+: Miscellaneous
+Diplomatic, Empathetic, Intimidating, Friendly, Witty
+: Negative
+Bestial, Callous, Condescending, Cruel, Dull, Feral, Meek, Naïve, Obnoxious, Repugnant, Shy, Tactless, Untrustworthy
+
+
+=== Mental Traits ===
+: Perception-related
+Attentive, Discerning, Insightful, Observant, Vigilant, Analytical
+: Intelligence-related
+Cunning, Disciplined, Knowledgeable, Rational, Reflective, Focused
+: Wits-related
+Alert, Clever, Intuitive, Shrewd, Wily, Insidious
+: Miscellaneous
+Creative, Dedicated, Determined, Patient, Wise
+: Negative
+Deceitful, Depraved, Forgetful, Gullible, Ignorant, Impatient, Inhumane, Oblivious, Predictable, Shortsighted, Squeamish, Submissive, Unstable, Violent, Witless.
+
+
+=== Using Your Traits ===
+In each trait category there are sub-categories. For example, under Physical Traits, there are those traits that are Strength-related, Stamina-related, Dexterity-related, and Miscellaneous Physical traits. Note that the trait used must be appropriate to the challenge. 
+
+Strength-related traits are used for attacking, stamina-related traits are used for resisting the damage of an attack, and dexterity-related traits are used to be "quick enough" to dodge an attack. 
+
+If you have used a strength-related trait in a challenge, the appropriate retest is probably the Melee or Brawl ability. This is also the only kind of trait you can use with your Might retest. 
+
+If you have used a stamina-related trait, the appropriate retest is the Survival ability. These are the only traits you can spend to win on ties in Fortitude challenges. Also, these are the only traits that can be used to resist damage when your character is staked, or in torpor. 
+
+If you have used a dexterity-related trait, the appropriate retest is most likely the Dodge ability. 
+
+Of course, there are many other kinds of physical challenges besides combat and for many of these, an appropriate Miscellaneous Physical trait works.
+
+The rule of having the right type trait and the right retest applies to social and mental challenges as well. Think long and hard when deciding on the traits for your character. 
+
+If you use an "intimidating" social trait when commanding an animal using Feral Whispers, that animal will behave towards you in an entirely different manner than had you used a "friendly" trait. If you do not have an appropriate trait to bid in a challenge, you will either have to find a way to fake it through blood or willpower expenditure, or relent. Characters being attacked in Celerity rounds without having enough Celerity to keep up must use stamina-related traits to avoid taking damage, as the attacks are coming in faster than your character can otherwise defend against. Even when Staked, you can defend yourself by being "resilient" enough to take it.
+
+
+== Status ==
+When dealing with members within your sect, your status total can be added to your social trait total. This only applies to normal social challenges when you are making your presence known. The amount of status you hold has no effect on your control over the powers of the blood, so status can never be added when comparing traits for discipline use.
+
+
+== Abilities ==
+As listed in LotN:R, no ability may exceed the generational limit. A character may have one ability at x6, with ST approval. A character gets 5 freebie points to spend in abilities at character generation. A complete list of acceptable abilities can be found in the Abilities section.
+
+
+== Derangements ==
+A single derangement may be taken for 2 freebie points. Additional derangements do not add freebie points. A Malkavian's initial derangement grants no freebie points. Derangements should not be taken lightly, they are demanding to roleplay and cannot be bought off easily. These are mental mis-firings that will haunt your character for her entire lifetime, both IC and OOC.
+
+
+== Merits and Flaws ==
+7 freebie points worth of Flaws may be taken. Additional flaws may be taken, but they do not add to the 7 freebie point maximum. For IC reasons, STs may assign new Flaws to a character at anytime. Players will be responsible for accurate portrayal of all Merits and Flaws. 
+
+7 points worth of Merits may be bought with either xp or freebie points at generation. Please note that additional Merits may be bought later at 2x the cost and only with suitable roleplay. Some Merits may not be taken after character generation. Some merits may not be taken without ST approval. Some merits are limited for the sake of maintaining game balance.
+
+
+== Morality ==
+With ST approval and pre-approved history you may sacrifice 1 Virtue trait of your choice, for 2 freebie points. After selling a Virtue trait, recalculate your Humanity rating according to your new level. Character creation is the only time that losing Virtue traits directly affects your Humanity level. All characters will follow Humanity. Paths are disallowed at this time. Please note: The higher a character's Humanity rating, the easier it is to pass for human, come out of torpor, and deal with Mortals. There are many, many role-play consequences to losing Humanity.
+
+Paths of Enlightenment are available after character-creation subject to storyteller approval and summary torture*.
+
+
+== Backgrounds ==
+=== Influences ===
+Influences may be bought up to level 3 at character generation. It is generally advised that a character specialize on influences rather than spreading them out when purchasing at character creation. The first and second levels of influences are often not better than having Contacts, so they are better as stepping stones than end goals.
+
+
+=== Generation ===
+Characters may only be 10th generation or higher. We're playing in a time of thin blood, and characters will begin to reflect this as the Elders die off.
+
+Thin blooded characters are encouraged and 14th and 15th generation are happily available to anybody at character creation.
+
+If you take none of this background, and choose not to be of the highest generation, your character will default to 13th. If you wish to be eligible for lower generation, you must win or tie a certain number of simple tests as indicated below.
+
+- 0 wins or ties: 13th Generation
+- 1 wins or ties: 12th Generation
+- 2 wins or ties: 11th Generation
+- 3 wins or ties: 10th Generation
+
+Successfully winning these tests only gets you approval for the purchase of the Generation background.
+
+
+=== Mentor ===
+Use of a Mentor can be akin to asking a boon of an elder Kindred. Little comes in the World of Darkness for free. Per LotN:R, p. 104, a simple test is required to call upon one's Mentor. A win means the Mentor will aid you. A tie means they require something in return. A loss means that you must perform a task for your mentor before they will assist you. The cost of expenditure of Mentor traits in the event of a loss or tie are as follows:
+
+- Mentor x1: equivalent of a Trivial Boon.
+- Mentor x2: equivalent of a Minor Boon.
+- Mentor x3: equivalent of a Major Boon.
+- Mentor x4: equivalent of a Blood Boon.
+- Mentor x5: equivalent of a Life Boon.
+
+
+Needless to say, a tie or loss entails personal plot for your character to fulfill. Additionally, in the event of a loss or tie when expending Mentor traits, if the character is unwilling or unable to uphold their end of the bargain, a point of Mentor is lost permanently.
+
+Any Mentor background above two must be thoroughly discussed and approved by the Character ST before play.
+
+
+=== Allies ===
+Allies are people that will come to your aid in a pinch. The Allies background can be purchased as many times as your storytellers will approve you for. There are generally two ways to think about and purchase the Allies background; one in which each dot represents a different person, or one in which each dot represents extra competency for a single person.
+
+Firstly, you can think of each dot as representing a person. In this case, your Allies are considered fairly competent people, but only experts at one thing. Each dot you have in this background can be another expertise you have to call on through your Allies. In general, you should group this sort of generic ally into one instance of the Allies background.
+
+Secondly, you can think of each dot representing better competence in a single person. These allies should have a thematic direction for their skills and expertise. As more dots are purchased, they will become more competent in areas that make sense for their story. This sort of ally has the capacity to be much more useful than the first, more generic version. The trade-off is that they are represented by a single, quite destroyable person.
+
+
+=== Retainers ===
+Retainers differ from Allies in that they are typically less competent, but unfailingly loyal to your character. Systematically they are modelled similarly to Allies, but are assumed to start out as every-day people rather than the particularly competent or skilled. The trade-off is that they'll only betray you in the most dire of circumstances, and, even then, they'll do their best to make sure you make it out okay.
+
+
+=== Herd ===
+Each dot of Herd you expend allows you to regain two blood points.
+
+You can choose to use this background at the beginning of game, or during game by sitting out for 15 minutes.
+
+You may purchase multiple Herds. Each Herd you feed from is another 15 minutes out of game, but you need only spend 15 minutes to maximally feed off of a single Herd.
+
+: Example
+Charles has Herd x3 representing a local night club and Herd x5 representing a convent he has access to. After a hectic scene, he decides to stop off at the convent to feed. He expends three points of his Herd x5 and spends 15 minutes out of game. Later on, more chaos ensues pushing him to the brink of blood frenzy. He needs to feed at both locations, so he expends the remaining five points of Herd he has available and spends 30 minutes out of game because he is using two different sources.
+
+
+=== Status ===
+Status may be bought at the cost of 2 freebie points per status trait, and only to a maximum of 2 bought status traits, not including Acknowledged (which you may take for free with Character ST approval). The Character ST must approve these status traits and justification must be included in your history. 
+
+
+=== Haven Background ===
+SH introduces a new background: Haven. Points taken in this background act as retests when defending yourself inside of your haven. They may also be used by STs to prevent or defend your haven. These retests refresh every two weeks.
+
+
+== Willpower ==
+Starting willpower is determined by your generation. In addition to the uses of Willpower listed on page 107 of LotN:R, Willpower allows 10 minutes of consciousness during the day. Vampires who are active during the day suffer the penalties listed on page 111 of LotN:R. Willpower is regained at the rate of 1 per week. Yes, it can be many weeks before a character's Willpower pool is completely refreshed. 
+
+- A Willpower may be spent to negate frenzy. This expenditure must be made before the whole series of frenzy challenges is completed. If the character has not removed the source of the frenzy within 10 minutes, they will automatically frenzy with no chance to resist. A Willpower can be spent to control yourself for 1 round during a frenzy.
+- In the interest of defending against mental and social disciplines, the spending of one willpower may be used to gain a retest. There are no offensive willpower retests (with the single exception of those trying to break Majesty), and tests resulting in the spending of one willpower are the last tests in the challenge.
+- As per LotN:R, but as a friendly reminder. Willpower may be use to replenish each trait category once and only once per night.
+- As per LotN:R, a willpower trait may be spent to initiate a challenge involving an ability that you do not possess. It does not allow for a retest as if you did in fact have the ability, but it will allow you to take an action not normally within your capacity.
+
+
+Any challenge that does not require the defender to risk a trait (static challenge) cannot be defended with the expenditure of willpower. (I.e. Aura Perception, Eyes of Chaos, etc.)
+
+Regarding the spending of willpower to fuel a discipline, each discipline clearly defines whether the willpower is spent before or after the challenge. All willpower spent prior to the challenge is spent regardless of the result of that challenge.
+
+The level of Willpower any PC has can greatly affect the role-playing of that character. Please note your Willpower levels when preparing for scenes.
+
+
+== Blood ==
+=== Feeding ===
+Maximum blood is dependent on generation. During sign-in, players will make a static test for blood. If the player wins, they are at full blood. If they tie, they are at 2/3rds total blood. If they lose they are at 1/3rd blood. 
+ 
+Characters with 3 traits or lower of blood are ravenous. Your self-control may never be higher than the current number of blood traits a character possesses. Characters with morality paths that preach Instinct over Self Control will always blood frenzy during this condition.
+
+A human being has 10 blood points total, but only 5 of which are accessible through normal means. The rest is bound in the muscles, bones and organs and not actively pumping through the bloodstream at any particular moment. The most blood that can be drawn from a mortal without the use of medical tools or devouring the organs themselves is 5 points. Because Kindred Vitae is denser than mortal blood, Ghouls have the equivalent of 6 blood traits in their system. 3 mortal and 3 kindred.
+
++ The loss of one blood point causes dizziness and mild disorientation. The same as having given blood that day. 
++ The loss of two traits of blood leaves causes severe fatigue and tiredness, both mental and physical. 
++ The loss of three traits causes unconsciousness and extreme disorientation. It is likely that if the mortal remembers the events immediately proceeding the Kiss at all, it will be as a hazy dream. 
++ The loss of four blood traits will cause the mortal to fall into a coma and will require immediate medical attention or risk death. 
++ The loss of five blood traits will result in death.
+
+
+Stored human blood is not as nourishing as "live" blood. It takes two traits of stored blood to equal 1 fresh blood point.
+
+Hunting may be performed at any time during the night. There is no perfect rule for this due to ever changing conditions in the domain. This act must be performed with an ST or Narrator who will explain the current conditions while administering a test for success.
+
+
+=== Assume the Mortal Guise ===
+When blood is used to appear human, use the following formula to determine how much blood is needed.
+
+//Amount of blood to appear human = 6 - Humanity Rating//
+
+Keep in mind your generational limit on how much blood can be expended in a round. It may take your character several moments to appear human, depending on how far they have slipped closer to the Beast Within. 
+
+Characters on paths other than Humanity cannot use blood to appear human. 
+
+Those with the merit Blush of Health always appear human, although blood must still be spent to simulate life functions (warm skin, warm breath, etc).
+
+
+=== Blood Frenzy ===
+If a Vampire runs out of a blood, they risk immediate Blood Frenzy. Such a Frenzy lasts only 10 minutes, after which the Vampire falls into torpor. If there is a suitable source of blood nearby, and the Vampire feeds to at least 4 blood traits, the Blood Frenzy can be negated.
+
+=== Ghouls ===
+Ghouls may spend 3 traits of blood (her vampiric blood, only) to soak wounds. If a ghoul runs out of blood, she moves immediately into a coma. (Incapacitated)
+
+Ghouls have 6 blood traits instead of the usual 5: 3 of which are Kindred blood for ghouls. Ghouls may only use these three blood traits for healing and discipline use. Once spent, the ghoul does not suddenly revert to being a human; it is simply a ghoul who has burned up her Kindred blood supply. She may feed from her Regnant to regain this blood. She is however, down to three blood in her system and needs to roleplay this accordingly.
+
+%!include(xhtml): ''post_main_content.html''

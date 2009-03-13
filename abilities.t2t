@@ -1,0 +1,117 @@
+
+%!target: xhtml
+%!options: -o abilities.html -H
+%!postproc: WINDOW_TITLE "Abilities"
+%!postproc: MAIN_TITLE "Abilities House Rules and Errata"
+%!include(xhtml): ''pre_main_content.html''
+This is the list of acceptable abilities, and their function.
+
+: Academics
+As per LotN:R.
+: Animal Ken
+As per LotN:R. This is the retest for Animalism.
+: Archery
+As per Dark Epics. It requires three static challenges (win or tie) to stake another vampire from range.
+: Athletics
+As per LotN:R. This is the appropriate retest for spitting.
+: awareness
+As per LotN:R. Does not retest with occult, and will not detect dementation use.
+: Academics
+As per LotN:R.
+: Blindfighting
+As per Dark Epics. Obtenebration does not fall into the category of 'natural darkness'. In such a case, blindfighting may be expended only to negate the retest of Shroud of Night. It will not negate the two-trait penalty.
+: Brawl
+As per LotN:R.
+: Bureaucracy
+As per LotE.
+: Computer
+As per LotN:R.
+: Crafts
+As per LotN:R. The focus of this ability must be specified at the time this ability is purchased. Crafts: Body is the retest for Vicissitude.
+: Demolition
+As per Dark Epics. This ability requires Storyteller approval.
+: Dodge
+As per LotN:R.
+: Drive
+As per LotN:R.
+: Empathy
+As per LotN:R. This ability requires at least ten minutes of roleplay before it can be used. Empathy is the retest for Dementation.
+: Enigmas
+As per Dark Epics.
+: Etiquette
+As per LotN:R. This ability must be expended within five seconds of your faux pas.
+: Expression
+As per LotN:R. The focus of this ability must be specified at the time this ability is purchased.
+: Finance
+As per LotN:R.
+: Firearms
+As per LotN:R.
+: Fortune telling
+As per LotN:SG. The type of 'fortune telling' must be determined upon purchasing this ability.
+: Gambling
+As per LotWW.
+: Herbalism
+As per tLN.
+: Hobby/professional/expert
+As per LotN:R. The focus of this ability must be specified at the time this ability is purchased. This ability requires Storyteller approval.
+: Hunting
+As per LotN:CG. This is the retest for your blood test at the beginning of game.
+: Instruction
+Please see the section on teaching and learning.
+: Intimidation
+As per LotN:R. This is the retest for //Dread Gaze//.
+: Investigation
+As per LotN:R. This is the retest for Auspex.
+: Law
+As per LotN:R.
+: Leadership
+As per LotN:R. This is the retest for all Presence powers except //Dread Gaze//.
+: Linguistics
+As per LotN:R. If studying the underlying principles of language, the typical limits of abilities apply. If each point of linguistics represents a different language, the limits do not apply.
+: Lore
+As per Dark Epics. The focus of this ability must be specified at the time this ability is purchased. This ability requires Storyteller approval. Please see the lore section of the house rules.
+: MaLk-TiMe
+Part of the Malkavian Clan advantage, and available only to them. A level of MaLk-TiMe may be expent to locate congregating Malkavians.
+: Medicine
+As per LotN:R.
+: Meditation
+As per Dark Epics.
+: Melee
+As per LotN:R.
+: Occult
+As per LotN:R. This is the retest for Thaumaturgy, Necromancy, Obtenebration, and all forms of Sorcery.
+: Performance
+As per LotN:R. The focus of this ability must be specified at the time this ability is purchased.
+: Politics
+As per LotN:R.
+: Psychology
+As per LotN:CG. This ability requires at least an hour's worth of roleplay.
+: Repair
+As per LotN:R.
+: Riding
+As per LotWW.
+: Rituals
+As per LotN:SG. This ability is //only// available to Sabbat characters. Required for learning/teaching Morality Paths (including Humanity)
+: Science
+As per LotN:R. The focus of this ability must be specified at the time this ability is purchased.
+: Security
+As per LotN:R.
+: Scrounge
+As per LotN:R.
+: Stealth
+As per LotN:R. This is the retest for Obfuscate.
+: Streetwise
+As per LotN:R.
+: Subterfuge
+As per LotN:R.
+: Survival
+As per LotN:R. This is the retest for Fortitude Challenges.
+: Theology
+As per LotH:R.
+: Throwing
+As per Dark Epics.
+: Torture
+As per LotH:R.
+: Vamp
+As per LotN:SG.
+%!include(xhtml): ''post_main_content.html''

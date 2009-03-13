@@ -1,0 +1,28 @@
+BODY {
+     scrollbar-face-color:#C0C0C0;
+     scrollbar-arrow-color:#FFFFFFF;
+     scrollbar-track-color:#C0C0C0;
+     scrollbar-shadow-color:#DBDBDB;
+     scrollbar-highlight-color:#DBDBDB;
+     scrollbar-3dlight-color:#000000;
+     scrollbar-darkshadow-Color:#000000;
+     }
+BODY, P, TD {
+            font-family: arial;
+            font-size: 8pt;
+            color: #000000; text-transform: none;
+            }
+A:link, A:visited {
+                  color: #000000;
+                  text-decoration: none; text-transform: none;
+                  }
+A:hover {
+        color: #000000;
+        text-decoration: underline; text-transform: none;
+        }
+a:special { 
+          color: #C0C0C0;
+          }
+dt {
+   font-weight: bold;
+   } 

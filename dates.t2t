@@ -1,0 +1,17 @@
+
+%!target: xhtml
+%!options: -o dates.html -H
+%!postproc: WINDOW_TITLE "Game Dates"
+%!postproc: MAIN_TITLE "Game Dates"
+%!include(xhtml): ''pre_main_content.html''
+We play on the Fridays before the first, third, and fifth Saturdays of each month. Essentially, the day before [Whispers of Atlanta www.whispersofatlanta.com]
+
+1 Dec 2006
+
+15 Dec 2006
+
+There will be no game on the 29th of December.
+
+5 January 2007
+
+%!include(xhtml): ''post_main_content.html''

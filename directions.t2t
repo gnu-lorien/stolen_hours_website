@@ -1,0 +1,8 @@
+
+%!target: txt
+%!options: -o directions.html
+%!postproc: WINDOW_TITLE "Directions"
+%!postproc: MAIN_TITLE "Directions"
+%!include(txt): ''pre_main_content.html''
+We play in the Georgia Tech student center. You can use the <a href="http://gtalumni.org/campusmap/campusmap.php?section=8">campus map</a>. We play in building 114 near the radio station and back lobby.
+%!include(txt): ''post_main_content.html''

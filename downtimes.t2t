@@ -1,0 +1,59 @@
+
+%!target: xhtml
+%!options: -o downtimes.html -H
+%!postproc: WINDOW_TITLE "Downtimes"
+%!postproc: MAIN_TITLE "Downtimes House Rules and Template"
+%!include(xhtml): ''pre_main_content.html''
+
+Downtimes are due the Friday after each game by Midnight. They should cover any actions and interactions your character intends to have between games. If you put sufficient effort into your descriptions of actions and portrayal of your character, you will receive an extra experience point for the month.
+
+Downtimes should be sent to the [Stolen Hours Downtime List stolen_hours_downtimes@yahoogroups.com].
+
+
+== Abilities and Traits ==
+Each downtime period is two weeks, and this two weeks counts as a game session for the purposes of abilities that have that designation. This most predominantly affects abilities like Meditition and Crafts.
+
+Willpower refreshes at a rate of one per week of the downtime.
+
+Your mental, social, and physical traits are considered to be refreshed each night of the downtime for purposes of pre-game scenes. Abilities which will not have an unbalancing affect are also refreshed each night. For instance, Firearms refreshes each night but Meditation does not.
+
+
+== Template ==
+```
+Player Name:
+E-Mail Address:
+Character Name:
+Home Chronicle:
+
+Nature:
+Demeanor:
+Willpower:
+
+Humanity: (X Conscience, X Self Control, X Courage)
+
+Merits:
+Flaws:
+Derangements:
+
+Influences Being Used (if any):
+
+Backgrounds Being Used (if any):
+
+Abilities Being Used (if any):
+
+Prominent Traits Being Used:
+Physical:
+Social:
+Mental:
+
+Feeding Grounds and Methods:
+
+Influence / Background Actions:
+
+Roleplay Actions:
+
+XP Expenditures:
+```
+
+
+%!include(xhtml): ''post_main_content.html''

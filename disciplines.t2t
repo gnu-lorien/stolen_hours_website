@@ -1,0 +1,61 @@
+
+%!target: xhtml
+%!options: -o disciplines.html --toc
+%!postproc: WINDOW_TITLE "Disciplines"
+%!postproc: MAIN_TITLE "Disciplines"
+%!include(xhtml): ''pre_main_content.html''
+
+%%toc
+
+%!include: disciplines/animalism.t2t
+
+
+%!include: disciplines/auspex.t2t
+
+
+%!include: disciplines/celerity.t2t
+
+
+%!include: disciplines/chimerstry.t2t
+
+
+%!include: disciplines/dementation.t2t
+
+
+%!include: disciplines/dominate.t2t
+
+
+%!include: disciplines/fortitude.t2t
+
+
+%!include: disciplines/melpominee.t2t
+
+
+%!include: disciplines/necromancy.t2t
+
+
+%!include: disciplines/obfuscate.t2t
+
+
+%!include: disciplines/obtenebration.t2t
+
+
+%!include: disciplines/potence.t2t
+
+
+%!include: disciplines/presence.t2t
+
+
+%!include: disciplines/protean.t2t
+
+
+%!include: disciplines/quietus.t2t
+
+
+%!include: disciplines/serpentis.t2t
+
+
+%!include: disciplines/vicissitude.t2t
+
+
+%!include(xhtml): ''post_main_content.html''

@@ -1,0 +1,65 @@
+
+%!target: xhtml
+%!options: -o lists.html --toc --toc-level 5
+%!postproc: WINDOW_TITLE "Guide to Virtues, Willpower, and Blood"
+%!postproc: MAIN_TITLE "Guide to Virtues, Willpower, and Blood"
+%!include(xhtml): ''pre_main_content.html''
+
+%%toc
+
+This document is a work in-progress meant to bring together some disparate rules into one place and offer role-playing advice. Much of this material is supplementary to LotN:R, but would be useful to read anyway for advice or just so you know how the storyteller's of Stolen Hours interpret these systems.
+
+
+== Blood ==
+=== Blood Bonds ===
+Blood bonds are a supernatural love and loyalty shared between two people commonly referred to as the thrall and regnant. The thrall is one who has drunk the blood of a vampire, their regnant, and is now supernaturally compelled to love and cherish them.
+
+Blood bonds are described out-of-character by a number of points from one to three. These represent the number of times a thrall has drunk the blood of their regnant on separate nights. It typically takes a full point of blood, which is about a pint for 13th through 10th generation vampires, to actually count towards a blood bond.
+
+In-character, legends speak of a mere drop of blood of blood three times to supernatural bind someone. Kindred Lore and experience often have shown that it takes more than a single drop, but only those with more exceptional levels of Lore have taken the time to codify just how much it takes. The discrepency is written off by the older stories being those of older Kindred with more potent blood. Whereas a Neonate's blood can bind a mortal with one drop, he could not hope to bind an Elder or Ancillae with such miniscule offerings.
+
+
+==== Effects on Role-Playing of the Blood bond ====
+A blood bond is probably best described, systematically, as a form of permanent Entrancement that is not deactivated so easily. You start by describing your charcter's feelings towards another's as favorable, neutral, or hostile. The amount in which the thrall will be swayed and affected is described below.
+
+While systematically a blood bond is quite inconvenient, your character will not be able to easily reject the blood bond. The bond forces you to feel better about somebody. It's like being stuck in a bad relationship, or being in love with somebody that abuses you. While the best course of action is to move on, it will hurt you emotionally and you can't bring yourself to do it easily. Blood bonds should be played with this in mind.
+
+Often characters will seek out the blood bond, as the supernatural emotion it instills is some of the most powerful any Kindred can feel. Those close to Humanity, or that miss the highs of life and emotion will seek out people to trust and feel close to. Many Kindred relationships are established this way, as it's the only way to garauntee trust amongst inherently manipulative creatures.
+
+While the loyalty and love are artificial, they feel quite real and are quite potent. Most will not question them unless pushed strongly by others they are bound to or have similar depth of connection with. The blood bond may also pervent with time as an abusive regnant pushes their thrall closer and closer to the breaking point. Consistent abuse for an amount of time that would normally be required to free one of the bond is usually what it takes to pervert it to hate. This doesn't remove the systematic benefits for the regnant, but it does mean that the thrall is now passionately to break the bond. The only sure-fire way to do so is to destroy the regnant.
+
+
+==== One Point Bond ====
+At this level of bond, the thrall feels kinship and respect for their regnant. The thrall has permanently moved one level towards favorable for their regnant.
+
+The thrall may still be quite rebellious, and if the regnant takes any overt negative action the thrall may temporarily ignore the positive disposition the blood demands.
+
+In any challenge between the regnant and the thrall, the regnant may bid this blood bond as a negative trait against the thrall. This is essentially a universal negative trait for the regnant. This trait is not subject to the normal rules for bidding negative traits in that the regnant is not required to bid an extra trait if the thrall has broken the bond without his knowledge. Optionally, the thrall may choose to force the regnant to bid an extra trait, but then the regnant will be aware that the bond is broken.
+
+A one point blood bond will last for a month after the regnant and thrall are completely separated from one another. This time is likely to be spent with the thrall idly wondering where their friend is from time to time.
+
+
+==== Two Point Bond ====
+This level of bond is the deepest of brotherly love, romantic sacrifice, and sorrowful tears when you must be apart. This is the point at which the thrall is likely to be obviously connected to their regnant. They may speak of them when idle, or seek them out when they aren't around. 
+
+You are still considered only one level towards favorable, but you will begin to justify your position and resist others taking it away from you. Whereas before a thrall might rebel against a public folly, they now begin to justify and defend their regnant. The thrall will also put up with much more harassment and generally must be pushed to something akin to frenzy consistently in order to grow resentful of his regnant.
+
+In order for a thrall to act against their regnant, they must expend one temporary Willpower trait per scene or hour. This is in addition to the negative trait the regnant is allowed to bid for the presence of a one point bond.
+
+A two point blood bond will last for six months after the regnant and thrall are completely separated from one another. This time is likely spent with the thrall wondering where their regnant is, how they're doing, if they're okay, and if they're thinking about the thrall.
+
+
+==== Three Point Bond ====
+A three point blood bond is total servitude. You are an appendage at best. A thrall at this level will spend most of his time preoccupied with his regnant. They will seek them out and talk about how great they are. They will generally defend the most atrocious of the regnant's actions with justifications highlighting whatever qualities they can to redeem them.
+
+The thrall is now two levels towards favorably disposed at all times. Only the most base acts of humiliation and torture will convince the thrall that a regnant is anything other than a wonderful person. In general, being without the regnant is actually one of the worst things a regnant can do. The regnant is quite inclined to do this though, because their thrall now demands much attention in addition to loyalty. The correct training can help balance these two things, but it takes work.
+
+Most of the text that White Wolf has written on blood bonds refers to this type. In general, when reading thrall and regnant in a White Wolf book they are only referring to the three point, or full, blood bond.
+
+While these bonds are the most difficult to pervert into hate, they result in the most horrible backlash.
+
+In order for a thrall to act against their regnant, they must now expend one temporary Willpower trait per direct action that they take. They must also expend one temporary Willpower trait per scene or hour in which they indirectly act against their regnant or describe them in a negative way.
+
+A three point blood bond will last for a year and a day after the regnant and thrall are completely separated from one another. This time is likely spent with the thrall in the throes of a great depression. The cornerstone of their life has abandoned them, and few things will seem to matter in that regard. Without restraint, they will seek out their regnant with increasing fervor. As the bond breaks the thralls condition will be very similar to that of an addict in the worst of their withdrawals. It's likely that even after the bond is finished, the thrall will have fond memories and feel an emptiness in their heart.
+
+When a regnant dies, the thrall is aware of the death. The blood bond doesn't break immediately. The thrall must still endure the pain of a fading blood bond. It's likely that the thrall will always feel the emptiness of the bond loss, but without other merits, they may be fully bound again.

@@ -1,0 +1,74 @@
+
+%!target: xhtml
+%!options: -o teaching.html -H --toc
+%!postproc: WINDOW_TITLE "Teaching and Learning"
+%!postproc: MAIN_TITLE "Teaching and Learning House Rules and Errata"
+%!include(xhtml): ''pre_main_content.html''
+
+%%toc
+
+== Abilities ==
+
+Abilities up to a rating of 3 can generally be learned without requiring a teacher or any specialized effort. Some more obscure abilities, like __Demolitions__ require special background approval, a teacher, or very dangerous experiments over long time periods with your character.
+
+New ratings of abilities can be purchased any time after you receive approval for them. You can only buy one rating in an ability per downtime. In general though, you won't be approved for higher levels of an ability more than once a month.
+
+=== Instruction ===
+The __Instruction__ ability is used to teach higher level abilities, or to teach two ratings of an ability in a single downtime.
+
+In order to use __Instruction__ to teach an ability, you must have __Instruction__ and the ability you wish to teach at least at the rating you want to teach. During a downtime period, you declare that your character will be learning from another character. Both must put this in their downtime. The two characters are assumed to then spend at least an hour a night during the downtime working on this ability.
+
+At the next game after the downtime period, the teacher must win a simple test with Instruction as the retest in order to have effectively expressed their lessons to the other character. If they succeed, the student is approved for an additional dot of the taught ability in a single downtime.
+
+: Example
+Kim, the most meek Toreador in the domain, has been attacked by a bunch of Sabbat recently. Having finally become fed up with Sabbat laughing at her attempts at __Dread Gaze__, she seeks out the help of Ratta-tat, a local Brujah bruiser. After a short conversation about boons, he agrees to help her out. Ratta-tat has __Instruction x2__ and __Intimidation x3__.
+
+Over a downtime, he teaches Kim __Intimidation__. In order to help her learn another dot, he makes a simple test. He loses and decides to expend __Instruction__ for a retest. This time he ties meaning Kim is approved to buy two dots of __Intimidation__ over a single downtime.
+
+
+== Lores ==
+Lores require more effort than most abilities to be taught because of how broad their subject matter can be. The only Lores readily available to your character are the three relating to who they are: creature type, sect, and clan. Even then, you need a teacher or significant experience to gain each level and you're only approved on your own up to rating 3. Anything beyond requires a teacher or a great series of revelations adjudicated by a Storyteller.
+
+Being taught ratings 3 or lesser in a Lore that is readily available to you doesn't require the __Instruction__ ability.
+
+: Example
+Ratta-tat is a Camarilla Brujah. She can learn __Lore: Kindred__, __Lore: Clan Brujah__, and __Lore: Camarilla__ up to rating 3 through experience and determination. She can also be taught these by others without the need for __Instruction__ because she experiences them so often.
+
+
+__Instruction__ equal to the Lore rating you are trying to teach is required for any Lore outside of the available three. In addition, learning any of these Lores requires a number of weeks equal to the Lore rating being taught. During this time period, like with Abilities, it is expect that the student and teacher spend at least an hour with each other nightly to focus on the topic.
+
+: Example
+A teacher with __Lore: Wraith x4__ and __Instruction x2__ has taken on a student with no __Lore: Wraith__. Spending three weeks in dedicated study and tutelage, the teacher is able to express the concepts and the student is now approved to purchase __Lore: Wraith x2__. The student will buy the first rating during the first week of studying the second rating, because this is when the downtime falls. The second rating will be purchased after the second downtime period, making this process take four weeks in total.
+
+
+As the example implies, you may not learn multiple ratings of the same Lore at the same time. Also, the learning time for a Lore may not be reduced.
+
+
+== Disciplines ==
+In-clan disciplines may be purchased at any time. These powers are considered innate to the blood and will come to your character naturally when called upon. If your character has flaws which contradict the previous statements, do what the flaw says.
+
+Out-of-clan disciplines must be taught to your character by another that has the discipline in-clan, and at least one rating higher than the one you seek to learn. The teaching requires a number of weeks equal to the amount of experience points paid for the discipline rating. Basics take four weeks, or two downtimes. Intermediates take 7 weeks, or four downtimes. Advanced take 10 weeks, or five downtimes.
+
+Because disciplines are harder to learn, it is expected that a student and teacher spend two-three hours a night while working on a discipline.
+
+: Example
+Carlton, a Ventrue, wishes to learn __Auspex: Telepathy__. He finds a Toreador named Bim that knows __Auspex: Psychic Projection__. The two spend the next 7 weeks working diligently and Carlton is able to learn __Auspex: Telepathy__.
+
+
+=== Instruction ===
+__Instruction__ can be used to reduce the time it takes to learn an out-of-clan discipline. In order to use __Instruction__ to teach a discipline, you must have an __Instruction__ rating equal to the rating of the discipline you are teaching. At the next game after declaring that two characters will teach each other, the teacher expends a point of __Instruction__ to make a simple test. They may retest using __Instruction__ as well.
+
+If the test is ultimately successful, the amount of weeks required to learn the discipline is reduced by the __Instruction__ rating that was expended. If you expended an __Instruction__ at 5, but used a retest before successful, you will reduce the learning time by 5 weeks. A discipline must take at least two weeks to teach.
+
+Your __Instruction__ rating does not refresh for the duration of teaching a discipline using __Instruction__.
+
+Learning time on a success in weeks. Horizontal: Discipline level. Vertical: Instruction rating.
+
+| 0 | 1 | 2 | 3 | 4 | 5 |
+| 1 | 3 | X | X | X | X |
+| 2 | 2 | 2 | X | X | X |
+| 3 | 2 | 2 | 4 | X | X |
+| 4 | 2 | 2 | 3 | 3 | X |
+| 5 | 2 | 2 | 2 | 2 | 5 |
+
+%!include(xhtml): ''post_main_content.html''

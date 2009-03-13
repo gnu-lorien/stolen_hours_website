@@ -1,0 +1,112 @@
+
+%!target: xhtml
+%!options: -o combat.html -H --toc
+%!postproc: WINDOW_TITLE "Combat"
+%!postproc: MAIN_TITLE "Combat House Rules and Errata"
+%!include(xhtml): ''pre_main_content.html''
+%%toc
+== Preamble ==
+Combat should not be the main focus of any LARP. Portrayal, drama, and genre are at a minimal in combat scenes. However, combat does happen in the world of darkness. Senseless death is part and parcel of the genre. With the continued existence of a PC in the balance, it becomes crucial for STs and Narrators to know Combat rules.
+
+
+== Declaration ==
+combat begins when a player announces an action and bids a trait. "I'm Brutal enough to stake you," for example. At that moment, combat has begun. All combat scenes should be adjudicated by an ST or Narrator otherwise //not involved in the scene//.
+
+If a Narrator's character is in the combat scene, either as an aggressor or a defender, that Narrator may not adjudicate the combat. Narrators may not run combat that involves more than three participants without the agreement of the participants or an ST. An ST //must// run any combat that originates in an effort to kill a PC.
+
+
+== Order of Combat Turns within a Round ==
++ **Blood expenditures**. These may not exceed Generational limits in any situation. Blood rules may be found in Laws of the Night: Revised. Generally, this blood expenditure is used to boost physical traits, fuel disciplines, or heal wounds.
++ **Declaration of targets**. Everyone points to his or her targets.
++ **Alacrity Actions**. Characters who spend blood traits for Celerity: Alacrity have the first action in combat. This action is a non-offensive pre-emptive action, such as moving or drawing a weapon. In the case that two or more people are trying to go first in the Alacrity round, levels of celerity, then physical traits, then generation, and then a static test determine order (if needed).
++ **Normal Mental Actions**. Some Thaumaturgy or Necromancy can be either Mental or Physical or Social. Please consult the various power levels to determine which stage is appropriate.
++ **Normal Social Actions**. In this stage, a player may speak a short statement. To complete a full sentence, a character may very well spend several rounds. Some social actions allow Status to be tacked onto the bid. Please consult with the Narrator or ST running the scene to determine if this is appropriate.
++ **Normal Physical Actions**.
++ **Swiftness Actions**. Tenebrous Form actions are resolved. All extra actions gained because of Celerity or Obtenebration must be physical actions.
++ **Legerity Actions**. All extra actions gained because of Celerity must be Physical actions.
++ **Arms of the Abyss Actions**. All actions in this phase must be Physical.
++ **Clean Up**. Healing (if blood was spent) is completed in this action, blood spent for disciplines and/or Physical traits (if above Gen Max) are exhausted. Characters who declared Vanish from the Mind's Eye disappear at this time.  Make any appropriate Humanity Tests. Scratch off special limited weapons and/or armor. Make special notations onto any character sheet, as needed.
++ **Narration**. At the end of a combat scene, the ST or Narrator running the scene will thematically recap what happened in the previous round.  4 seconds of IC time have just passed. Return to step one and begin the process again until combat is resolved.
+
+
+== Surprise ==
+Surprise may be gained with a Surprise 3 count, in most cases. In order to establish surprise, an aggressor needs to declare her actions, and then make a "surprise 1, surprise 2, surprise 3" count. This count must be made where the victim can hear it and may react. The benefit of surprise is that the aggressor gains 1 free retest ("surprise retest") during the surprise round as well as the defender not being able to counterattack for the first round. Some Disciplines and Merits modify this count. To negate a surprise attempt, a defender must declare a trait a trait appropriate to the challenge. 
+
+- Enacting surprise from Shadowplay reduces the surprise count by 1.
+- Enacting surprise from Obfuscate reduces the surprise count by 1.
+- Enacting surprise from Silence of Death reduces the surprise count by 1.
+
+
+The surprise count may never drop below "Surprise 1", but the count should continue until the person you are attacking responds regardless of any Disciplines you might be using, as they may have the __Alertness__ ability and wish to use it.
+Characters who are surprised may only defend appropriately.  Any aggressor who gains surprise over another character gains a surprise retest during the initial challenge.  This retest must be the first used during the retest phase.
+
+
+== Special Attacks ==
+: Staking
+To stake an individual, a person must declare s/he is attempting to stake their target. If s/he is successful, two simple tests are **immediately** made. If the aggressor wins both tests, the victim is staked and loses the rest of his actions in the round (if any). Staking by use of a crossbow or bow requires 3 tests (win or tie) to achieve staking. The only merit that may retest against staking is Luck. 
+
+Fortitude does not prevent staking until level 5 (and beyond). Use of __Fortitude: Aegis__ must be declared before any staking challenges are thrown.
+: Disarming
+Weapons may be disarmed by announcing you are attempting to disarm an opponent. The challenge is resolved as normal, but instead of dealing damage, the victim's weapon is removed from his or her grasp. The disarmed weapon shall be placed in such a location that the victim may retrieve it at the end of the next turn. 
+
+In effect, disarming an opponent removes his weapon for a turn, unless special arrangements are made (someone else stepping on it, disarming it into a vat of molten lava, Mechagodzilla, etc).
+: Called Shots
+There may be no forced addition to the mechanics outcome of a challenge due to RP alone when in combat or otherwise. If you declare that you are "brutal enough to cut off his head," you may be successful in the challenge, but will not instantly remove the target's head. The effects of the challenge can never be greater than the mechanics involved.
+
+Called shots only happen if both parties involved agree on the outcome of the challenge.
+: Two-weapon Combat
+Two-weapons are used as per DE. Using multiple weapons does not grant you extra actions or additional damage. It allows you to bid an extra trait on ties. Mixing two guns with multiple damage types has no effect, as you must choose which weapon is the primary, or damage dealing, weapon.
+
+
+== Pummel Parties ==
+Combatants may choose to forego dodging in an effort to beat down their opponents. Two boxers, standing their ground, raining blows down upon each other is the appropriate image for this tactic. When an aggressor declares an attack, rather than declaring a dodge, a defender may declare an attack of his own. The winner of the challenge hits, while the loser misses. However, in this situation, **neither** may have access to __Dodge__ as a retest. Both fighters are more concerned with their opponent's untimely demise more than their own safety. Pummel parties are declared round by round.
+
+Pummel parties may only be used if both combatants have an available action, and both parties agree to the pummelling.
+
+
+== Movement ==
+A character may normally move three steps and still take an action. Moving more than one step affords a -1 trait penalty on ties.
+
+A character may dedicate their action to running. In this case, they make no other maneuvers and only resist with //Stamina-related// traits, but are able to move six steps in a round. Dedicated running is an available maneuver whenever movement is normally available to the character. These are normally during the Alacrity, Normal Physical, Swiftness, and Legarity actions.
+
+
+== Fair Escape ==
+Fair Escape should be adjudicated as per Laws of the Night or at ST discretion.
+
+
+== Bidding Blood Bonds ==
+There are three levels of blood bonds, 1 point, 2 point, 3 point.
+
+At 1 point, the blood-bonded vampire feels kinship and respect for their regnant. The regnant may declare the blood bond against the thrall in any challenge, where it will force the thrall to bid another appropriate trait //only if he is acting against the regnant//. This is essentially a universal negative trait.
+
+A level 2 blood bond is the deepest of brotherly love, romantic sacrifice, breathy tear-streaked farewells as Johnny goes off to war. To act against a regnant for the scene, a 2 point blood bonded Thrall must expend 1 Willpower trait per scene to act against the regnant. Additionally, the regnant still may call for the blood bond during a challenge, thereby requiring the thrall to bid another appropriate trait in any challenge where he is directly acting against the regnant.
+
+A 3 point blood bond is total servitude. You are an appendage at best. Your regnant could beat his thrall with a baseball bat, and the thrall will love him for it because he's showing the thrall attention. A 3 point blood bond works exactly like a 2 point blood bond, except that the thrall must spend 1 willpower per ACTION that he takes against his regnant.
+
+A 1 point blood bond lasts for 1 month, a two point blood bond lasts for 6 months, a three point blood bond lasts for a year and a day. All of these times are measured from the last time the thrall drank from the regnant.
+
+
+== Weapons and Item Cards ==
+Weapon stats will be drawn from Dark Epics. Item cards should represent all weapons. Withdrawing an item card from an (ooc) pocket or (ic) holster/sheath constitutes an action. If you're not prepared for combat, you're at a disadvantage.
+
+Item cards are color coded for concealability.
+
+: Blue cards
+Jacket concealment or smaller. These can be tucked into ooc pockets, boots, backpacks, etc. and still be available for game play.
+: Yellow cards
+Trench coat concealable. If a player/character is wearing a cloak, trench coat, or any other full-body concealment, they may have yellow cards on their person without having to show them openly. If they do not have said covering, yellow cards follow the same rules as red cards.
+: Red cards
+Unconcealable. These MUST be shown at all times, either in hand or pinned to the character. If a red card is not on hand (including stuffed into a pocket, oocly) the item is unavailable for the combat scene. There are no exceptions.
+
+
+== Errata ==
+- Firearms are considered to do bashing damage against vampires.  All other creatures still take Lethal damage.
+- If a character has the ability of Archery or Firearms they may bid their mental traits during the challenge rather than physical ones. This still occurs during the physical round of combat.
+- Aggravated Damage: Wow, this hurts. Healing Aggravated wounds takes 3 blood and a full day of immobilization ("rest"). In order to heal more than 1 agg a night, 3 blood and 1 Willpower must be spent per additional aggravated wound healed. Aggravated Damage may not be healed during a game night (with the exception of Fortitude).
+- The bomb: The bomb does not need to be declared before being used.
+- Willpower: May be used at any time to refresh all traits from a single category once per night. Willpower may be used to stave off wound effects for one round of combat. This Willpower may be used at any time.
+- Thaumaturgy: Some aspects of Thaumaturgy require a physical challenge. However, Thaumaturgy is considered to be &quot;mental&quot; in nature. Therefore, Celerity does not allow additional Thaumaturgy actions. You could not Firestorm someone during the Mental phase, and then Cauldron them during a Swiftness round. The only things that allows for additional Thaumaturgy actions in a single round are higher levels of rare Thaumaturgy Paths (Path of Focused Mind, for example).
+
+
+Thermonuclear Holocaust: This is a bad mamma jamma.
+%!include(xhtml): ''post_main_content.html''
