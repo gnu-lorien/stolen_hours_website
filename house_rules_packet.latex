@@ -1,0 +1,1876 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage[normalem]{ulem} % needed by strike
+\usepackage[urlcolor=blue,colorlinks=true]{hyperref}
+
+\title{Stolen Hours House Rules}
+\author{Andrew Sayman <lorien420@myrealbox.com>}
+\begin{document}
+\date{03/13/2009}
+\maketitle
+\clearpage
+
+\tableofcontents
+
+
+\hypertarget{toc1}{}
+\section{Introduction}
+This is meant as a guide to the house rules and errata for Stolen Hours. It offers modifications and clarifications to rules published by White Wolf Publishing in various sources.
+
+
+\hypertarget{toc2}{}
+\section{Combat}
+\tableofcontents
+\hypertarget{toc3}{}
+\subsection{Preamble}
+Combat should not be the main focus of any LARP. Portrayal, drama, and genre are at a minimal in combat scenes. However, combat does happen in the world of darkness. Senseless death is part and parcel of the genre. With the continued existence of a PC in the balance, it becomes crucial for STs and Narrators to know Combat rules.
+
+\hypertarget{toc4}{}
+\subsection{Declaration}
+combat begins when a player announces an action and bids a trait. "I'm Brutal enough to stake you," for example. At that moment, combat has begun. All combat scenes should be adjudicated by an ST or Narrator otherwise \textit{not involved in the scene}.
+
+If a Narrator's character is in the combat scene, either as an aggressor or a defender, that Narrator may not adjudicate the combat. Narrators may not run combat that involves more than three participants without the agreement of the participants or an ST. An ST \textit{must} run any combat that originates in an effort to kill a PC.
+
+\hypertarget{toc5}{}
+\subsection{Order of Combat Turns within a Round}
+\begin{enumerate}
+\item \textbf{Blood expenditures}. These may not exceed Generational limits in any situation. Blood rules may be found in Laws of the Night: Revised. Generally, this blood expenditure is used to boost physical traits, fuel disciplines, or heal wounds.
+\item \textbf{Declaration of targets}. Everyone points to his or her targets.
+\item \textbf{Alacrity Actions}. Characters who spend blood traits for Celerity: Alacrity have the first action in combat. This action is a non-offensive pre-emptive action, such as moving or drawing a weapon. In the case that two or more people are trying to go first in the Alacrity round, levels of celerity, then physical traits, then generation, and then a static test determine order (if needed).
+\item \textbf{Normal Mental Actions}. Some Thaumaturgy or Necromancy can be either Mental or Physical or Social. Please consult the various power levels to determine which stage is appropriate.
+\item \textbf{Normal Social Actions}. In this stage, a player may speak a short statement. To complete a full sentence, a character may very well spend several rounds. Some social actions allow Status to be tacked onto the bid. Please consult with the Narrator or ST running the scene to determine if this is appropriate.
+\item \textbf{Normal Physical Actions}.
+\item \textbf{Swiftness Actions}. Tenebrous Form actions are resolved. All extra actions gained because of Celerity or Obtenebration must be physical actions.
+\item \textbf{Legerity Actions}. All extra actions gained because of Celerity must be Physical actions.
+\item \textbf{Arms of the Abyss Actions}. All actions in this phase must be Physical.
+\item \textbf{Clean Up}. Healing (if blood was spent) is completed in this action, blood spent for disciplines and/or Physical traits (if above Gen Max) are exhausted. Characters who declared Vanish from the Mind's Eye disappear at this time.  Make any appropriate Humanity Tests. Scratch off special limited weapons and/or armor. Make special notations onto any character sheet, as needed.
+\item \textbf{Narration}. At the end of a combat scene, the ST or Narrator running the scene will thematically recap what happened in the previous round.  4 seconds of IC time have just passed. Return to step one and begin the process again until combat is resolved.
+\end{enumerate}
+
+\hypertarget{toc6}{}
+\subsection{Surprise}
+Surprise may be gained with a Surprise 3 count, in most cases. In order to establish surprise, an aggressor needs to declare her actions, and then make a "surprise 1, surprise 2, surprise 3" count. This count must be made where the victim can hear it and may react. The benefit of surprise is that the aggressor gains 1 free retest ("surprise retest") during the surprise round as well as the defender not being able to counterattack for the first round. Some Disciplines and Merits modify this count. To negate a surprise attempt, a defender must declare a trait a trait appropriate to the challenge. 
+
+\begin{itemize}
+\item Enacting surprise from Shadowplay reduces the surprise count by 1.
+\item Enacting surprise from Obfuscate reduces the surprise count by 1.
+\item Enacting surprise from Silence of Death reduces the surprise count by 1.
+\end{itemize}
+
+The surprise count may never drop below "Surprise 1", but the count should continue until the person you are attacking responds regardless of any Disciplines you might be using, as they may have the \underline{Alertness} ability and wish to use it.
+Characters who are surprised may only defend appropriately.  Any aggressor who gains surprise over another character gains a surprise retest during the initial challenge.  This retest must be the first used during the retest phase.
+
+\hypertarget{toc7}{}
+\subsection{Special Attacks}
+\begin{description}
+\item[Staking]
+To stake an individual, a person must declare s/he is attempting to stake their target. If s/he is successful, two simple tests are \textbf{immediately} made. If the aggressor wins both tests, the victim is staked and loses the rest of his actions in the round (if any). Staking by use of a crossbow or bow requires 3 tests (win or tie) to achieve staking. The only merit that may retest against staking is Luck. 
+
+Fortitude does not prevent staking until level 5 (and beyond). Use of \underline{Fortitude: Aegis} must be declared before any staking challenges are thrown.
+\item[Disarming]
+Weapons may be disarmed by announcing you are attempting to disarm an opponent. The challenge is resolved as normal, but instead of dealing damage, the victim's weapon is removed from his or her grasp. The disarmed weapon shall be placed in such a location that the victim may retrieve it at the end of the next turn. 
+
+In effect, disarming an opponent removes his weapon for a turn, unless special arrangements are made (someone else stepping on it, disarming it into a vat of molten lava, Mechagodzilla, etc).
+\item[Called Shots]
+There may be no forced addition to the mechanics outcome of a challenge due to RP alone when in combat or otherwise. If you declare that you are "brutal enough to cut off his head," you may be successful in the challenge, but will not instantly remove the target's head. The effects of the challenge can never be greater than the mechanics involved.
+
+Called shots only happen if both parties involved agree on the outcome of the challenge.
+\item[Two-weapon Combat]
+Two-weapons are used as per DE. Using multiple weapons does not grant you extra actions or additional damage. It allows you to bid an extra trait on ties. Mixing two guns with multiple damage types has no effect, as you must choose which weapon is the primary, or damage dealing, weapon.
+\end{description}
+
+\hypertarget{toc8}{}
+\subsection{Pummel Parties}
+Combatants may choose to forego dodging in an effort to beat down their opponents. Two boxers, standing their ground, raining blows down upon each other is the appropriate image for this tactic. When an aggressor declares an attack, rather than declaring a dodge, a defender may declare an attack of his own. The winner of the challenge hits, while the loser misses. However, in this situation, \textbf{neither} may have access to \underline{Dodge} as a retest. Both fighters are more concerned with their opponent's untimely demise more than their own safety. Pummel parties are declared round by round.
+
+Pummel parties may only be used if both combatants have an available action, and both parties agree to the pummelling.
+
+\hypertarget{toc9}{}
+\subsection{Movement}
+A character may normally move three steps and still take an action. Moving more than one step affords a -1 trait penalty on ties.
+
+A character may dedicate their action to running. In this case, they make no other maneuvers and only resist with \textit{Stamina-related} traits, but are able to move six steps in a round. Dedicated running is an available maneuver whenever movement is normally available to the character. These are normally during the Alacrity, Normal Physical, Swiftness, and Legarity actions.
+
+\hypertarget{toc10}{}
+\subsection{Fair Escape}
+Fair Escape should be adjudicated as per Laws of the Night or at ST discretion.
+
+\hypertarget{toc11}{}
+\subsection{Bidding Blood Bonds}
+There are three levels of blood bonds, 1 point, 2 point, 3 point.
+
+At 1 point, the blood-bonded vampire feels kinship and respect for their regnant. The regnant may declare the blood bond against the thrall in any challenge, where it will force the thrall to bid another appropriate trait \textit{only if he is acting against the regnant}. This is essentially a universal negative trait.
+
+A level 2 blood bond is the deepest of brotherly love, romantic sacrifice, breathy tear-streaked farewells as Johnny goes off to war. To act against a regnant for the scene, a 2 point blood bonded Thrall must expend 1 Willpower trait per scene to act against the regnant. Additionally, the regnant still may call for the blood bond during a challenge, thereby requiring the thrall to bid another appropriate trait in any challenge where he is directly acting against the regnant.
+
+A 3 point blood bond is total servitude. You are an appendage at best. Your regnant could beat his thrall with a baseball bat, and the thrall will love him for it because he's showing the thrall attention. A 3 point blood bond works exactly like a 2 point blood bond, except that the thrall must spend 1 willpower per ACTION that he takes against his regnant.
+
+A 1 point blood bond lasts for 1 month, a two point blood bond lasts for 6 months, a three point blood bond lasts for a year and a day. All of these times are measured from the last time the thrall drank from the regnant.
+
+\hypertarget{toc12}{}
+\subsection{Weapons and Item Cards}
+Weapon stats will be drawn from Dark Epics. Item cards should represent all weapons. Withdrawing an item card from an (ooc) pocket or (ic) holster/sheath constitutes an action. If you're not prepared for combat, you're at a disadvantage.
+
+Item cards are color coded for concealability.
+
+\begin{description}
+\item[Blue cards]
+Jacket concealment or smaller. These can be tucked into ooc pockets, boots, backpacks, etc. and still be available for game play.
+\item[Yellow cards]
+Trench coat concealable. If a player/character is wearing a cloak, trench coat, or any other full-body concealment, they may have yellow cards on their person without having to show them openly. If they do not have said covering, yellow cards follow the same rules as red cards.
+\item[Red cards]
+Unconcealable. These MUST be shown at all times, either in hand or pinned to the character. If a red card is not on hand (including stuffed into a pocket, oocly) the item is unavailable for the combat scene. There are no exceptions.
+\end{description}
+
+\hypertarget{toc13}{}
+\subsection{Errata}
+\begin{itemize}
+\item Firearms are considered to do bashing damage against vampires.  All other creatures still take Lethal damage.
+\item If a character has the ability of Archery or Firearms they may bid their mental traits during the challenge rather than physical ones. This still occurs during the physical round of combat.
+\item Aggravated Damage: Wow, this hurts. Healing Aggravated wounds takes 3 blood and a full day of immobilization ("rest"). In order to heal more than 1 agg a night, 3 blood and 1 Willpower must be spent per additional aggravated wound healed. Aggravated Damage may not be healed during a game night (with the exception of Fortitude).
+\item The bomb: The bomb does not need to be declared before being used.
+\item Willpower: May be used at any time to refresh all traits from a single category once per night. Willpower may be used to stave off wound effects for one round of combat. This Willpower may be used at any time.
+\item Thaumaturgy: Some aspects of Thaumaturgy require a physical challenge. However, Thaumaturgy is considered to be \&quot;mental\&quot; in nature. Therefore, Celerity does not allow additional Thaumaturgy actions. You could not Firestorm someone during the Mental phase, and then Cauldron them during a Swiftness round. The only things that allows for additional Thaumaturgy actions in a single round are higher levels of rare Thaumaturgy Paths (Path of Focused Mind, for example).
+\end{itemize}
+
+Thermonuclear Holocaust: This is a bad mamma jamma.
+
+
+\hypertarget{toc14}{}
+\section{Abilities}
+This is the list of acceptable abilities, and their function.
+
+\begin{description}
+\item[Academics]
+As per LotN:R.
+\item[Animal Ken]
+As per LotN:R. This is the retest for Animalism.
+\item[Archery]
+As per Dark Epics. It requires three static challenges (win or tie) to stake another vampire from range.
+\item[Athletics]
+As per LotN:R. This is the appropriate retest for spitting.
+\item[awareness]
+As per LotN:R. Does not retest with occult, and will not detect dementation use.
+\item[Academics]
+As per LotN:R.
+\item[Blindfighting]
+As per Dark Epics. Obtenebration does not fall into the category of 'natural darkness'. In such a case, blindfighting may be expended only to negate the retest of Shroud of Night. It will not negate the two-trait penalty.
+\item[Brawl]
+As per LotN:R.
+\item[Bureaucracy]
+As per LotE.
+\item[Computer]
+As per LotN:R.
+\item[Crafts]
+As per LotN:R. The focus of this ability must be specified at the time this ability is purchased. Crafts: Body is the retest for Vicissitude.
+\item[Demolition]
+As per Dark Epics. This ability requires Storyteller approval.
+\item[Dodge]
+As per LotN:R.
+\item[Drive]
+As per LotN:R.
+\item[Empathy]
+As per LotN:R. This ability requires at least ten minutes of roleplay before it can be used. Empathy is the retest for Dementation.
+\item[Enigmas]
+As per Dark Epics.
+\item[Etiquette]
+As per LotN:R. This ability must be expended within five seconds of your faux pas.
+\item[Expression]
+As per LotN:R. The focus of this ability must be specified at the time this ability is purchased.
+\item[Finance]
+As per LotN:R.
+\item[Firearms]
+As per LotN:R.
+\item[Fortune telling]
+As per LotN:SG. The type of 'fortune telling' must be determined upon purchasing this ability.
+\item[Gambling]
+As per LotWW.
+\item[Herbalism]
+As per tLN.
+\item[Hobby/professional/expert]
+As per LotN:R. The focus of this ability must be specified at the time this ability is purchased. This ability requires Storyteller approval.
+\item[Hunting]
+As per LotN:CG. This is the retest for your blood test at the beginning of game.
+\item[Instruction]
+Please see the section on teaching and learning.
+\item[Intimidation]
+As per LotN:R. This is the retest for \textit{Dread Gaze}.
+\item[Investigation]
+As per LotN:R. This is the retest for Auspex.
+\item[Law]
+As per LotN:R.
+\item[Leadership]
+As per LotN:R. This is the retest for all Presence powers except \textit{Dread Gaze}.
+\item[Linguistics]
+As per LotN:R. If studying the underlying principles of language, the typical limits of abilities apply. If each point of linguistics represents a different language, the limits do not apply.
+\item[Lore]
+As per Dark Epics. The focus of this ability must be specified at the time this ability is purchased. This ability requires Storyteller approval. Please see the lore section of the house rules.
+\item[MaLk-TiMe]
+Part of the Malkavian Clan advantage, and available only to them. A level of MaLk-TiMe may be expent to locate congregating Malkavians.
+\item[Medicine]
+As per LotN:R.
+\item[Meditation]
+As per Dark Epics.
+\item[Melee]
+As per LotN:R.
+\item[Occult]
+As per LotN:R. This is the retest for Thaumaturgy, Necromancy, Obtenebration, and all forms of Sorcery.
+\item[Performance]
+As per LotN:R. The focus of this ability must be specified at the time this ability is purchased.
+\item[Politics]
+As per LotN:R.
+\item[Psychology]
+As per LotN:CG. This ability requires at least an hour's worth of roleplay.
+\item[Repair]
+As per LotN:R.
+\item[Riding]
+As per LotWW.
+\item[Rituals]
+As per LotN:SG. This ability is \textit{only} available to Sabbat characters. Required for learning/teaching Morality Paths (including Humanity)
+\item[Science]
+As per LotN:R. The focus of this ability must be specified at the time this ability is purchased.
+\item[Security]
+As per LotN:R.
+\item[Scrounge]
+As per LotN:R.
+\item[Stealth]
+As per LotN:R. This is the retest for Obfuscate.
+\item[Streetwise]
+As per LotN:R.
+\item[Subterfuge]
+As per LotN:R.
+\item[Survival]
+As per LotN:R. This is the retest for Fortitude Challenges.
+\item[Theology]
+As per LotH:R.
+\item[Throwing]
+As per Dark Epics.
+\item[Torture]
+As per LotH:R.
+\item[Vamp]
+As per LotN:SG.
+\end{description}
+
+
+\hypertarget{toc15}{}
+\section{Disciplines}
+\tableofcontents
+
+\hypertarget{toc16}{}
+\subsection{Animalism}
+\begin{description}
+\item[Feral Whispers]
+As per LotN: R. Must RP animal noise. This power can be used to communicate with werewolves in Lupus form, but not Crinos.
+\item[Beckoning]
+As per LotN: R. Must RP animal noise. Cannot be used through electronic means.
+\item[Quell the Beast]
+As per LotN:R. This power will pull a werewolf from frenzy and also removes their ability to spend Rage. If used on a werewolf not in frenzy, it has all of the normal effects as well as removing their ability to spend Rage.
+
+It should be noted that Quell the Beast only directly affects a character's ability to temporarily expend Willpower traits.
+\item[Subsume the Spirit]
+As per LotN:R. No discipline that requires the expenditure of blood may be used while possessing an animal, and all requirements of the discipline(s) carried over must be met. If possessing an animal ghoul, it is possible to carry disciplines that require blood. All requirements for using the disciplines must also be met by the possessed animal (example: You cannot issue commands with the first level of Dominate while possessing a cat. They can't speak.)
+\item[Drawing out the Beast]
+As per LotN:R. Remember that you must make this challenge in lieu of a frenzy test. If the victim is pulled from frenzy without leaving your sight, your Beast will return on its own. The Beast returns upon the destruction of the victim or at the end of the night. While the victim has an additional Beast, they suffer from the flaw \textit{Short Fuse}.
+\end{description}
+
+\hypertarget{toc17}{}
+\subsection{Auspex}
+\begin{description}
+\item[Heightened Senses]
+As per LotN:R, except for calculating ties when attempting to pierce Obfuscate. Ties will be calculated by comparing the relative total discipline levels of the two characters.
+
+For example, we have the Toreador Carla with Auspex: Telepathy. She is using Heightened Senses when the Malkavian Bigglesby walks by using Obfuscate: Unseen Presence. He has up to Obfuscate: Cloak the Gathering. She initiates a mental challenge and the two tie. Bigglesby has a greater mastery of Obfuscate than Carla does of Auspex, so he wins. If, for instance, Bigglesby had only known Obfuscate: Vanish from the Mind's Eye, then the two would have compared mental traits.
+
+It should be noted that any loud sound or bright flash only destroys your ability to continue using Heightened Senses. You may still see and hear normally, but must spend a Willpower point to prevent being dazed for a round. You may not reactivate Heightened Senses until the next scene or some significant action is taken to readjust your sense.
+\item[Aura Perception]
+As per LotN:R. Reminder: This is a Static Challenge and has no defensive retest aside from Luck. The defender does not bid a trait. In the event of a failed challenge, the character cannot detect deception, creature type, etc. If you fail a creature type challenge, the aura appears human. If you're searching for deception, magic or diablerie, you find none on a failed challenge. If you're searching for mood and fail, the mood is indeterminable.
+\item[Spirit's Touch]
+As per LotN:R. Use of this discipline ALWAYS requires an ST or Narrator. Persons employing Obfuscate powers will not leave any impression, but they do not "steal" or wipe clean any previous impressions. It is as if they had not even touched the item. This effect lasts for as long as the person remains in Obfuscate.
+\item[Telepathy]
+As per LotN:R. The initial telepathic contact must be made while in line of sight. After contact is established, the telepathically connected individuals may move freely without breaking the telepathy. Malkavians have the option of bidding their derangement in defense against a telepathy challenge in lieu of a trait. The telepathic character suffers the bid derangement for the remainder of the night if she loses the challenge. When probing for deeper thoughts, all characters may bid their derangements. The deeper you go into the mind of a madman, the more likely you are to return with something unexpected. This is a static challenge where the aggressor avoids gaining a derangement on a win or a tie. When going from scene to scene, an out of character announcement must be made if you are telepathically connected to another character.
+\item[Psychic Projection]
+s per LotN:R. No discipline requiring the expenditure of blood may be used while psychically projected. Any other requirements for disciplines carried over must be met.
+\end{description}
+
+\hypertarget{toc18}{}
+\subsection{Celerity}
+\begin{description}
+\item[Alacrity]
+As per LotN:R.
+\item[Swiftness]
+As per LotN:R. This level of Celerity and all higher levels are considered to be a breach of the Masquerade.
+\item[Rapidity]
+As per LotN:R. The bomb never needs to be declared.
+\item[Legerity]
+As per LotN:R.
+\item[Fleetness]
+As per LotN:R. You do not have to declare that you win on ties.
+\end{description}
+
+\hypertarget{toc19}{}
+\subsection{Chimerstry}
+\begin{description}
+\item[Ignis Fatuus]
+As per LotN:R. Any argument about disbelief should be adjudicated by a Storyteller or Narrator. An illusion may not be dispelled simply with the knowledge that the caster is a Ravnos. A Narrator can represent the illusion and make the necessary challenge.
+\item[Fata Morgana]
+As per LotN:R.
+\item[Apparition]
+As per LotN:R. Illusions will not respond to any stimulus except the creator.
+\item[Permanency]
+As per LotN:R.
+\item[Horrid Reality]
+As per LotN:R. In addition to a Willpower Trait, a Blood trait must also be spent. Blood spent to heal 'wounds' afflicted with this power is lost, and the damage remains. Chimerstry attacks the mind and perceptions, not the physical body (as per Clanbook: Ravnos).
+\end{description}
+
+\hypertarget{toc20}{}
+\subsection{Dementation}
+\begin{description}
+\item[Passions]
+As per LotN:R. Requires some sort of social interaction with your intended target. It is possible to stack the effects of Passions by having different aggressors target the same individual. No more than five negative traits may be gained in this manner.
+\item[The Haunting]
+As per LotN:R. It is possible to afflict the same victim more than once by targeting a different sense each time. The mechanical effects will not stack. The effects last for the scene or an hour. This requires some sort of social interaction with your intended target.
+\item[Eyes of Chaos]
+As per LotN:R. In addition, you may use this power on a verb rather than a noun. Those individuals outside of the glory of Malkav who learn this level of Dementation gain a permanent derangement.
+\item[Voice of Madness]
+As per LotN:R. Causes fox-frenzy in Lupines. There is no social challenge. After the aggressor has spoken the necessary words, everyone in range makes a courage check or spends a Willpower not to frenzy.
+\item[Total Insanity]
+As per LotN:R. This discipline must be adjudicated by a Storyteller. It is possible that this level of Dementation will result in a frenzy. The type, if any, will be decided by the Storyteller adjudicating the scene. If a character is affected by this discipline more than once, he does not gain an additional five derangements. The new set will replace the previous derangements.
+\end{description}
+
+\hypertarget{toc21}{}
+\subsection{Dominate}
+\begin{description}
+\item[Command]
+As per LotN:R.
+\item[Mesmerism]
+As per LotN:R.
+\item[Forgetful Mind]
+As per LotN:R. The victim must feel unthreatened while this power is being used. When Forgetful Mind is used successfully, the following must be recorded on an index card: number of traits used by the aggressor, the original memory and the new memory. The victim keeps this index card for future reference.
+\item[Conditioning]
+As per LotN:R. Six sessions is equivalent to six months. In addition to the description provided in LotN:R, it is possible to use this power to extend the lower levels of Dominate (I.E. Mesmerism: "Every time X happens, you will do Y." rather than "The next time X happens, you will do Y.", or Forgetful Mind: Erasing someone's entire life and rebuilding it.) The victim of this type of conditioning does not gain the free retest, nor is the Aggressor automatically successful in any attempts to dominate the victim later.
+\item[Possession]
+As per LotN:R. If possessing a ghoul, you gain access to their physical disciplines and may burn only their Kindred Vitae, not your own, to fuel disciplines. This power will work on changelings, ghouls, hedge mages, humans, hunters, kinfolk. When possessing a creature, you do not gain access to any power you could not normally use. For example, possessing a mage doesn't grant you access to any spheres.
+\end{description}
+
+\hypertarget{toc22}{}
+\subsection{Fortitude}
+\begin{description}
+\item[Endurance]
+As per LotN:R.
+\item[Mettle]
+As per LotN:R.
+\item[Resilience]
+As per LotN:R. The display of this level of Fortitude and all higher levels is a breach of the Masquerade.
+\item[Resistance]
+As per LotN:R. The appearance of wounds being soaked is a serious breach of the Masquerade. It is also extremely intimidating to witness. Bear this in mind in your role-playing.
+\item[Aegis]
+As per LotN:R. At this level of Fortitude, staking may be prevented \textit{only} if the use of Aegis has been declared before the initial staking challenge is begun, \textit{not} the tests to determine if the stake actually hits the heart. This level of Fortitude is intensely intimidating to witness and may have serious role-play effects.
+
+When you permanently expend Willpower or Physical traits for the usage of Aegis, you may expend any traits which have not been temporarily expended.
+\end{description}
+
+\hypertarget{toc23}{}
+\subsection{Melpominee}
+\begin{description}
+\item[Missing Voice]
+As per LotN:R. While using the missing voice, the Daughter is -4 traits on any perception challenges.
+\item[Phantom Speaker]
+As per LotN:R.
+\item[Madrigal]
+As per LotN:R. Any individual outside of the Daughters of Cacophony who learns this discipline automatically begins to hear the same continuous music as the Daughters, thereby giving them the clan weakness.
+\item[Siren's Beckoning]
+As per LotN:R.
+\item[Virtuoso]
+As per LotN:R.
+\end{description}
+
+\hypertarget{toc24}{}
+\subsection{Necromancy}
+\hypertarget{toc25}{}
+\subsubsection{Sepulchre Path}
+\begin{description}
+\item[Insight]
+As per LotN:R.
+\item[Summon Soul]
+As per LotN:R.
+\item[Compel Soul]
+As per LotN:R. If used to compel a wraith to follow the necromancer, a badge must be worn when the wraith is present. If one necromancer attempts to compel a wraith already under the effects of compel, a social test is performed between the two necromancers.
+\item[The Haunting]
+As per LotN:R.
+\item[Torment]
+As per LotN:R.
+\end{description}
+
+\hypertarget{toc26}{}
+\subsubsection{Ash Path}
+\begin{description}
+\item[Shroudsight]
+As per LotN:R.
+\item[Lifeless Tongues]
+As per LotN:R.
+\item[Dead Hand]
+As per LotN:R.
+\item[Ex Nihilio]
+As per LotN:R.
+\item[Shroud Mastery]
+As per LotN:R.
+\end{description}
+
+\hypertarget{toc27}{}
+\subsubsection{Bone Path}
+\begin{description}
+\item[Tremens]
+As per LotN:R. The body can perform no complex action.
+\item[Apprentice Brooms]
+As per LotN:R.
+\item[Shambling Hordes]
+As per LotN:R.
+\item[Soul Steal]
+As per LotN:R. To remove the soul of a mortal, you must first touch the target followed by a reflexive social challenge.
+\item[Daemonic Possession]
+As per LotN:R. 
+\end{description}
+
+\hypertarget{toc28}{}
+\subsection{Obfuscate}
+\begin{description}
+\item[Cloak of Shadows]
+As per LotN:R. Fifty percent of your body must be hidden. Stop signposts and thin, growing trees do not provide the cover required to use this discipline.
+\item[Unseen Presence]
+As per LotN:R. You must be actively searching for hidden individuals while using Auspex: Heightened Senses (or a similar power) in order to sense someone using this power. Acute Sense merits will not pierce Obfuscate.
+\item[Mask of 1000 Faces]
+As per LotN:R. When you create your Mask, you may freely replace social traits on a one for one basis to determine the characteristics of your Mask. This can only be done when the Mask is created and never again. These social traits become the permanent social traits of your mask. Blood may also be spent to add Appearance based Social traits to your mask at the cost of one blood per Social trait, not to exceed your generational limit. This blood must be spent every time the mask is used, even if it is your "permanent" mask. When masking as a specific individual, a badge must be worn to designate this. Given a distinct role-play reason when masking as a specific individual, it is possible to have sufficient reason to doubt the validity of the mask. When attempting to mask as another individual, you cannot add another trait once the mask is in place. You must begin again, including the expenditure of blood.
+\item[Vanish From Mind's Eye]
+As per LotN:R. The use of this discipline is not counted as a Mental Action during combat, but the mental tests are made during the mental round. This means that if another character is not an onlooker during the mental round, the activation of the power is implicitly successful against them. Vanish From the Mind's Eye activates at the end of the round against everybody you were successful against.
+
+"Fading Away" should be justified appropriately for the onlookers. Considering how Obfuscate is a mental affect that causes you to ignore something, it can easily be seen as meta-gaming to jump to the conclusion that Vanish was just used.
+\item[Cloak the Gathering]
+As per LotN:R. You must remain visible to the originator of the cloak. Subjects must be willing to be cloaked, including any staked individuals. Torpored individuals and corpses are the exception to this rule.
+\end{description}
+
+\hypertarget{toc29}{}
+\subsection{Obtenebration}
+\begin{description}
+\item[Shadow Play]
+As per LotN:R.
+\item[Shroud of Night]
+As per LotN:R. By expending a trait of Blindfighting, you may negate the retest Shroud allows for on a trait-for-test basis. For example, if you have Blindfighting x2, you may negate the Shroud retest twice.
+\item[Arms of the Abyss]
+As per LotN:R. A character may create no more tentacles than her level of occult. Potence, not Fortitude, can be added to the tentacles created with this power.
+\item[Black Metamorphosis]
+As per LotN:R. The Clumsy trait gained when struck by black metamorphosis will stack with the Clumsy trait gained while surrounded by Shroud of Night. The tentacles created during this power may not be used as body armor. Potence, not Fortitude, can be added to the tentacles created with this power.
+\item[Tenebrous Form]
+As per LotN:R. You may not spend blood while in tenebrous form.
+\end{description}
+
+\hypertarget{toc30}{}
+\subsection{Potence}
+\begin{description}
+\item[Prowess]
+As per LotN:R.
+\item[Might]
+As per LotN:R.
+\item[Vigor]
+As per LotN:R. Displaying this level of Potence and all higher levels are considered breaches of the Masquerade. You do not have to declare the bomb before use.
+\item[Intensity]
+As per LotN:R.
+\item[Puissance]
+As per LotN:R. You do not have to declare that you win on ties.
+\end{description}
+
+\hypertarget{toc31}{}
+\subsection{Presence}
+\begin{description}
+\item[Awe]
+As per LotN:R. Additionally, by expending one Social trait, the vampire may gain the attention of everyone involved in the scene. This effect lasts for one turn and can only be used once per scene.
+\item[Dread gaze]
+As per LotN:R. This discipline is an obvious breach of the Masquerade.
+\item[Entrancement]
+As per LotN:R.
+\item[Summon]
+As per LotN:R. The amount of time that will be spent out of character by the summoner should be determined previous to the challenge being initiated. The summoner must remain in one place after the challenge has been initiated or the summon breaks. The summoner must wait ten minutes (out of character) before attempting subsequent summon challenge. If the challenge is successful, the victim is aware of the individual to which he is being summoned. The victim will reason out exactly why he is going to see someone, regardless of whether they are considered an ally or an enemy. (Example: If you are summoned by an enemy, you may think you are going to find him and kill.) "Overprotective allies" should be defined as people who will stop you from completing the summons.
+\item[Majesty]
+As per LotN:R. Majesty effects those within audible range (yelling counts). Majesty can be "flavored" with the use of differing Social traits. 
+\end{description}
+
+\hypertarget{toc32}{}
+\subsection{Protean}
+If witnessed by anyone, all levels of Protean are considered a breach of the Masquerade.
+
+\begin{description}
+\item[Eyes of the Beast]
+As per LotN:R. The use of this discipline will negate one trait of the penalty from being confined within Obtenebration: Shroud of Night.
+\item[Feral Claws]
+As per LotN:R. If you bid the trait Sharp and lose the challenge, you may not bid that trait again until you regrow your claws.
+\item[Earth Meld]
+As per LotN:R. In this form, you have mystically bonded with the earth. You are nearly undetectable and may not initiate or be subject to challenges except to be summoned. If a large rock or other obstacle covers the area your character earth melded into, you cannot return until the obstacle is removed.
+\item[Shape of the Beast]
+As per LotN:R. Gangrel are assumed to have Gift of Proteus, though individuals who learn Protean out of clan are restricted to the typical bat / wolf combination.
+\item[Mist Form]
+As per LotN:R. The amount of mist you form is equal to your body mass of water dispersed as mist. Even taking into account that this is a low, dense, and heavy mist (think classic \textbf{B} horror flicks,) this is a lot of mist. 
+\end{description}
+
+\hypertarget{toc33}{}
+\subsection{Quietus}
+\begin{description}
+\item[Silence of Death]
+As per LotN:R. This power may disrupt some Thaumaturgy and Necromancy.
+\item[Scorpion's Touch]
+As per LotN:R. You may only coat a weapon with as many traits of blood as the weapon has bonus traits.
+\item[Dagon's Call]
+As per LotN:R. This power lasts for one evening.
+\item[Baal's Caress]
+As per LotN:R. You may only coat a weapon with as many traits of blood as the weapon has bonus traits. This power converts all damage to aggravated.
+\item[Taste of Death]
+As per LotN:R. To exercise this discipline, blood must be expelled from your body, but not necessarily spit. 
+\end{description}
+
+\hypertarget{toc34}{}
+\subsection{Serpentis}
+\begin{description}
+\item[Eyes of the Serpent]
+As per LotN:R.
+\item[Tongue of the Asp]
+As per LotN:R. Costs one blood to activate.
+\item[Skin of the Adder]
+As per LotN:R.
+\item[Form of the Cobra]
+As per LotN:R.
+\item[Heart of Darkness]
+As per LotN:R.
+\end{description}
+
+\hypertarget{toc35}{}
+\subsection{Vicissitude}
+\begin{description}
+\item[Malleable visage]
+As per LotN:R. Features changed with Malleable Visage will reset at the end of the night.
+\item[Fleshcraft]
+As per LotN:R. Instead of afflicting someone with the negative Social trait Repugnant, you may choose to grant or remove one Appearance based Social trait. Each trait added or subtracted requires a Mental Challenge, typically versus seven traits. Alteration of the difficulty may be made by the adjudicating ST. Repairing damage done with this ability requires either Vicissitude, Biothaumaturgy or Medicine: Surgery x5. If using Medicine: Surgery x5 to repair damage done with this power, you must spend one week per level of damage in constant surgery. Mortals can never be returned to their original state.
+\item[Bonecraft]
+As per LotN:R. Healing the damage given by this power does not remove the alterations made. If using Medicine: Surgery x5 to repair damage done with this power, you must spend one week per level of damage in constant surgery. Mortals can never be returned to their original state.
+\item[Horrid form]
+As per LotN:R. When testing for RÃ¶tschrek, the standard difficulty is three traits.
+\item[Blood form]
+As per LotN:R. You must meet all the requirements to use mental disciplines. You will be susceptible to some Thaumaturgy.
+\end{description}
+
+
+\hypertarget{toc36}{}
+\section{Character Creation}
+\tableofcontents
+
+\hypertarget{toc37}{}
+\subsection{Age and Generation}
+Due to the setting of this chronicle, players are limited to playing younger characters. As such, the background Generation is limited to 10th and higher. When developing a character concept, you may have characters that are up to 50 years old in the Embrace.
+
+There are exceptions to this rule, but it requires purchase of one of two merits or flaws. The Recently Arisen flaw (3pts) which also has an RP price-tag applied, and may also include the purchase of additional negative traits (of all three varieties) to make up for your modern ignorance, and slow rise from torpor. There are characters out there that will be grandfathered in this, but they are the last of a dying breed.
+
+The other is the Age merit (3pts) to represent that you've been up and active for a longer period of time. This gets you past nasty things like wondering why people call dragons "747's", and that there are not "tiny invisible men" inside of computers. As with recently arisen, be expected to RP the fact that you still aren't 'entirely with it' and cognizant of all modern mores.
+
+These options are limited, and should only be requested if you're quite certain you have the story researched and the character portrayal prowess to pull it off.
+
+\hypertarget{toc38}{}
+\subsubsection{In-game Embrace}
+Players are encouraged, though not forced by any means, to play the Childe or Ghoul of another player's character. In an effort to portray this IC notion of lineage, players who play Childer of pre-established characters will have the necessary generational cost halved. However, players \textbf{must} allocate beginning points to establish the necessary generation, and must be embraced in the chronicle.
+
+\begin{description}
+\item[Example ]
+If a tenth generation Ventrue will be your sire, you must choose Ventrue as a clan as well as paying enough points to reach 11th generation. 13th (the "default" generation) to 12th is one point. 12th to 11th is one point. Divide this total in half and it costs you one point.
+\end{description}
+
+A cost for generation may never go below 1 point. Players must gain the OOC permission of their potential sire's player, before using this advantage.
+
+\hypertarget{toc39}{}
+\subsection{Non-Vampire Concepts}
+Players who wish to portray mortals are strongly encouraged to consider their potential role as chum in a tank of sharks. If you nevertheless wish to portray a mortal, follow the rules for mortal generation as described in LotH. No matter how trivial or unassuming a mortal character is built to be, the Character ST must approve it. It is also highly encouraged that players of mortals use a deus ex machina to explain their interaction with Vampires. If you wish to have a tie to another Vampire character, you must first gain the OOC permission of that vampire's player. 
+
+\begin{description}
+\item[Caveat Emptor]
+In most cases this will result in a Breach of the Masquerade, and things will become incredibly lethal both to the mortal and vampire connection. If a mortal is embraced, follow the rules on pg. 269 of LotN:R.
+\end{description}
+
+Garou, Wraiths, Mages, Mummies, Imbued Hunters, Fae, Bete, and all the other nasties that inhabit the World of Darkness are disallowed as player characters. Vampires, Ghouls, or Mortals are it.
+
+\hypertarget{toc40}{}
+\subsubsection{Ghouls}
+Players who choose to play the Ghoul of another character, will receive 1 free "generation point" per month that they serve as a Ghoul. These points can only be spent for generation. Unspent generational points are lost. Players who wish to build Ghouls to pre-established players must first gain the OOC permission of their potential regnant¿s player. All ghouls are blood-bound to their regnant. All regnants must pay 1 blood point per ghoul at the beginning of game to maintain them (including NPC ghouls). Stolen Hours disallows "free" Ghouls and Ghouls with NPC regnants as playable. Players of Ghouls must have a PC Regnant.
+
+\hypertarget{toc41}{}
+\subsection{Inigo Montoya}
+Stolen Hours, being a member of One World by Night, employs the \textit{Inigo Montoya Rule}. Players are disallowed to build characters that have links of any kind to previous characters they may have played. If your character is to be avenged, allow someone else the opportunity to build that as her personal plot.
+
+\hypertarget{toc42}{}
+\subsection{The End of a Character}
+If you grow bored with your character and wish to bring in another, your first character is said to be \textit{"retired"}. Characters that are retired become NPCs under the direct control of the ST staff. We will do as we please with them to further plot. That character's former player will neither be consulted in her former characters actions and portrayals, nor will she have any say in regards to anything that concerns that former character. All points spent into that character are lost.
+
+Characters that can no longer be played due to reasons of plot are said to be \textit{"shelved"}. Players may shelve characters only with permission of the ST staff and 2/3rds majority vote by the Narrators Council. Shelved characters may only be reactivated by the permission of the ST staff and a 2/3rds majority vote by the Narrators Council. There must be sufficient IC and OOC explanation by the player why she wishes to shelve her character. What constitutes sufficient remains in the purview of the ST staff.
+
+\hypertarget{toc43}{}
+\subsubsection{Rollover Experience Points}
+Players who have had genre characters in good standing may earn up to 30xp in rollover for a new character should their previous character be permanently taken out of play (retired/killed). ALL other standard character creation rules apply. Players with characters administratively destroyed due to disciplinary reasons will receive no rollover points to apply to their next character.
+
+Determination of rollover points is based upon total number of XP earned on the previous character. This is a one-to-four point scale, with every 4 XP earned on a previous character counting towards 1 rollover XP for the new character (rounded to the nearest integer).
+
+\begin{description}
+\item[Example]
+A retired or killed character with 59 earned XP will garner a 15 XP rollover.
+\end{description}
+
+\hypertarget{toc44}{}
+\subsection{Gaining More Background Points}
+Players may submit a detailed history of their character for ST approval. Histories are worth between 1-3 freebie points, depending on quality, research performed, imagination, and content. The amount of this award is entirely up to the ST staff and is non-negotiable. These histories do not replace the requirement of the BAL. Any history that involves another PC must meet with that player prior to submission of history.
+
+Players may submit character portraits, sculptures, soundtracks, or any other creative endeavor once per character for 1-3 freebie points. Points are awarded on the basis of effort, not on quality or personal taste. The amount of this award is entirely up to the ST staff and is non-negotiable. Such submissions remain the property of the player submitting them, although we may ask permission to use them on occasion.
+
+Players may submit a haven write up for 1-3 freebie points. Points awarded are based on effort, research, and imagination. 
+
+Stolen Hours operates on a first come, first serve haven basis. For example, if you want the Jones Building to be your haven, and it is already another player characters haven, you must both a) choose another haven and b) not bring knowledge of that building as a haven IC. To do so constitutes metagaming. This write-up must meet ST approval before points are awarded. No Batcaves. No Fortresses of Solitude. No Avengers Mansions. No cities that transform into a 200 ft tall robot. No spacecraft. See a pattern yet? These write ups are more for your benefit than ours, as defending ones Haven can become the principal obsession of many a Kindred. Stolen Hours does allow haven strikes. If you do not submit a haven write-up, your haven will be considered to have only the most minimal defenses. Yes, you can meet Final Death over a downtime.
+
+All freebie points must be expended at character generation. Experience points need not be.
+
+\hypertarget{toc45}{}
+\subsection{Regular Experience Rewards}
+Golden Ankhs are worth 1 point and are considered experience points. A golden ankh is an award that is bestowed by the players of the game to a specific player to reward superior roleplaying. All golden ankhs must be seconded, and reasons for the award must be announced. Each player should make only one nomination.
+
+The ST staff may award bonus XP for exceptional portrayal. Players will not necessarily be informed of this award.
+
+Player characters will earn 2xp per game attended (base).
+
+Players who are approved to act in the role of Narrator will gain 1 extra experience point per game, in addition to the points they earn for attendance.
+
+STs will earn 4 experience points a game and under no circumstances may exceed this limit. STs are ineligible for Golden Ankhs, although we still enjoy being recognized for superior role-play. STs may not possess active characters in the Chronicle they manage. They may have an inactive character in which they drop their earned experience points. Only when an ST steps down, may she choose to activate that character. Till then, the character is kept "in the background". Any exceptions to this rule must be met by a unanimous decision by the other STs.
+
+\hypertarget{toc46}{}
+\subsection{BAL}
+Before entering game with a new character, all players should fill out an application and have it approved by the Character ST. The application is worth no freebie or experience points. The application is intended to help the player flesh out the character and alert the STs to any potential problems that need to be addressed before the character has an impact on the setting.
+
+\hypertarget{toc47}{}
+\subsubsection{Mortal Life}
+\begin{enumerate}
+\item When and where were you born?
+\item What was your profession?
+\item What was your name?
+\item Describe your interests/abilities
+\item Describe your greatest triumph and failure
+\item Describe your family
+\item A quote that describes your mortal life:
+\end{enumerate}
+
+\hypertarget{toc48}{}
+\subsubsection{The Embrace}
+\begin{enumerate}
+\item When and where were you embraced?
+\item What did you look like when you were Embraced? (this may affect your permanent appearance)
+\item Why were you embraced? What made you special enough to be made immortal?
+\item Who was/is your sire?
+\item Describe your Embrace
+\item Are you interested in making Childer of your own?
+\item What would constitute a suitable Childer for you?
+\end{enumerate}
+
+\hypertarget{toc49}{}
+\subsubsection{Being}
+\begin{enumerate}
+\item Is immortality a blessing or a curse (or neither)?
+\item What are your goals?
+\item Were you present at any major historical event?
+\item Have you met any of the other characters or NPCs before?
+\item What unique or strange skills/abilities do you possess?
+\item Describe any relevant relationships you have or have had
+\item What do you fear the most?
+\end{enumerate}
+
+\hypertarget{toc50}{}
+\subsubsection{Allegiances}
+\begin{enumerate}
+\item What sect are you?
+\item Why?
+\item What has it done for you?
+\item What have you done for it?
+\item Do you have any allies, and whom are they?
+\item Do you have any enemies, and who are they?
+\item What is your secret?
+\end{enumerate}
+
+\hypertarget{toc51}{}
+\subsubsection{The World}
+\begin{enumerate}
+\item Where are you from, most recently?
+\item Why are you here?
+\item Where is your haven?
+\item Describe your attitude on mortals.
+\item Describe your attitude on your clan.
+\item Describe your thoughts on the Beast.
+\item Where are you going?
+\end{enumerate}
+
+\hypertarget{toc52}{}
+\subsubsection{Immortality}
+\begin{enumerate}
+\item What do you do with your endless time?
+\item What entertains you?
+\item How does it feel to be a vampire?
+\item How do you feed?
+\item Describe your Beast
+\item How much status do you hold, and why were you awarded it?
+\item What is your lie?
+\end{enumerate}
+
+\hypertarget{toc53}{}
+\subsection{Nature and Demeanor}
+Stolen Hours does not distinguish between Sabbat and Camarilla Natures as such that only those within a certain sect may take a certain Nature. Any character may take any of the Natures listed below, though you should be aware of its potentially destructive guidelines concerning the morality path your character may be on. 
+
+For example, Characters on the Path of Humanity are encouraged to not take Torturer as a Nature. Characters that disregard their Nature will likely be required to make a Morality test, or they may even have Morality stripped without a test by an ST. Your Nature is the foundation of your own strength, which is used to overcome many struggles, including The Beast. If you violate your nature, you will be subjected to a Morality test. Please note that Malkavians may declare new Natures and Demeanors at the beginning of each game. At times, these changes will be assigned to them.
+
+\begin{description}
+\item[Alpha]
+You were born to lead, and you prove it repeatedly
+\item[Architect]
+You seek to create something of lasting value
+\item[Autocrat]
+You want to be in charge and in control
+\item[Avant-garde]
+You live for new things, cutting edge is all that will do
+\item[Barbarian]
+Order is nothing, honor is what matters
+\item[Bon Vivant]
+Only a good time can assuage your otherwise empty existence
+\item[Bravo]
+You are something of a bully
+\item[Bureaucrat]
+You organize everything including the paperwork, and you¿ve got the paperwork to prove it
+\item[Caregiver]
+You seek to comfort and nurture others
+\item[Chameleon]
+You blend in with whatever group you¿re with
+\item[Celebrant]
+You have a passion that you are driven by
+\item[Child]
+You never really grew up and need someone to take care of you
+\item[Competitor]
+You take great excitement in the pursuit of victory. Every challenge is a contest to be won
+\item[Confidant]
+You enjoy listening, and work hard to see that others trust you
+\item[Conformist]
+You are a follower at heart and find it easy to adapt, adjust and comply
+\item[Conniver]
+There's always an easier way and it usually involves someone else doing your work
+\item[Critic]
+Nothing's perfect, and you make sure everyone knows that
+\item[Curmudgeon]
+Bitter and cynical. You always see the glass as half empty and know that everyone will do the stupid thing
+\item[Dabbler]
+You want to sample all of the new things in the world.
+\item[Daredevil]
+You love taking risks and will seize any opportunity to do so. Unlike Thrill Seeker, you are less concerned with the potential danger of any situation.
+\item[Dark Pioneer]
+You can't change the traditions of the past but you will do anything to create the disturbing traditions of the future.
+\item[Dark Poet]
+You want to share the beauty of darkness with the rest of the world.
+\item[Defender]
+The shepherd from Ezekial 25:17
+\item[Deviant]
+You exist for no one's pleasure then your own
+\item[Director]
+You don't have to be in control as long as they are doing it your way
+\item[Drunk Uncle]
+When things are going well you are everyone's best friend, when things are going poorly you're their worst nightmare.
+\item[Explorer]
+Nothing excites you like exploring
+\item[Eye of the Storm]
+Despite a calm appearance, you surround yourself with Chaos
+\item[Fanatic]
+Your purpose consumes your existence and gives your life meaning
+\item[Follower]
+If a person is a leader, it¿s for a reason. Best to listen to them.
+\item[Gallant]
+You are flamboyant, always seeking attention and the chance to be the brightest star
+\item[Gambler]
+It¿s all about beating the odds, and you¿ve got nothing to lose
+\item[Hedonist]
+Life is meaningless so enjoy it as long as it lasts
+\item[Idealist]
+You are committed to a cause greater than yourself
+\item[Interrogator]
+It's not the answers that matter, it's the pleasure you get asking the questions.
+\item[Innovator]
+If there's a better way, you¿re trying to figure it out
+\item[Jester]
+Always the clown and can't take life or death seriously
+\item[Judge]
+You seek justice and reconciliation
+\item[Leader]
+Good thing you¿re around, no one else has a clue
+\item[Loner]
+You are forever alone, even in a crowd
+\item[Loyalist]
+You're the yes-man
+\item[Martyr]
+You need to be needed, suffer for your cause and enjoy being morally superior
+\item[Masochist]
+You exist to test you limit and see how much you can tolerate before you collapse
+\item[Mediator]
+Your words can calm anyone down
+\item[Monster]
+You know you are a creature of darkness and act like it
+\item[Pedagogue]
+You know it all and need to enlighten others...at length if necessary.
+\item[Penitent]
+You exist to atone for the grave sin you have committed for simply being who you are.
+\item[Perfectionist]
+You simply demand the best from others as well as yourself
+\item[Rebel]
+No need for a cause you rebel out of habit and passion
+\item[Recruiter]
+It makes sense to build your side up before tearing theirs down
+\item[Rogue]
+You believe it is all for the better of your own survival. No need to fret about others when you have you to worry about.
+\item[Scientist]
+Diligent, rational examination can reveal all the secrets of the world.
+\item[Shamanist]
+You see your killer's role as part of the supernatural order.
+\item[Stalker]
+The chase is all; the capture and feeding almost anticlimactic
+\item[Soldier]
+You are pleased to carry out orders expeditiously and to the letter.
+\item[Sorority Sister]
+You do what ever the in-crowd does and do it better.
+\item[Survivor]
+You struggle to survive no matter what the odds.
+\item[Thrill Seeker]
+Live for the rush brought on by danger
+\item[Torturer]
+Pain isn't a profession for you; it is a calling.
+\item[Traditionalist]
+You prefer the orthodox and conservative ways. You prefer to accomplish your goals through time tested methods.
+\item[Trickster]
+You find absurdity in everything and choose to enlighten the spirits of those around you.
+\item[Visionary]
+You look beyond the mundane and see the truly wondrous; wisdom is your quest - insight your key.
+\end{description}
+
+\hypertarget{toc54}{}
+\subsection{Traits}
+Traits are not straight numbers, but instead reflect the adjectives that describe your character. Only 3 points worth of negative traits per category (physical, social, mental) may be taken. Each negative trait earns you one freebie point. No more than five total negative traits can be taken. Clan related disadvantages do not count towards this limit. A trait may be bought as high as x5.
+
+Appropriate traits are as follows:
+
+\hypertarget{toc55}{}
+\subsubsection{Physical Traits}
+\begin{description}
+\item[Strength-related]
+Brawny, Ferocious, Stalwart, Tough, Wiry, Vicious
+\item[Dexterity-related]
+Dexterous, Graceful, Lithe, Nimble, Quick, Fierce
+\item[Stamina-related]
+Enduring, Resilient, Robust, Rugged, Tireless, Deadly, Savage
+\item[Miscellaneous]
+Agile, Brutal, Energetic, Steady, Tenacious, Vigorous, Aggressive
+\item[Negative]
+Clumsy, Cowardly, Decrepit, Delicate, Docile, Flabby, Frail, Lame, Lethargic, Puny, Sickly, Slow, Soft
+\end{description}
+
+\hypertarget{toc56}{}
+\subsubsection{Social Traits}
+\begin{description}
+\item[Charisma-related]
+Charismatic, Charming, Dignified, Eloquent, Expressive, Genial, Intense, Threatening
+\item[Manipulation-related]
+Beguiling, Commanding, Ingratiating, Persuasive, Manipulative
+\item[Appearance-related]
+Alluring, Elegant, Gorgeous, Magnetic, Seductive
+\item[Miscellaneous]
+Diplomatic, Empathetic, Intimidating, Friendly, Witty
+\item[Negative]
+Bestial, Callous, Condescending, Cruel, Dull, Feral, Meek, Naïve, Obnoxious, Repugnant, Shy, Tactless, Untrustworthy
+\end{description}
+
+\hypertarget{toc57}{}
+\subsubsection{Mental Traits}
+\begin{description}
+\item[Perception-related]
+Attentive, Discerning, Insightful, Observant, Vigilant, Analytical
+\item[Intelligence-related]
+Cunning, Disciplined, Knowledgeable, Rational, Reflective, Focused
+\item[Wits-related]
+Alert, Clever, Intuitive, Shrewd, Wily, Insidious
+\item[Miscellaneous]
+Creative, Dedicated, Determined, Patient, Wise
+\item[Negative]
+Deceitful, Depraved, Forgetful, Gullible, Ignorant, Impatient, Inhumane, Oblivious, Predictable, Shortsighted, Squeamish, Submissive, Unstable, Violent, Witless.
+\end{description}
+
+\hypertarget{toc58}{}
+\subsubsection{Using Your Traits}
+In each trait category there are sub-categories. For example, under Physical Traits, there are those traits that are Strength-related, Stamina-related, Dexterity-related, and Miscellaneous Physical traits. Note that the trait used must be appropriate to the challenge. 
+
+Strength-related traits are used for attacking, stamina-related traits are used for resisting the damage of an attack, and dexterity-related traits are used to be "quick enough" to dodge an attack. 
+
+If you have used a strength-related trait in a challenge, the appropriate retest is probably the Melee or Brawl ability. This is also the only kind of trait you can use with your Might retest. 
+
+If you have used a stamina-related trait, the appropriate retest is the Survival ability. These are the only traits you can spend to win on ties in Fortitude challenges. Also, these are the only traits that can be used to resist damage when your character is staked, or in torpor. 
+
+If you have used a dexterity-related trait, the appropriate retest is most likely the Dodge ability. 
+
+Of course, there are many other kinds of physical challenges besides combat and for many of these, an appropriate Miscellaneous Physical trait works.
+
+The rule of having the right type trait and the right retest applies to social and mental challenges as well. Think long and hard when deciding on the traits for your character. 
+
+If you use an "intimidating" social trait when commanding an animal using Feral Whispers, that animal will behave towards you in an entirely different manner than had you used a "friendly" trait. If you do not have an appropriate trait to bid in a challenge, you will either have to find a way to fake it through blood or willpower expenditure, or relent. Characters being attacked in Celerity rounds without having enough Celerity to keep up must use stamina-related traits to avoid taking damage, as the attacks are coming in faster than your character can otherwise defend against. Even when Staked, you can defend yourself by being "resilient" enough to take it.
+
+\hypertarget{toc59}{}
+\subsection{Status}
+When dealing with members within your sect, your status total can be added to your social trait total. This only applies to normal social challenges when you are making your presence known. The amount of status you hold has no effect on your control over the powers of the blood, so status can never be added when comparing traits for discipline use.
+
+\hypertarget{toc60}{}
+\subsection{Abilities}
+As listed in LotN:R, no ability may exceed the generational limit. A character may have one ability at x6, with ST approval. A character gets 5 freebie points to spend in abilities at character generation. A complete list of acceptable abilities can be found in the Abilities section.
+
+\hypertarget{toc61}{}
+\subsection{Derangements}
+A single derangement may be taken for 2 freebie points. Additional derangements do not add freebie points. A Malkavian's initial derangement grants no freebie points. Derangements should not be taken lightly, they are demanding to roleplay and cannot be bought off easily. These are mental mis-firings that will haunt your character for her entire lifetime, both IC and OOC.
+
+\hypertarget{toc62}{}
+\subsection{Merits and Flaws}
+7 freebie points worth of Flaws may be taken. Additional flaws may be taken, but they do not add to the 7 freebie point maximum. For IC reasons, STs may assign new Flaws to a character at anytime. Players will be responsible for accurate portrayal of all Merits and Flaws. 
+
+7 points worth of Merits may be bought with either xp or freebie points at generation. Please note that additional Merits may be bought later at 2x the cost and only with suitable roleplay. Some Merits may not be taken after character generation. Some merits may not be taken without ST approval. Some merits are limited for the sake of maintaining game balance.
+
+\hypertarget{toc63}{}
+\subsection{Morality}
+With ST approval and pre-approved history you may sacrifice 1 Virtue trait of your choice, for 2 freebie points. After selling a Virtue trait, recalculate your Humanity rating according to your new level. Character creation is the only time that losing Virtue traits directly affects your Humanity level. All characters will follow Humanity. Paths are disallowed at this time. Please note: The higher a character's Humanity rating, the easier it is to pass for human, come out of torpor, and deal with Mortals. There are many, many role-play consequences to losing Humanity.
+
+Paths of Enlightenment are available after character-creation subject to storyteller approval and summary torture*.
+
+\hypertarget{toc64}{}
+\subsection{Backgrounds}
+\hypertarget{toc65}{}
+\subsubsection{Influences}
+Influences may be bought up to level 3 at character generation. It is generally advised that a character specialize on influences rather than spreading them out when purchasing at character creation. The first and second levels of influences are often not better than having Contacts, so they are better as stepping stones than end goals.
+
+\hypertarget{toc66}{}
+\subsubsection{Generation}
+Characters may only be 10th generation or higher. We're playing in a time of thin blood, and characters will begin to reflect this as the Elders die off.
+
+Thin blooded characters are encouraged and 14th and 15th generation are happily available to anybody at character creation.
+
+If you take none of this background, and choose not to be of the highest generation, your character will default to 13th. If you wish to be eligible for lower generation, you must win or tie a certain number of simple tests as indicated below.
+
+\begin{itemize}
+\item 0 wins or ties: 13th Generation
+\item 1 wins or ties: 12th Generation
+\item 2 wins or ties: 11th Generation
+\item 3 wins or ties: 10th Generation
+
+Successfully winning these tests only gets you approval for the purchase of the Generation background.
+\end{itemize}
+
+\hypertarget{toc67}{}
+\subsubsection{Mentor}
+Use of a Mentor can be akin to asking a boon of an elder Kindred. Little comes in the World of Darkness for free. Per LotN:R, p. 104, a simple test is required to call upon one's Mentor. A win means the Mentor will aid you. A tie means they require something in return. A loss means that you must perform a task for your mentor before they will assist you. The cost of expenditure of Mentor traits in the event of a loss or tie are as follows:
+
+\begin{itemize}
+\item Mentor x1: equivalent of a Trivial Boon.
+\item Mentor x2: equivalent of a Minor Boon.
+\item Mentor x3: equivalent of a Major Boon.
+\item Mentor x4: equivalent of a Blood Boon.
+\item Mentor x5: equivalent of a Life Boon.
+\end{itemize}
+
+Needless to say, a tie or loss entails personal plot for your character to fulfill. Additionally, in the event of a loss or tie when expending Mentor traits, if the character is unwilling or unable to uphold their end of the bargain, a point of Mentor is lost permanently.
+
+Any Mentor background above two must be thoroughly discussed and approved by the Character ST before play.
+
+\hypertarget{toc68}{}
+\subsubsection{Allies}
+Allies are people that will come to your aid in a pinch. The Allies background can be purchased as many times as your storytellers will approve you for. There are generally two ways to think about and purchase the Allies background; one in which each dot represents a different person, or one in which each dot represents extra competency for a single person.
+
+Firstly, you can think of each dot as representing a person. In this case, your Allies are considered fairly competent people, but only experts at one thing. Each dot you have in this background can be another expertise you have to call on through your Allies. In general, you should group this sort of generic ally into one instance of the Allies background.
+
+Secondly, you can think of each dot representing better competence in a single person. These allies should have a thematic direction for their skills and expertise. As more dots are purchased, they will become more competent in areas that make sense for their story. This sort of ally has the capacity to be much more useful than the first, more generic version. The trade-off is that they are represented by a single, quite destroyable person.
+
+\hypertarget{toc69}{}
+\subsubsection{Retainers}
+Retainers differ from Allies in that they are typically less competent, but unfailingly loyal to your character. Systematically they are modelled similarly to Allies, but are assumed to start out as every-day people rather than the particularly competent or skilled. The trade-off is that they'll only betray you in the most dire of circumstances, and, even then, they'll do their best to make sure you make it out okay.
+
+\hypertarget{toc70}{}
+\subsubsection{Herd}
+Each dot of Herd you expend allows you to regain two blood points.
+
+You can choose to use this background at the beginning of game, or during game by sitting out for 15 minutes.
+
+You may purchase multiple Herds. Each Herd you feed from is another 15 minutes out of game, but you need only spend 15 minutes to maximally feed off of a single Herd.
+
+\begin{description}
+\item[Example]
+Charles has Herd x3 representing a local night club and Herd x5 representing a convent he has access to. After a hectic scene, he decides to stop off at the convent to feed. He expends three points of his Herd x5 and spends 15 minutes out of game. Later on, more chaos ensues pushing him to the brink of blood frenzy. He needs to feed at both locations, so he expends the remaining five points of Herd he has available and spends 30 minutes out of game because he is using two different sources.
+\end{description}
+
+\hypertarget{toc71}{}
+\subsubsection{Status}
+Status may be bought at the cost of 2 freebie points per status trait, and only to a maximum of 2 bought status traits, not including Acknowledged (which you may take for free with Character ST approval). The Character ST must approve these status traits and justification must be included in your history. 
+
+\hypertarget{toc72}{}
+\subsubsection{Haven Background}
+SH introduces a new background: Haven. Points taken in this background act as retests when defending yourself inside of your haven. They may also be used by STs to prevent or defend your haven. These retests refresh every two weeks.
+
+\hypertarget{toc73}{}
+\subsection{Willpower}
+Starting willpower is determined by your generation. In addition to the uses of Willpower listed on page 107 of LotN:R, Willpower allows 10 minutes of consciousness during the day. Vampires who are active during the day suffer the penalties listed on page 111 of LotN:R. Willpower is regained at the rate of 1 per week. Yes, it can be many weeks before a character's Willpower pool is completely refreshed. 
+
+\begin{itemize}
+\item A Willpower may be spent to negate frenzy. This expenditure must be made before the whole series of frenzy challenges is completed. If the character has not removed the source of the frenzy within 10 minutes, they will automatically frenzy with no chance to resist. A Willpower can be spent to control yourself for 1 round during a frenzy.
+\item In the interest of defending against mental and social disciplines, the spending of one willpower may be used to gain a retest. There are no offensive willpower retests (with the single exception of those trying to break Majesty), and tests resulting in the spending of one willpower are the last tests in the challenge.
+\item As per LotN:R, but as a friendly reminder. Willpower may be use to replenish each trait category once and only once per night.
+\item As per LotN:R, a willpower trait may be spent to initiate a challenge involving an ability that you do not possess. It does not allow for a retest as if you did in fact have the ability, but it will allow you to take an action not normally within your capacity.
+\end{itemize}
+
+Any challenge that does not require the defender to risk a trait (static challenge) cannot be defended with the expenditure of willpower. (I.e. Aura Perception, Eyes of Chaos, etc.)
+
+Regarding the spending of willpower to fuel a discipline, each discipline clearly defines whether the willpower is spent before or after the challenge. All willpower spent prior to the challenge is spent regardless of the result of that challenge.
+
+The level of Willpower any PC has can greatly affect the role-playing of that character. Please note your Willpower levels when preparing for scenes.
+
+\hypertarget{toc74}{}
+\subsection{Blood}
+\hypertarget{toc75}{}
+\subsubsection{Feeding}
+Maximum blood is dependent on generation. During sign-in, players will make a static test for blood. If the player wins, they are at full blood. If they tie, they are at 2/3rds total blood. If they lose they are at 1/3rd blood. 
+
+Characters with 3 traits or lower of blood are ravenous. Your self-control may never be higher than the current number of blood traits a character possesses. Characters with morality paths that preach Instinct over Self Control will always blood frenzy during this condition.
+
+A human being has 10 blood points total, but only 5 of which are accessible through normal means. The rest is bound in the muscles, bones and organs and not actively pumping through the bloodstream at any particular moment. The most blood that can be drawn from a mortal without the use of medical tools or devouring the organs themselves is 5 points. Because Kindred Vitae is denser than mortal blood, Ghouls have the equivalent of 6 blood traits in their system. 3 mortal and 3 kindred.
+
+\begin{enumerate}
+\item The loss of one blood point causes dizziness and mild disorientation. The same as having given blood that day. 
+\item The loss of two traits of blood leaves causes severe fatigue and tiredness, both mental and physical. 
+\item The loss of three traits causes unconsciousness and extreme disorientation. It is likely that if the mortal remembers the events immediately proceeding the Kiss at all, it will be as a hazy dream. 
+\item The loss of four blood traits will cause the mortal to fall into a coma and will require immediate medical attention or risk death. 
+\item The loss of five blood traits will result in death.
+\end{enumerate}
+
+Stored human blood is not as nourishing as "live" blood. It takes two traits of stored blood to equal 1 fresh blood point.
+
+Hunting may be performed at any time during the night. There is no perfect rule for this due to ever changing conditions in the domain. This act must be performed with an ST or Narrator who will explain the current conditions while administering a test for success.
+
+\hypertarget{toc76}{}
+\subsubsection{Assume the Mortal Guise}
+When blood is used to appear human, use the following formula to determine how much blood is needed.
+
+\textit{Amount of blood to appear human = 6 - Humanity Rating}
+
+Keep in mind your generational limit on how much blood can be expended in a round. It may take your character several moments to appear human, depending on how far they have slipped closer to the Beast Within. 
+
+Characters on paths other than Humanity cannot use blood to appear human. 
+
+Those with the merit Blush of Health always appear human, although blood must still be spent to simulate life functions (warm skin, warm breath, etc).
+
+\hypertarget{toc77}{}
+\subsubsection{Blood Frenzy}
+If a Vampire runs out of a blood, they risk immediate Blood Frenzy. Such a Frenzy lasts only 10 minutes, after which the Vampire falls into torpor. If there is a suitable source of blood nearby, and the Vampire feeds to at least 4 blood traits, the Blood Frenzy can be negated.
+
+\hypertarget{toc78}{}
+\subsubsection{Ghouls}
+Ghouls may spend 3 traits of blood (her vampiric blood, only) to soak wounds. If a ghoul runs out of blood, she moves immediately into a coma. (Incapacitated)
+
+Ghouls have 6 blood traits instead of the usual 5: 3 of which are Kindred blood for ghouls. Ghouls may only use these three blood traits for healing and discipline use. Once spent, the ghoul does not suddenly revert to being a human; it is simply a ghoul who has burned up her Kindred blood supply. She may feed from her Regnant to regain this blood. She is however, down to three blood in her system and needs to roleplay this accordingly.
+
+
+\hypertarget{toc79}{}
+\section{Guide to Virtues, Willpower, and Blood}
+\tableofcontents
+
+This document is a work in-progress meant to bring together some disparate rules into one place and offer role-playing advice. Much of this material is supplementary to LotN:R, but would be useful to read anyway for advice or just so you know how the storyteller's of Stolen Hours interpret these systems.
+
+\hypertarget{toc80}{}
+\subsection{Blood}
+\hypertarget{toc81}{}
+\subsubsection{Blood Bonds}
+Blood bonds are a supernatural love and loyalty shared between two people commonly referred to as the thrall and regnant. The thrall is one who has drunk the blood of a vampire, their regnant, and is now supernaturally compelled to love and cherish them.
+
+Blood bonds are described out-of-character by a number of points from one to three. These represent the number of times a thrall has drunk the blood of their regnant on separate nights. It typically takes a full point of blood, which is about a pint for 13th through 10th generation vampires, to actually count towards a blood bond.
+
+In-character, legends speak of a mere drop of blood of blood three times to supernatural bind someone. Kindred Lore and experience often have shown that it takes more than a single drop, but only those with more exceptional levels of Lore have taken the time to codify just how much it takes. The discrepency is written off by the older stories being those of older Kindred with more potent blood. Whereas a Neonate's blood can bind a mortal with one drop, he could not hope to bind an Elder or Ancillae with such miniscule offerings.
+
+\hypertarget{toc82}{}
+\paragraph{}\textbf{Effects on Role-Playing of the Blood bond}\\
+
+A blood bond is probably best described, systematically, as a form of permanent Entrancement that is not deactivated so easily. You start by describing your charcter's feelings towards another's as favorable, neutral, or hostile. The amount in which the thrall will be swayed and affected is described below.
+
+While systematically a blood bond is quite inconvenient, your character will not be able to easily reject the blood bond. The bond forces you to feel better about somebody. It's like being stuck in a bad relationship, or being in love with somebody that abuses you. While the best course of action is to move on, it will hurt you emotionally and you can't bring yourself to do it easily. Blood bonds should be played with this in mind.
+
+Often characters will seek out the blood bond, as the supernatural emotion it instills is some of the most powerful any Kindred can feel. Those close to Humanity, or that miss the highs of life and emotion will seek out people to trust and feel close to. Many Kindred relationships are established this way, as it's the only way to garauntee trust amongst inherently manipulative creatures.
+
+While the loyalty and love are artificial, they feel quite real and are quite potent. Most will not question them unless pushed strongly by others they are bound to or have similar depth of connection with. The blood bond may also pervent with time as an abusive regnant pushes their thrall closer and closer to the breaking point. Consistent abuse for an amount of time that would normally be required to free one of the bond is usually what it takes to pervert it to hate. This doesn't remove the systematic benefits for the regnant, but it does mean that the thrall is now passionately to break the bond. The only sure-fire way to do so is to destroy the regnant.
+
+\hypertarget{toc83}{}
+\paragraph{}\textbf{One Point Bond}\\
+
+At this level of bond, the thrall feels kinship and respect for their regnant. The thrall has permanently moved one level towards favorable for their regnant.
+
+The thrall may still be quite rebellious, and if the regnant takes any overt negative action the thrall may temporarily ignore the positive disposition the blood demands.
+
+In any challenge between the regnant and the thrall, the regnant may bid this blood bond as a negative trait against the thrall. This is essentially a universal negative trait for the regnant. This trait is not subject to the normal rules for bidding negative traits in that the regnant is not required to bid an extra trait if the thrall has broken the bond without his knowledge. Optionally, the thrall may choose to force the regnant to bid an extra trait, but then the regnant will be aware that the bond is broken.
+
+A one point blood bond will last for a month after the regnant and thrall are completely separated from one another. This time is likely to be spent with the thrall idly wondering where their friend is from time to time.
+
+\hypertarget{toc84}{}
+\paragraph{}\textbf{Two Point Bond}\\
+
+This level of bond is the deepest of brotherly love, romantic sacrifice, and sorrowful tears when you must be apart. This is the point at which the thrall is likely to be obviously connected to their regnant. They may speak of them when idle, or seek them out when they aren't around. 
+
+You are still considered only one level towards favorable, but you will begin to justify your position and resist others taking it away from you. Whereas before a thrall might rebel against a public folly, they now begin to justify and defend their regnant. The thrall will also put up with much more harassment and generally must be pushed to something akin to frenzy consistently in order to grow resentful of his regnant.
+
+In order for a thrall to act against their regnant, they must expend one temporary Willpower trait per scene or hour. This is in addition to the negative trait the regnant is allowed to bid for the presence of a one point bond.
+
+A two point blood bond will last for six months after the regnant and thrall are completely separated from one another. This time is likely spent with the thrall wondering where their regnant is, how they're doing, if they're okay, and if they're thinking about the thrall.
+
+\hypertarget{toc85}{}
+\paragraph{}\textbf{Three Point Bond}\\
+
+A three point blood bond is total servitude. You are an appendage at best. A thrall at this level will spend most of his time preoccupied with his regnant. They will seek them out and talk about how great they are. They will generally defend the most atrocious of the regnant's actions with justifications highlighting whatever qualities they can to redeem them.
+
+The thrall is now two levels towards favorably disposed at all times. Only the most base acts of humiliation and torture will convince the thrall that a regnant is anything other than a wonderful person. In general, being without the regnant is actually one of the worst things a regnant can do. The regnant is quite inclined to do this though, because their thrall now demands much attention in addition to loyalty. The correct training can help balance these two things, but it takes work.
+
+Most of the text that White Wolf has written on blood bonds refers to this type. In general, when reading thrall and regnant in a White Wolf book they are only referring to the three point, or full, blood bond.
+
+While these bonds are the most difficult to pervert into hate, they result in the most horrible backlash.
+
+In order for a thrall to act against their regnant, they must now expend one temporary Willpower trait per direct action that they take. They must also expend one temporary Willpower trait per scene or hour in which they indirectly act against their regnant or describe them in a negative way.
+
+A three point blood bond will last for a year and a day after the regnant and thrall are completely separated from one another. This time is likely spent with the thrall in the throes of a great depression. The cornerstone of their life has abandoned them, and few things will seem to matter in that regard. Without restraint, they will seek out their regnant with increasing fervor. As the bond breaks the thralls condition will be very similar to that of an addict in the worst of their withdrawals. It's likely that even after the bond is finished, the thrall will have fond memories and feel an emptiness in their heart.
+
+When a regnant dies, the thrall is aware of the death. The blood bond doesn't break immediately. The thrall must still endure the pain of a fading blood bond. It's likely that the thrall will always feel the emptiness of the bond loss, but without other merits, they may be fully bound again.
+
+
+\hypertarget{toc86}{}
+\section{Teaching and Learning}
+\tableofcontents
+
+\hypertarget{toc87}{}
+\subsection{Abilities}
+Abilities up to a rating of 3 can generally be learned without requiring a teacher or any specialized effort. Some more obscure abilities, like \underline{Demolitions} require special background approval, a teacher, or very dangerous experiments over long time periods with your character.
+
+New ratings of abilities can be purchased any time after you receive approval for them. You can only buy one rating in an ability per downtime. In general though, you won't be approved for higher levels of an ability more than once a month.
+
+\hypertarget{toc88}{}
+\subsubsection{Instruction}
+The \underline{Instruction} ability is used to teach higher level abilities, or to teach two ratings of an ability in a single downtime.
+
+In order to use \underline{Instruction} to teach an ability, you must have \underline{Instruction} and the ability you wish to teach at least at the rating you want to teach. During a downtime period, you declare that your character will be learning from another character. Both must put this in their downtime. The two characters are assumed to then spend at least an hour a night during the downtime working on this ability.
+
+At the next game after the downtime period, the teacher must win a simple test with Instruction as the retest in order to have effectively expressed their lessons to the other character. If they succeed, the student is approved for an additional dot of the taught ability in a single downtime.
+
+\begin{description}
+\item[Example]
+Kim, the most meek Toreador in the domain, has been attacked by a bunch of Sabbat recently. Having finally become fed up with Sabbat laughing at her attempts at \underline{Dread Gaze}, she seeks out the help of Ratta-tat, a local Brujah bruiser. After a short conversation about boons, he agrees to help her out. Ratta-tat has \underline{Instruction x2} and \underline{Intimidation x3}.
+
+Over a downtime, he teaches Kim \underline{Intimidation}. In order to help her learn another dot, he makes a simple test. He loses and decides to expend \underline{Instruction} for a retest. This time he ties meaning Kim is approved to buy two dots of \underline{Intimidation} over a single downtime.
+\end{description}
+
+\hypertarget{toc89}{}
+\subsection{Lores}
+Lores require more effort than most abilities to be taught because of how broad their subject matter can be. The only Lores readily available to your character are the three relating to who they are: creature type, sect, and clan. Even then, you need a teacher or significant experience to gain each level and you're only approved on your own up to rating 3. Anything beyond requires a teacher or a great series of revelations adjudicated by a Storyteller.
+
+Being taught ratings 3 or lesser in a Lore that is readily available to you doesn't require the \underline{Instruction} ability.
+
+\begin{description}
+\item[Example]
+Ratta-tat is a Camarilla Brujah. She can learn \underline{Lore: Kindred}, \underline{Lore: Clan Brujah}, and \underline{Lore: Camarilla} up to rating 3 through experience and determination. She can also be taught these by others without the need for \underline{Instruction} because she experiences them so often.
+\end{description}
+
+\underline{Instruction} equal to the Lore rating you are trying to teach is required for any Lore outside of the available three. In addition, learning any of these Lores requires a number of weeks equal to the Lore rating being taught. During this time period, like with Abilities, it is expect that the student and teacher spend at least an hour with each other nightly to focus on the topic.
+
+\begin{description}
+\item[Example]
+A teacher with \underline{Lore: Wraith x4} and \underline{Instruction x2} has taken on a student with no \underline{Lore: Wraith}. Spending three weeks in dedicated study and tutelage, the teacher is able to express the concepts and the student is now approved to purchase \underline{Lore: Wraith x2}. The student will buy the first rating during the first week of studying the second rating, because this is when the downtime falls. The second rating will be purchased after the second downtime period, making this process take four weeks in total.
+\end{description}
+
+As the example implies, you may not learn multiple ratings of the same Lore at the same time. Also, the learning time for a Lore may not be reduced.
+
+\hypertarget{toc90}{}
+\subsection{Disciplines}
+In-clan disciplines may be purchased at any time. These powers are considered innate to the blood and will come to your character naturally when called upon. If your character has flaws which contradict the previous statements, do what the flaw says.
+
+Out-of-clan disciplines must be taught to your character by another that has the discipline in-clan, and at least one rating higher than the one you seek to learn. The teaching requires a number of weeks equal to the amount of experience points paid for the discipline rating. Basics take four weeks, or two downtimes. Intermediates take 7 weeks, or four downtimes. Advanced take 10 weeks, or five downtimes.
+
+Because disciplines are harder to learn, it is expected that a student and teacher spend two-three hours a night while working on a discipline.
+
+\begin{description}
+\item[Example]
+Carlton, a Ventrue, wishes to learn \underline{Auspex: Telepathy}. He finds a Toreador named Bim that knows \underline{Auspex: Psychic Projection}. The two spend the next 7 weeks working diligently and Carlton is able to learn \underline{Auspex: Telepathy}.
+\end{description}
+
+\hypertarget{toc91}{}
+\subsubsection{Instruction}
+\underline{Instruction} can be used to reduce the time it takes to learn an out-of-clan discipline. In order to use \underline{Instruction} to teach a discipline, you must have an \underline{Instruction} rating equal to the rating of the discipline you are teaching. At the next game after declaring that two characters will teach each other, the teacher expends a point of \underline{Instruction} to make a simple test. They may retest using \underline{Instruction} as well.
+
+If the test is ultimately successful, the amount of weeks required to learn the discipline is reduced by the \underline{Instruction} rating that was expended. If you expended an \underline{Instruction} at 5, but used a retest before successful, you will reduce the learning time by 5 weeks. A discipline must take at least two weeks to teach.
+
+Your \underline{Instruction} rating does not refresh for the duration of teaching a discipline using \underline{Instruction}.
+
+Learning time on a success in weeks. Horizontal: Discipline level. Vertical: Instruction rating.
+
+\begin{center}\begin{tabular}{|l|l|l|l|l|l|}
+\hline 0 & 1 & 2 & 3 & 4 & 5 \\
+\hline 1 & 3 & X & X & X & X \\
+\hline 2 & 2 & 2 & X & X & X \\
+\hline 3 & 2 & 2 & 4 & X & X \\
+\hline 4 & 2 & 2 & 3 & 3 & X \\
+\hline 5 & 2 & 2 & 2 & 2 & 5 \\
+\hline \end{tabular}\end{center}
+
+
+\hypertarget{toc92}{}
+\section{Merits and Flaws}
+Merits and Flaws are described in the following way:
+
+name [cost] - Book or Description.
+
+\tableofcontents
+
+\hypertarget{toc93}{}
+\subsection{Merits}
+\hypertarget{toc94}{}
+\subsubsection{Mental}
+\begin{description}
+\item[Code of honor [1] ]
+As per LotH:R. This version of this merit is available to mortals only.
+\item[Coldly logical [1] ]
+As per LotN:CG.
+\item[Common sense [1] ]
+As per LotN:R.
+\item[Concentration [1] ]
+As per LotN:R.
+\item[Higher purpose [1] ]
+As per LotH:R.
+\item[Introspection [1] ]
+As per LotN:SG.
+\item[Time sense [1] ]
+As per LotN:R.
+\item[Berserker [2] ]
+As per LotW:R. This merit is limited and must have Storyteller approval.
+\item[Code of honor [2] ]
+As per LotN:R. The Code by which your character lives must be approved by a Storyteller and noted on your character sheet.
+\item[Eidetic memory [2] ]
+As per LotN:R.
+\item[Light sleeper [2] ]
+As per LotN:R.
+\item[Natural linguist [2] ]
+As per LotN:R. You may purchase 2 languages for 1 experience point.
+\item[Calm heart [3] ]
+As per LotN:R. Brujah cannot possess this merit.
+\item[Iron will [3] ]
+As per LotN:R. You do not need to spend a willpower to gain the free retest versus Dominate. Instead of granting 3 bonus traits for use against mind affecting magics, the character gains a free retest.  This applies only to Dominate.
+\item[Jack of all trades [5] ]
+As per LotH:R.
+\end{description}
+
+\hypertarget{toc95}{}
+\subsubsection{Social}
+\begin{description}
+\item[Arcane heritage [1] ]
+As per LotH:R.
+\item[Natural leader [1] ]
+As per LotN:R.
+\item[Prestigious sire [1] ]
+As per LotN:R.
+\item[Debt of gratitude [1-3]]
+As per LotN:R. This merit is limited and requires Storyteller approval.
+\item[Ecclesiastical rank [1-3]]
+As per LotH:R.
+\item[Nobility [1-3]]
+As per tLN.
+\item[Manse [2]]
+As per tLN.
+\item[Nightclub [2]]
+As per tSH.
+\item[Reputation [2]]
+As per LotH:R. The social group must be specified.
+\item[Research grant [2]]
+As per LotH:R.
+\item[Sanctity [2]]
+As per LotN:SG.
+\item[Spy network [2]]
+As per tLN. This merit is limited and requires Storyteller approval.
+\item[Top secret access [2]]
+As per LotH:R. This merit is limited and requires Storyteller approval.
+\item[Double identity [3]]
+As per LotH:R.
+\item[License to kill [4]]
+As per LotH:R. This merit is limited and requires Storyteller approval.
+\end{description}
+
+\hypertarget{toc96}{}
+\subsubsection{Physical}
+\begin{description}
+\item[Acute sense [1]]
+As per LotN:R.
+\item[Ambidextrous [1]]
+As per LotN: R. This merit is limited and must have Storyteller approval.
+\item[Bruiser [1]]
+As per LotN:CG.
+\item[Catlike balance [1]]
+As per LotN:R.
+\item[Double jointed [1]]
+As per LotH:R.
+\item[Eat food [1]]
+As per LotN:R. This merit is limited and must have Storyteller approval.
+\item[Early riser [1]]
+As per LotN:SG. This merit allows you to 'cut in line' for blood tests at sign in and has a strong impact on Downtimes.
+\item[Friendly face [1]]
+As per LotN:CG.
+\item[Blush of health [2]]
+As per LotN:R. This merit requires a badge to be worn denoting the merit.
+\item[Enchanting voice [2]]
+As per LotN:R.
+\item[Light sleeper [2]]
+As per LotH:R. This version of this merit is available only to mortals and ghouls.
+\item[Misplaced heart [2]]
+As per tLN. This merit requires an additional static challenge on any staking attempt.
+\item[Resemble vampire [2]]
+As per LotH:R. This merit is available only to mortals and ghouls.
+\item[Efficient digestion [3]]
+As per LotN:R.
+\item[Increased pain tolerance [3]]
+As per LotH:PG.
+\item[Poisonous blood [3]]
+As per LotH:R. This merit is available to mortals only.
+\item[Daredevil [4]]
+Works as the merit $<$I$>$Lucky$<$/I$>$, although Daredevil traits may only be used if outcome will be detrimental if you fail. The Narrator or Storyteller present will determine if Daredevil is an appropriate retest. You cannot take both Daredevil and Luck. This merit is limited and requires Storyteller approval.
+\item[Huge size [4]]
+As per LotN:R. This merit requires a badge to be worn denoting the merit
+\item[Long lived [4]]
+As per LotH:PG. This merit is available to mortals only.
+\end{description}
+
+\hypertarget{toc97}{}
+\subsubsection{Supernatural}
+Notation - All Supernatural merits are limited and require Storyteller approval.
+
+\begin{description}
+\item[Bright aura [1]]
+As per LotN:CG.
+\item[Healing touch [1]]
+As per LotN:CG.
+\item[Inoffensive to animals [1]]
+As per LotN:CG.
+\item[Shivers [1]]
+As per LotH:R.
+\item[Faerie blood [1-5]]
+As per LotH:R. This merit is available to mortals only.
+\item[Fae songs [1-5]]
+As per tSH. This merit is available only to mortals. You must have the merit faerie blood before purchasing this merit.
+\item[Magical item [1-3]]
+As per LotH:R.
+\item[Burning aura [2]]
+As per LotH:PG.
+\item[Danger sense [2]]
+As per LotH:R. Any attacker attempting to gain surprise must count for one additional number to gain the benefits of surprise.
+\item[Faerie affinity [2]]
+As per tLN.
+\item[Magic resistance [2]]
+As per LotN:R.
+\item[Medium [2]]
+As per LotN: R.
+\item[Occult library [2]]
+As per LotH:R.
+\item[Pale aura [2]]
+As per LotH:R. This merit is available to mortals and ghouls only.
+\item[Ghost sight [3]]
+As per LotH:R.
+\item[Kinain [3]]
+As per LotH:R. This merit is available to mortals only.
+\item[Kinfolk [3]]
+As per LotH:R. This merit is available to mortals only.
+\item[Oracular ability [3]]
+As per LotN:R.
+\item[Supernatural companion [3]]
+As per LotW:R.
+\item[Psychic/sorcerous awareness [3-4]]
+As per LotH:R. This merit is available to mortals and ghouls only.
+\item[Spirit mentor [3]]
+As per LotN:R.
+\item[Symbol independence [3]]
+As per LotH:R. This merit is available to mortals only, and not available for purchase.
+\item[Destiny [4]]
+As per LotH:R.
+\item[Easy consort [4]]
+As per LotH:R.
+\item[Ecumenist [4]]
+As per LotH:R. This merit is available to mortals only, and not available for purchase.
+\item[Loyalty [4]]
+As per LotH:R.
+\item[Prophecy [4]]
+As per LotH:R.
+\item[True love [4]]
+As per LotN:R. The willpower granted by this merit cannot be used for any use of a permanent willpower, such as Aegis.
+\item[Unbondable [4]]
+As per LotN:R. This will protect a character from Vaulderie, but will not protect that character from the Tremere clan flaw.
+\item[Clear sighted [5]]
+As per LotH:R.
+\item[Innate magical ability [5]]
+You have some sort of ability that makes you unique. It should not be the same as any vampiric discipline, though the power level should be equitable to an Intermediate discipline. This merit is limited and requires consultation with an ST.
+\item[Life giver [5]]
+As per LotH:R. This merit is available to mortals only.
+\item[Luck [5]]
+As per LotN:R.
+\item[Speaker with the dead [5]]
+As per LotH:R.
+\item[Gnosis [5-7]]
+As per LotH:R. This merit is available to mortals only.
+\item[Mysterious guardian [6]]
+As per LotH:R.
+\item[Nine lives [6]]
+As per LotN:R.
+\item[Fist of god [7]]
+As per LotH:R. This merit is not available for purchase.
+\item[Regeneration [7]]
+As per tSH.
+\item[True faith [7]]
+As per LotN:R. This merit is not available for purchase.
+\end{description}
+
+\hypertarget{toc98}{}
+\subsection{Flaws}
+\hypertarget{toc99}{}
+\subsubsection{Mental}
+\begin{description}
+\item[Anachronism [1]]
+As per LotH:R.
+\item[Compulsion [1]]
+As per LotH:R. This flaw must be specified.
+\item[Deep sleeper [1]]
+As per LotN:R.
+\item[Illiterate [1]]
+As per LotH:R.
+\item[Nightmares [1]]
+As per LotN:R. The player must check with an ST at the beginning of each game.
+\item[Prey exclusion [1]]
+As per LotN:R.
+\item[Shy [1]]
+As per LotN:R.
+\item[Soft hearted [1]]
+As per LotN:R.
+\item[Speech impediment [1]]
+As per LotN:R. This flaw should always be roleplayed. It should be noted that difficulties such as Tourette's syndrome are much more serious than a speech impediment and will not be accepted with this flaw.
+\item[Superstitious [1-3]]
+As per LotE.
+\item[Amnesia [2]]
+As per LotN:R.
+\item[Confused [2]]
+As per LotH:R.
+\item[Low self image [2]]
+As per LotH:R.
+\item[Lunacy [2]]
+As per LotN:R.
+\item[Pack mentality [2]]
+As per LotW:R. Pack may be equivalent to coterie.
+\item[Phobia [2]]
+As per LotN:R.
+\item[Short fuse [2]]
+As per LotN:R.
+\item[Territorial [2]]
+As per LotN:R. This flaw may be applied to more areas than feeding grounds.
+\item[Thirst for innocence [2]]
+As per LotN:CG.
+\item[Vengeful [2]]
+As per LotN:R. This flaw must be specified.
+\item[Absent-minded [3]]
+As per LotH:R.
+\item[Company man [3]]
+As per LotH:R.
+\item[Driving goal [3]]
+As per LotH:R. This flaw must be specified.
+\item[Hatred [3]]
+As per LotW:R.
+\item[Guilt-wracked [4]]
+As per LotN:CG.
+\item[Weak willed [5]]
+As per LotN:R.
+\item[Flashbacks [6]]
+As per LotN:SG.
+\end{description}
+
+\hypertarget{toc100}{}
+\subsubsection{Social}
+\begin{description}
+\item[Dark secret [1]]
+As per LotN:R.
+\item[Infamous sire [1]]
+As per LotN:R. Must wear badge.
+\item[Isolated upbringing [1]]
+As per LotH:R.
+\item[Mistaken identity [1]]
+As per LotN:R.
+\item[Sire's resentment [1]]
+As per LotN:R.
+\item[Special responsibility [1]]
+As per LotN:SG. This flaw must be specified.
+\item[Blackmailed [1-2]]
+As per LotH:R.
+\item[Enemy [1-5]]
+As per LotN:R. The strength of the flaw may represent not only how strong the enemy is, but how vehemently they pursue the character.
+\item[Guardian [1-5]]
+As per LotH:PG.
+\item[Rebel [1-3]]
+As per LotH:R. Must wear badge.
+\item[Dangerous secret [2]]
+As per LotH:R.
+\item[Known to be dead [2]]
+As per tLN.
+\item[Notoriety [2]]
+As per LotH:R. Must wear badge.
+\item[Persistent parents [2]]
+As per LotW:R.
+\item[Secret friendship [2]]
+As per LotH:R. This flaw must be specified.
+\item[Ward [3]]
+As per LotW:R.
+\item[Hunted [4]]
+As per LotN:R.
+\item[Probationary sect member [4]]
+As per LotN:R. Must wear badge.
+\item[Inept [5]]
+As per LotW:R.
+\end{description}
+
+\hypertarget{toc101}{}
+\subsubsection{Physical}
+\begin{description}
+\item[Animal musk [1]]
+As per LotW:R. The player must wear a badge to denote this flaw.
+\item[Changeling eyes [1]]
+As per tSH. The player must wear a badge to denote this flaw.
+\item[Hard of hearing [1]]
+As per LotN:R.
+\item[Short [1]]
+As per LotN:R. The player must wear a badge to denote this flaw.
+\item[Smell of the grave [1]]
+As per LotN:R. The player must wear a badge to denote this flaw.
+\item[Allergic [1-4]]
+As per LotH:PG.
+\item[Bad sight [1-3]]
+As per LotN:R.
+\item[Disfigured [2]]
+As per LotN:R.
+\item[Dulled bite [2]]
+As per LotN:CG.
+\item[Fourteenth generation [2]]
+As per LotN:R.
+\item[Glowing eyes [2]]
+As per LotN:CG. The player must wear a badge to denote this flaw.
+\item[One eye [2]]
+As per LotN:R. The player must wear a badge or eye patch to denote this flaw.
+\item[Permanent fangs [2]]
+As per LotN:R. The player must wear fangs or a badge to denote this flaw.
+\item[Vulnerability to silver [2]]
+As per LotN:SG.
+\item[Weak sense [2]]
+As per LotH:R.
+\item[Addiction [3]]
+As per LotN:R.
+\item[Child [3]]
+As per LotN:R. This flaw is limited and requires Storyteller approval. The player must wear a badge to denote this flaw.
+\item[Deformity [3]]
+As per LotN:R. The player must wear a badge to denote this flaw.
+\item[Hemophiliac [3]]
+As per LotH:R.
+\item[Infectious bite [3]]
+As per LotN:R.
+\item[Lame [3]]
+As per LotN:R. This flaw should always be roleplayed.
+\item[Lazy [3]]
+As per LotN:SG.
+\item[Leper [3]]
+As per tLN. The player must wear a badge or display appropriate roleplay to denote this flaw.
+\item[Monstrous [3]]
+As per LotN:R. The player must wear a badge or display appropriate roleplay to denote this flaw.
+\item[One arm [3]]
+As per LotH:R. This flaw should always be roleplayed.
+\item[Permanent wound [3]]
+As per LotN:R.
+\item[Potent blood [3]]
+As per LotH:R. This flaw is available to mortals and ghouls only.
+\item[Slow healing [3]]
+As per LotN:R.
+\item[Conspicuous consumption [4]]
+As per LotN:R
+\item[Deaf [4]]
+As per LotN:R. This flaw should always be roleplayed.
+\item[Disease carrier [4]]
+As per LotN:R.
+\item[Mute [4]]
+As per LotN:R.
+\item[Thin blood [4]]
+As per LotN:R.
+\item[Flesh of the corpse [5]]
+As per LotN:R. The player must wear a badge to denote this flaw.
+\item[Infertile vitae [5]]
+As per LotN:SG.
+\item[Blind [6]]
+As per LotN:R.
+\end{description}
+
+\hypertarget{toc102}{}
+\subsubsection{Supernatural}
+\begin{description}
+\item[Bard's tongue [1]]
+As per LotH:PG. If combined with Oracular Ability, this merit changes. Please see an ST.
+\item[Cast no reflection [1]]
+As per LotN:R.
+\item[Cold breeze [1]]
+As per LotN:CG. The player must wear a badge to denote this flaw and announce this flaw upon entering a room.
+\item[Offensive to animals [1]]
+As per LotH:PG. This flaw is available to mortals only.
+\item[Repulsed by garlic [1]]
+As per LotN:R.
+\item[Touch of frost[1]]
+As per LotN:R.
+\item[Echoes \htmladdnormallink{1 or}{3}]
+As per LotN:R. This flaw must be specified.
+\item[Demon hounded [1-4]]
+As per tLN. The strength of this flaw may represent not only how strong the demon is, but how vehemently they pursue the character. 
+\item[Cursed [1-5]]
+As per LotN:R.
+\item[Geas [1-5]]
+As per LotH:PG. This flaw must be specified and requires Storyteller approval.
+\item[Beacon of the unholy [2]]
+As per LotN:CG. The player must wear a badge to denote this flaw.
+\item[Bound [2]]
+As per LotN:CG.
+\item[Eerie presence [2]]
+As per LotN:R. The player must wear a badge to denote this flaw.
+\item[Deathsight [2]]
+As per LotN:CG.
+\item[Lord of the flies [2]]
+As per LotN:CG. The player must wear a badge to denote this flaw.
+\item[Magic susceptibility [2]]
+As per LotH:R.
+\item[Surreal quality [2]]
+As per tSH. The player must wear a badge to denote this flaw.
+\item[Can't cross running water [3]]
+As per LotN:R.
+\item[Haunted [3]]
+As per LotN:R. This flaw is unavailable until further notice.
+\item[Repelled by crosses [3]]
+As per LotN:R.
+\item[Spectre meat [3]]
+As per LotH:R.
+\item[Grip of the damned [4]]
+As per LotN:R.
+\item[Wyrm tainted [4]]
+As per LotN:R. This flaw is available to mortals only.
+\item[Dark fate [5]]
+As per LotN:R.
+\item[Light sensitive [5]]
+As per LotN:R.
+\end{description}
+
+
+\hypertarget{toc103}{}
+\section{Clan Specific Merits and Flaws}
+\tableofcontents
+
+\hypertarget{toc104}{}
+\subsection{Clans}
+Only members of the listed clan may take selections from those clan's listings.
+
+\hypertarget{toc105}{}
+\subsubsection{Assamites}
+\begin{description}
+\item[Unbroken [3 Flaw]]
+For whatever reason, the Tremere curse was stronger in you than in most of your clanmates. This was no great liability while all of you were so afflicted. However, when ur-Shulgi cast the Breaking, the great ritual's power did no fully cleanse you. You now share your caste's thirst for Cainite blood -- but for you, the very substance you crave is still a poison. You take one health level of lethal damage for every Blood Trait of non-Assamite blood you ingest, though these Blood Traits do enter your Blood Pool after the damage is inflicted. You may not use Fortitude powers or other supernatural abilities to reduce this damage. You gain one free retest on every Self-Control challenge dealing with the warrior caste flaw. If you are a sorcerer or vizier, this Flaw is worth one additional point (for a total of 4), but you gain the warrior caste's addiction in addition to your own caste's weakness.
+\end{description}
+
+\hypertarget{toc106}{}
+\subsubsection{Brujah}
+\begin{description}
+\item[Compassionate [3 Merit]]
+You have the moral character of the Brujah of old, the proud warrior-poets who did what they did because their hearts called to them. The player must spend one temporary Willpower Trait to attempt a retest, which is treated as if it were one level higher on the Hierarchy of Sins. The player must accept the results of the second test.
+\item[Dynamic personality [5 Merit]]
+People are drawn to you, due to some characteristic appeal you exude. You may purchase more Backgrounds with Experience Traits. When the player purchases Traits in Allies, Contacts, Herd or Retainer, he may gain two Background Traits per Experience Trait spent.
+\item[Obvious predator [2 Flaw]]
+Either your face or your immediate disposition lets people know that you nothing good in store for the, Mortals react poorly to people who exude such a blatant air of menace. This flaw is largely a matter of roleplaying. A player who chooses this Flaw must wear a card of other item that identifies him as an Obvious Predator. Kindred with this Flaw lose all ties in social challenges with mortals. Obvious Predator does not inflict a penalty upon Intimidation-related challenges.
+\item[Uncontrollable [4 Flaw]]
+Rage and passion constantly war in the soul of a volatile Brujah. Perhaps you were ill tempered before the Embrace, or perhaps your Brujah lineage awakened some latent fury. In any case, even more so than your clanmates, you are prone to frenzy. You always lose on ties in attempts to resist frenzy.
+\end{description}
+
+\hypertarget{toc107}{}
+\subsubsection{Caitiff}
+\begin{description}
+\item[Personal masquerade [3 Merit]]
+You have convinced a clan that you are one of them. They have already accepted you, but you need to be sure they never learn the truth.
+\item[New bloodline [7 Merit]]
+The random disciplines you carry as a Caitiff will carry on to all of your childer, and to theirs as well. Essentially, you've created your own bloodline.
+\item[Clan weakness [3 Flaw]]
+You have gained the clan weakness of one of the clan that possesses a discipline that you also possess.
+\end{description}
+
+\hypertarget{toc108}{}
+\subsubsection{Gangrel}
+\begin{description}
+\item[Ruse of the wolf's clothing [2 Merit]]
+While in animal form, you have a form of 'Blush of Health' that allows you to pass as the living form of that animal. Other animals will accept you as just another one of them and Garou are unable to detect the wyrm in you unless you have three or fewer Humanity traits.
+\end{description}
+
+\hypertarget{toc109}{}
+\subsubsection{Giovanni}
+\begin{description}
+\item[Consanguineous resistance [1 Merit]]
+Your character cannot be blood bound by anyone who shares his mortal bloodlines. That is, if you were born into the Gioanni family, you cannot be bound by anyone else who was born a Gionanni, though you can still be bound by Pisanob of the Giovannia clan or by Kindred of any other clan. Similarly, a Dunsirn with Consanguineous Resistance could not be bound by others who were born into the mortal Dunsirn family, but could be bound be a Milliner of the Giovanni clan (for instance). As described above, you cannot be bound by anyone from your own mortal patria-lineage.
+\item[Proxy kissed [4 or 8 Merit]]
+Before the Embrace, you received the traditional Giovanni Proxy Kiss. Other members of your clan tend to be more comfortable that you were Embraced in the "proper Giovanni fashion." You begin play with a partial bloodbond to one other Giovanni Kindred. You gain the basic Potence level Prowess in addition to your others Disciplines, and you can purchase the first Intermediate level with your starting Discipline levels at character creation. If you choose the eight trait version of this merit, you come into play with partial bonds to two Giovanni Kindred or a full bond to one, and you also gain the Basic Fortitude Discipline Endurance. The Flaw Bound must be taken for no additional points.
+\item[Sanguine incongruity [5 Merit]]
+Giovanni with this atavism are few and far between -- fewer than a dozen reported instances have occurred since the clan rose from the ashes of the clan that preceded them. Kindred possessing it do not bear the Curse of Lamia; their Kiss causes no more damage than the blood loss itself. These vampires acquire a peculiar pallor upon Embrace, however -- they look like corpses, and no amount of blood ingestion can flush their features (as other vampires are able to do). Giovanni with this Merit are afforded a wide berth, as the Giovanni tend to be quite superstitious about it. Your peculiar appearance gives you a one-Trait resolution penalty on all Social challenges relying on Appearance-related Traits. However, you do not suffer from the normal Giovanni disadvantage.
+\item[Inbred [1 -5 Flaw]]
+For one Trait, you suffer a one-Trait resolution penalty on Social challenges, because you have an unwholesome or flawed physical appearance. For three Traits, you suffer this penalty and also a one-Trait resolution penalty on Physical challenges due to congenital health defects. For five Traits, you suffer from an effect equivalent to one other Flaw or Derangement chosen by the Storyteller in addition to the previous hindrances. Bring a banjo.
+\item[Shadow walker [6 Flaw]]
+You are fully subject to the Shadowlands and the ghosts there. Ghostly architecture blocks you and wraithly attacks can injure you. You can't actually see the Underworld without the use of other powers, but you can be impeded by it. When and whether this occurs is a matter for Storyteller discretion, but it can be quite a hindrance. Once per game session, one attempted action will fail automatically due to ghostly interjection. However, retests and overbids may be used as normal.
+\end{description}
+
+\hypertarget{toc110}{}
+\subsubsection{Lasombra}
+\begin{description}
+\item[Ther sense [1 Merit]]
+This acumen is very much prized among seafaring Lasombra. A few sires manage to pass on its intricacies to their childer. You subconsciously sense impending bad weather. The Storyteller makes a Perception + Survival roll (difficulty 7) on your behalf to give up to several hours- notice of storms and other weather problems before they manifest. Make a Static Mental Challenge against seven Traits for advance warning of bad weather.
+\item[Controllable night sight [2 Merit]]
+You can choose to invert the effects of light and darkness on yourself. Spend one turn in concentration to turn Night Sight on or off, plus one per each health level of injury you currently suffer. While Night Sight is active, pitch-black darkness seems brightly and uniformly lit to you, while any light brighter than a hundred-watt bulb creates a zone of pure darkness. The penalties for partial darkness instead apply to weak illumination. This Merit doesn-t allow you to see through Obtenebration-created darkness, which glows with pure white light that obscures all details.
+\item[Pelagic harmony [3 Merit]]
+Being close to the sea clams you and reinforces your self-control. You receive a 1 Trait Bonus to Willpower Tests while on or within sight of the sea.
+\item[Poseidon-s call [1 Flaw]]
+Your self-control varies with the weather. In Calm weather, receive a +1 Trait bonus to virtue tests to resist a frenzy, a - 1 Trait penalty in rough seas and thunderstorms, and a -2 Trait penalty in hurricanes and other particularly severe storms.
+\item[Pelagic compulsion [2 Flaw]]
+You become increasingly agitated when on land. Suffer a -1 Trait penalty on Willpower tests when you-ve been away from the sea for 24 hours or more.
+\item[Death's reflection [3 Flaw]]
+You cast a reflection normally which would cancel out the clan weakness - except that your reflection always shows the state that you-d be in if you were dead. Any Lasombra more than a few decades old looks in reflection like an ambling skeleton. Younger vampires appear as rotting corpses. Wear a card that indicates your condition to others.
+\end{description}
+
+\hypertarget{toc111}{}
+\subsubsection{Malkavian}
+\begin{description}
+\item[Benevolent blood [1 Merit]]
+Your blood still carries the Curse of Malkav, but its effects have been lessened just a little bit. Any ghouls you create suffer none of the usual deranging side effects of drinking Malkavian blood. They can be loaded to the gills with your blood and not come one step nearer to gaining a derangement. (They might still be driven insane by life with you, though, depending on how demanding your reality is.) Of course, any childer you Embrace will still gain a derangement after the Embrace as usual -- although your vitae is easily diluted by mortal blood, the pure stuff carries the Curse as one would expect.
+\item[Immaculate aura [1 Merit]]
+Whether because of your iron control or some fluke of chance, your aura does not give away your insanity. The aura doesn't shift or swirl at all, even when you're confused, frenzied or in a psychotic fit. Any other use of Aura Perception works as normal. This merit simply removes the madness swirls from the aura of a Malkavian.
+\item[Deadened nerves [4 Merit]]
+Whether is was a condition you held in life or an odd side effect of the Embrace, your nervous system is missing a few connections. You have very little tactile sense, whether pleasure or pain. The downside of this is obvious: One of your senses is greatly impaired, which can keep you from noticing important warnings (a blade at your back, for instance... Or in it.) However, your deadened nerves also protect you from pain, allowing you to ignore your wounds until your flesh is literally blasted from your bones. Bruised characters with this Merit have their full Trait levels for all tied challenges. When Wounded, they need not risk additional Traits to attempt challenges, although they still automatically lose tied challenges. This merit requires ST approval. If a Malkavian with this Merit is involved in combat, the ST or Narrator need not tell the player how much damage they have taken as the Malkavian would not necessarily know.
+\item[Disembodied mentor [5 Merit]]
+The voices in your head may tell you things, but by God, they're useful things. You have a personal guide and advisor (bought as usual through the Background: Mentor) who exists largely in your own skull. He may have been a Malkavian who uploaded himself into the Network, or perhaps he's an imaginary construct with access to the shared memories of the clan. Either way, it's exceedingly hard for your enemies to cut you off from your mentor's counsel, and it's usually pretty easy to call on his advice when you need it. Unfortunately, this Merit also has its drawbacks; your mentor can find you whenever he chooses, and can be a real distraction when you're trying to do something he finds irrelevant. You're not freed from the obligations of your relationship, either; you find yourself running errands for your mentor just as often as any other pupil would, if not more so. Note: any Players who attempt to powergame this merit by insisting on having their own personal -pet ST- to follow around and answer questions for them throughout a game will be squashed. Use your disembodied mentor sparingly and remember, do not taunt happy fun ball.
+\item[Sympathetic bond [5 Merit]]
+For whatever reason, you unconsciously cause a peculiar supernatural form of feedback through the links of the blood bond. Although you're not immune to being blood bound (and cannot take the Merit: Unbondable), if you do become bound to someone, your regnant also becomes blood bound to you to an equal extent. Even if she was already blood bound to another, she now has the unenviable position of being thrall to two vampires at once. This can obviously lead to some unplanned and quite twisted codependent relationships.
+\item[Stigmata [2-4 Flaw]]
+You constantly seep blood from phantom wounds; even though your flesh remains unbroken, you bleed. The bleeding is fairly slight, but incessant, costing you an extra blood point each evening (marked off just before dawn). The 2-trait version of this flaw gives you a one-trait penalty on Social challenges; and the 4-trait version if this flaw indicates that you bleed from your eye-sockets. This obviously makes it almost impossible to travel within human society unveiled, and very much disturbs other Cainites increasing the penalty for Social challenges to two traits, and causing a one-trait penalty to visual perception challenges besides.
+\item[Infectious [3 Flaw]]
+Your bite transmits the madness of your clan. Whenever you feed from a mortal, the power of the Kiss holds them in place as normal. However, your mortal prey may gain a temporary derangement from the transmission of blood. The madness lasts for a week or so for each blood trait taken. Malkavians with this Flaw are often the ones you hear about infesting asylums. It's the most low-key place for them to feed. When a Malkavian with this Flaw feeds, she makes a static test with the Narrator or Storyteller to determine if a derangement transfers into the victim.$<$/P$>$$<$/
+\end{description}
+
+\hypertarget{toc112}{}
+\subsubsection{Nosferatu}
+\begin{description}
+\item[Lizard limbs [1 Merit]]
+By burning a Blood trait and a Willpower trait, you can shed one of your limbs. You can do this for as much blood and Willpower as you're willing to sacrifice. You gain a Physical Flaw appropriate to the appendage lost, and must roleplay the deformity until the limb grows back.
+\item[Long fingers [1 Merit]]
+You gain the Physical trait Dexterous, and a one-Trait bonus in all challenges involving manual dexterity.
+\item[Oversized fangs [1 Merit]]
+Gain two bonus Traits useful in any biting attack.
+\item[Piscine [1 Merit]]
+Gain a bonus trait during any challenge related to swimming or movement through water. This trait is available to you only when you are at least chest-deep in water.
+\item[Slimy [1 Merit]]
+Gain two bonus traits when someone is trying to grapple you.
+\item[Gaping maw [1 Merit]]
+You can drain an extra Blood trait per round.
+\item[Sleep unseen [2 Merit]]
+Spend an extra Blood trait (in addition to any required by Obfuscate) before laying down to sleep.
+\item[False reflection [3 Merit]]
+Spend a Mental trait for each use of this (beyond any expenditure for Mask of 1000 faces -- so that's one Trait for your voice, one for your reflection, etc.) per camera or recording device.
+\item[Foul blood [3 Merit]]
+After biting or feeding from you, the victim must make a Simple Test to avoid becoming nauseated for a full scene; no spending Willpower to avoid the test (it tastes that bad). If the victim becomes nauseated, he suffers a one-Trait penalty on all Physical Challenges. This makes blood bonds torturous, the Embrace becomes even more difficult, and ghouling is near impossible.
+\item[Reptile buddy [3 Merit]]
+Your reptilian sidekick is considered to have the following: 7 Physical traits, 0 Social traits, 2 Mental traits. Fortitude (Endurance, Mettle) and Potence (Prowess, Might). It has 12 blood and 3 Willpower. The reptile understands your native language perfectly, and is capable of following complex orders. This merit is limited, requires an approved history and Animalism: Quell the Beast.
+\item[Patagia [4 Merit]]
+You can't actually fly or hover with this Merit, only glide like a flying squirrel on flaps of leathery skin that stretch from under your arms and down you sires. You may not carry passengers and only personal items may travel with you. Furthermore, you need wind to carry you, and if there's none, you drop like a stone so don't even think about using this indoors. You may glide at normal walking speed.
+\item[Tough hide [4 Merit]]
+You have an additional Bruised Health level.
+\item[Blunt fangs [1 Flaw]]
+You need to make an extra Physical Challenge in order to get your teeth in your victim. Your dulled bite does a level of damage to your victim for each Blood Trait you acquire.
+\item[Stench [1 Flaw]]
+Lose all ties related to stealth automatically with this Flaw. It's pretty hard to sneak up on someone when he can smell you coming. Please do not neglect personal hygiene to roleplay this Flaw. Just wear a badge.
+\item[Anosmia [2 Flaw]]
+From the reek of spoiled milk to the delicture perfume of a magnolia in bloom, from the tang of blood on your tongue to the memory of your last martini, the world of smell is gone to you.
+\item[Withered leg [3 Flaw]]
+Gain the Negative Traits Lame x3 (but no benefits from it), and you fail any challenges that require two good legs, such as running or dancing. This flaw should be roleplayed.
+\item[Parasitic infection [4 Flaw]]
+When you go into play at the beginning of the evening, make the usual vitae test. Once you learn your level of vitae, make four Simple Tests -- each loss or tie indicates a Blood Trait lost to your parasites. You suffer a one-Trait penalty during Self-Control tests. Roleplay the constant itching the parasites give you. Also, wear a tag to indicate to onlookers that your skin is quite literally crawling.
+\item[Putrescent [4 Flaw]]
+Whenever you take damage, make a Static Test to see if one level of the damage becomes aggravated due to your accelerated decay. You stink horribly, as well, and should wear a tag to indicate this stench. Unmasked, you appear as a rotting, decaying corpse from an Ed Wood movie.
+\item[Traitor [4 Flaw]]
+Oh, you're a bastard alright, and if the other Nosferatu find out about this, they'll kill you on sight. You've been leaving information through a designated drop point about your alleged allies. You must betray secrets about your allies, most typically your coterie, every game session. At the end of the session, your traitorous actions must be reported to the Storytellers. If you haven't been enough of a bastard, one of your secrets may just make its rounds on the local information networks.
+\item[Incoherent [5 Flaw]]
+Maybe your tongue fell out during the Embrace, or your vocal cords are atrophied from disuse. For whatever reason, you just can't speak clearly. You may use sign language to communicate with others, write down what you wish to say, or resort to a series of grunts and clicks. This flaw must be roleplayed.$<$/P$>$$<$/
+\end{description}
+
+\hypertarget{toc113}{}
+\subsubsection{Ravnos}
+The Ravnos Bloodline possesses no available Merits or Flaws.
+
+\hypertarget{toc114}{}
+\subsubsection{Toreador}
+\begin{description}
+\item[Controllable thirst [1 Merit]]
+In order to promote your social graces, you are required to be surrounded by a multitude of mortals. One slip would be your most disastrous mistake. Whenever you are resisting a frenzy due to the sight, smell or taste of blood, you gain a free retest.
+\item[Blas\&eacute; [3 Merit]]
+You are not easily impressed. You-ve seen the best, and all the rest are sorely lacking. Gain a free retest against all challenges designed to impress you (including some Presence powers).
+\item[Greater colors [3 Merit]]
+You can see colors in a light unlike any others. You are up five traits in any aura perception test against any target. You may only use this merit against a specific target once per night but may do it to as many targets as you deem necessary.
+\item[Poor taste [1 Flaw]]
+You wouldn't know Monet from a second grader. Because of this you are subject to the Toreador clan weakness for all performances of level two or higher instead of three.
+\end{description}
+
+\hypertarget{toc115}{}
+\subsubsection{Tremere}
+\begin{description}
+\item[Attuned taste [2 Merit]]
+You've got a natural instinct for the flavors in blood. When you taste blood, you can tell if the blood is from a vampire, and you can automatically taste its potence (generation). There is no test or cost. If the blood is not from a vampire, you only know that -- you cannot specifically tell Lupine or faerie blood from human blood without other testing methods.
+\item[Bound to the council [3 Flaw]]
+Whenever you want to do something that violates the commands of the Tremere hierarchy, you must expend a Willpower Trait. Your actions will be highly constrained, you may be thrust into unpleasant situations against your will, and you'll be in a world of hurt if you ever manage to get past the bond.
+\item[Double betrayer [4 Flaw]]
+You have the mark of the Betrayer. A tag must be worn when in the presence of other Tremere. You are two traits down on all Social challenges with the other Tremere. Because you're an expatriate of the Sabbat, though, you don't know enough up-to-date signs and codes to pass yourself off as a member. In short, you screwed up and you're going to pay for it forever.
+\item[Thaumaturgically inept [5 Flaw]]
+Your character finds Thaumaturgy to be his worst subject. As a result, this adds one Trait to the difficulty of any static test and adds five minutes to the casting time of any effect (because you're fumbling with the words, you misdrew the circle, etc). You are one Social trait down on resolution of challenges when dealing with Tremere of higher ranks than you are.
+\end{description}
+
+\hypertarget{toc116}{}
+\subsubsection{Tzimisce}
+\begin{description}
+\item[Pain tolerance [2 Merit]]
+Your body is hardened to pain, possibly because your nerves just don't convey these adverse feelings or simply because you've experienced suffering and torture beyond comprehension and it has pushed you beyond the average tolerance. As such, you ignore penalties at the Bruised health levels.
+\item[Dracon's temperament [3 Merit]]
+At the start of each game session, you may choose a new Nature. However, the Storyteller may, at his leisure, call you over and swap your present Nature for a new one to act out.
+\item[Haven affinity [3 Merit]]
+You must first spend a Mental trait and engage in a simple challenge with the Storyteller. If successful, you will earn a bonus Trait in all challenges initiated within your haven.
+\item[Revenant disciplines [3 Merit]]
+You must first clear the heritage of your Revenant family with the Storyteller before purchasing this merit. At character creation, take the three innate Disciplines of your revenant family instead of those of the Tzimisce. Any Discipline not of your revenant family, even ones passed on through the blood of the Tzimisce, must be purchased as out of clan.
+\item[Ancestral soil dependence [2 Flaw]]
+Your dependence on the magically rich and diseased soil of Eastern Europe is so severe that, until you are in possession of two handfuls, you will suffer a two-Trait penalty to all challenges.
+\item[Scarface \htmladdnormallink{2-4}{Flaw}]
+You-re a walking mass of overlapping scar tissues. Your Cainite healing is effective, yet flawed. Every closed wound grows scar tissue. Vicissitude use on these scars only aggravates the scarification. As a 2 point Flaw, you suffer the negative Social trait Scarface x2 that must be open and notoriously presented on a badge. As a 3 point Flaw, your Social traits may never exceed five Traits, and as a 4 point Flaw, you suffer the negatives of the lesser levels as well as suffering a one Trait penalty to all Physical challenges.
+\item[Revenant weakness [3 Flaw]]
+You suffer both the weakness of your clan as well as your revenant family limitation. You suck.
+\item[Consumption [5 Flaw]]
+When testing for blood at the beginning of each game session, you suffer a level of bashing damage that can only be healed by ingesting mortal flesh, enough to replace the fleshy tissue depleted from your body as a result of this Flaw. You cannot pre-empt the effects of these corrosive bacteria by ingesting human flesh before the damage is taken; without the Eat Food merit, you will vomit out this flesh like any other food.
+\end{description}
+
+\hypertarget{toc117}{}
+\subsubsection{Ventrue}
+\begin{description}
+\item[Paragon [6 Merit]]
+The embrace has awakened within you an aspect that others find compelling. You may exceed your normal generational limit by one in the following areas: Allies, Clan Prestige, Status, Contacts, Fame, Herd, Retainers, Resources, Influence, Mentor.
+
+\end{description}
+
+
+% LaTeX2e code generated by txt2tags 2.5 (http://txt2tags.sf.net)
+% cmdline: txt2tags -t tex -o house_rules_packet.latex house_rules_packet.t2t
+\end{document}
