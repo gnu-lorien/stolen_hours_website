@@ -52,15 +52,15 @@ So you test, bidding the appropriate traits and...
 What can you do? Retest! Check your sheet for retests! Youre Abilities,
 Disciplines, Merits, and even your traits and situations give you chances to try again! The Order of Retests is as follows:
 
-+ Situational- These are things like Surprise (which I’ll go over later), 
++ **Situational** These are things like Surprise (which I’ll go over later), 
 Darkness, and anything the STs might allow you to use because of the 
 situation (-always- ask. It may not even fit the situation, but you should at 
 least ask).
-+ Abilities- Not only do the points spent in your Abilities section give you access to knowledge (lores) and other fun things (languages, breaking and entering, etc.) They also give your disciplines another chance to work in and out of combat! The catch is they have to be expended, so you lose a level of them for the night each time you use them
-+ Disciplines- Some disciplines, like Potence 2, give you a free retest each exchange that meets their specific requirements. The cool thing about these, is that they don’t go away, or they are reusable if you pay the costs!
-+ Merits- Some merits also give you a retest, ones like Luck, Nine Lives, Iron Will, and others. Generally, these retests are either very selective in how they can be used or they are limited in how many of them you have (like Luck, Nine Lives, and True Faith)
-+ Willpower- Against mental and social challenges, you can always spend a point of willpower (outside of the normal time at the beginning of combat) to get a retest. 
-+ Overbid- If you think you’ve got the traits, you can try to call for an Overbid. Generally Elders are the ones that can use an Overbid, as they have the traits to do so. This is kind of tricky, so try to follow:
++ **Abilities** Not only do the points spent in your Abilities section give you access to knowledge (lores) and other fun things (languages, breaking and entering, etc.) They also give your disciplines another chance to work in and out of combat! The catch is they have to be expended, so you lose a level of them for the night each time you use them
++ **Disciplines** Some disciplines, like Potence 2, give you a free retest each exchange that meets their specific requirements. The cool thing about these, is that they don’t go away, or they are reusable if you pay the costs!
++ **Merits** Some merits also give you a retest, ones like Luck, Nine Lives, Iron Will, and others. Generally, these retests are either very selective in how they can be used or they are limited in how many of them you have (like Luck, Nine Lives, and True Faith)
++ **Willpower** Against mental and social challenges, you can always spend a point of willpower (outside of the normal time at the beginning of combat) to get a retest. 
++ **Overbid** If you think you’ve got the traits, you can try to call for an Overbid. Generally Elders are the ones that can use an Overbid, as they have the traits to do so. This is kind of tricky, so try to follow:
   + To Overbid, you must first risk a second trait (“I am Brutal enough for an Overbid)
   + You call out your trait total, minus the trait you lost in the initial challenge and the one you risked for the Overbid (Step A…remember?)
   + If your traits are –double- your opponent’s traits, you get a retest against them. 
@@ -74,77 +74,90 @@ Ok, now that the basics have been covered, you know –how- combat happens and w
 
 Weapons augment your physical traits with Bonus Traits. Each item card will detail their Bonus Traits at the top. When you tie in a challenge, these traits can be added to your own to try to push you over the top and win. Some common items and Bonus Traits are:
 
-+ Club- 2 Traits (Clubs can be made out of almost anything, from bats to chair legs, candlesticks, limbs, etc. These weapons do Bashing damage on their own.)
-+ Knife/ Dagger- 2 Traits (Most small, edged weapons fall into this category. These do Lethal damage on their own.)
-+ Light Pistol- 2 Traits (Your more common firearms are classified as Light Pistols. These do Bashing damage against Vampires, and Lethal against other creatures.)
-+ Stakes- 2 Traits (These are generally just like Knives in mechanical applications, but have different special abilities…which I’ll get into later.)
++ **Club** 2 Traits (Clubs can be made out of almost anything, from bats to chair legs, candlesticks, limbs, etc. These weapons do Bashing damage on their own.)
++ **Knife/Dagger** 2 Traits (Most small, edged weapons fall into this category. These do Lethal damage on their own.)
++ **Light Pistol** 2 Traits (Your more common firearms are classified as Light Pistols. These do Bashing damage against Vampires, and Lethal against other creatures.)
++ **Stakes** 2 Traits (These are generally just like Knives in mechanical applications, but have different special abilities…which I’ll get into later.)
 
 
-Along with Bonus Traits, most weapons carry common Negative Traits that come
-From the use of the weapon. These are good to know when someone’s swingin’ a sword at you, or lighting you up with a flamethrower! In a challenge when you are defending against someone using a weapon, if you call out the correct negative trait when you bid a trait to defend, they’ll have to risk another trait to attack you. This means that if they lose, their traits are suffering more for it! Here are some common weapons and their Negative Traits:
-+ Club- Clumsy (Axes also carry this negative trait. It’s usually found on weapons that rely more on brutality than finesse…I say finesse, when I mean ‘the pointy end goes into the other man’ and ‘bang bang you’re dead I quit’)
-+ Knife/ Dagger- Short (Generally most melee weapons that are concealable in a pocket or jacket are Short, and this requires you to be closer to your victim, putting you in more risk.)
-+ Light Pistol- Loud (This trait is NOT used to bid against someone shooting at you, but it denotes the kind of attention these weapons draw. All firearms have the Loud negative trait.)
-+ Stakes- Short (Just like a Knife, you have to be up close to use these)
+Along with Bonus Traits, most weapons carry common Negative Traits that come from the use of the weapon. These are good to know when someone’s swingin’ a sword at you, or lighting you up with a flamethrower! In a challenge when you are defending against someone using a weapon, if you call out the correct negative trait when you bid a trait to defend, they’ll have to risk another trait to attack you. This means that if they lose, their traits are suffering more for it! Here are some common weapons and their Negative Traits:
++ **Club** Clumsy (Axes also carry this negative trait. It’s usually found on weapons that rely more on brutality than finesse…I say finesse, when I mean ‘the pointy end goes into the other man’ and ‘bang bang you’re dead I quit’)
++ **Knife/ Dagger** Short (Generally most melee weapons that are concealable in a pocket or jacket are Short, and this requires you to be closer to your victim, putting you in more risk.)
++ **Light Pistol** Loud (This trait is NOT used to bid against someone shooting at you, but it denotes the kind of attention these weapons draw. All firearms have the Loud negative trait.)
++ **Stakes** Short (Just like a Knife, you have to be up close to use these)
 
 
 So we’ve covered Bonus Traits and Negative Traits, so it’s time to look at Special Abilities. Many weapons are designed with a special purpose in mind, and the Special Abilities reflect this. They can give you an edge in combat, or you can know who you need to take out first...
 
 Here’s some Special Abilities you’ll probably run into:
-+ Speed- Short swords, Daggers Fencing Blades, and any light slashing or piercing weapon carries this Ability. In challenges against a weapon with the Heavy, Clumsy, or Slow Negative Trait, Speed allows you to go before them, no matter what your trait total (Celerity still works like normal though…beware Brujah carrying big swords).
-+ High Caliber- High Caliber weapons and ammo cause more damage than normal. When a target is successfully hit with a weapon that has the High Caliber Ability, a Simple Test is made. Success means an extra level of damage is incurred. Desert Eagles and other large, Dirty-Harry-esque weapons usually have High Caliber.
-+ Armor Piercing- This is found on specific ammunition, and means that if your target is wearing armor, it counts for jack squat.
-+ Incendiary- Also called Dragon’s Breath, this is some nasty stuff! This kind of ammunition, when fired, adds a level of Aggravated Damage to the pain.
-+ Mass Trauma- Shotguns, and other weapons that have a wide spray, do an extra level of damage when used up close and personal (5 feet for closer).
-+ Spray- Shotguns (again), have ammunition that scatters. If you can catch more than one target (maximum number determined by the weapon’s Ability description), within a certain distance of each other (again, determined by the weapon’s Ability description), you can hit all of them at the same time. You bid a trait against each defender, and if any of them loses, they take the damage as determined by the weapon. If you lose, you only lose a trait for each defender that wins, and not all of them. 
++ **Speed** Short swords, Daggers Fencing Blades, and any light slashing or piercing weapon carries this Ability. In challenges against a weapon with the Heavy, Clumsy, or Slow Negative Trait, Speed allows you to go before them, no matter what your trait total (Celerity still works like normal though…beware Brujah carrying big swords).
++ **High Caliber** High Caliber weapons and ammo cause more damage than normal. When a target is successfully hit with a weapon that has the High Caliber Ability, a Simple Test is made. Success means an extra level of damage is incurred. Desert Eagles and other large, Dirty-Harry-esque weapons usually have High Caliber.
++ **Armor Piercing** This is found on specific ammunition, and means that if your target is wearing armor, it counts for jack squat.
++ **Incendiary** Also called Dragon’s Breath, this is some nasty stuff! This kind of ammunition, when fired, adds a level of Aggravated Damage to the pain.
++ **Mass Trauma** Shotguns, and other weapons that have a wide spray, do an extra level of damage when used up close and personal (5 feet for closer).
++ **Spray** Shotguns (again), have ammunition that scatters. If you can catch more than one target (maximum number determined by the weapon’s Ability description), within a certain distance of each other (again, determined by the weapon’s Ability description), you can hit all of them at the same time. You bid a trait against each defender, and if any of them loses, they take the damage as determined by the weapon. If you lose, you only lose a trait for each defender that wins, and not all of them.
 
 
 = Retests and Situational Modifiers =
 Some things to remember: Natural weapons like claws, teeth, fists, and feet are usually retested with the Brawl or Athletics Abilities, carried weapons that you swing are retested with Melee Ability, and weapons that you fire are retested with the Firearms or Archery (If you’re goin’ medieval on someone’s ass). To get out of the way of every one of these, always use the Dodge Ability.
 
 Certain situations also afford you a retest, and I’ll list those and their requirements below:
-+ Surprise- You achieve surprise by sneaking up on someone, bidding your trait (loud enough to be heard and responded to…no cheesing it!), and then counting “Surprise 1, Surprise 2, Surprise 3, Surprise 4…” until they respond with a trait bid in defense. If you get to “Surprise 3”, you get a free Surprise retest that is your first retest used. Attacking someone from Obfuscate takes the count to “Surprise 2”, making it easier to get the retest, and so does Quietus 1 (Yes, they stack, so Assamites attacking from Obfuscate and Quietus 1 only have to count to “Surprise 1” to shank you in the showers). Also, if you are shooting someone with a gun from far away, and they have no way to reach you, you get a free Surprise retest, with no counting necessary. 
-+ Darkness- In total darkness, any time someone makes a successful attack, they –immediately- have to retest it with Darkness, and accept the results of the second test. Shroud of Night is a bummer. 
-+ ST Discression- Sometimes no ability covers it, or you’ve planned well enough, or generally impressed and ST enough so that they’ll give you a retest here and there. It’s rare, but go ahead and ask for it a couple times if you think you deserve it. You might get one!
++ **Surprise** You achieve surprise by sneaking up on someone, bidding your trait (loud enough to be heard and responded to…no cheesing it!), and then counting “Surprise 1, Surprise 2, Surprise 3, Surprise 4…” until they respond with a trait bid in defense. If you get to “Surprise 3”, you get a free Surprise retest that is your first retest used. Attacking someone from Obfuscate takes the count to “Surprise 2”, making it easier to get the retest, and so does Quietus 1 (Yes, they stack, so Assamites attacking from Obfuscate and Quietus 1 only have to count to “Surprise 1” to shank you in the showers). Also, if you are shooting someone with a gun from far away, and they have no way to reach you, you get a free Surprise retest, with no counting necessary.
++ **Darkness** In total darkness, any time someone makes a successful attack, they –immediately- have to retest it with Darkness, and accept the results of the second test. Shroud of Night is a bummer.
++ **ST Discression** Sometimes no ability covers it, or you’ve planned well enough, or generally impressed and ST enough so that they’ll give you a retest here and there. It’s rare, but go ahead and ask for it a couple times if you think you deserve it. You might get one!
 
 
 = Advanced Tactics =
 Now we get into the specific hints and tips for Combat, so that you can stack up to the rest of the herd when it comes time to go toe to toe.
 
 
-Brujah- The Quintessential, Cam 6 combat monkey. Potence requires absolutely nothing to use, and will put your damage at an immediately higher quality than everyone else (lethal as opposed to bashing, just with level 1!), but more importantly at the advanced level it will put your bare hand on par with a Light Pistol vs humans, and a Sword vs Kindred. Potence 5 also –adds- an extra lethal to any Melee weapon’s damage. Stack this with Celerity and you have a powerhouse that’s going three times a turn, winning on ties in speed and strength, as well as blowing away your Paper and Rock with the Bomb. If Brujah cant win in a fist fight, for some reason, expect them to lean on Presence and use Majesty or Dread Gaze to get away…and watch for the Summon later, after they’ve picked up some heavier weapons and bigger friends.
+== Brujah ==
+The Quintessential, Cam 6 combat monkey. Potence requires absolutely nothing to use, and will put your damage at an immediately higher quality than everyone else (lethal as opposed to bashing, just with level 1!), but more importantly at the advanced level it will put your bare hand on par with a Light Pistol vs humans, and a Sword vs Kindred. Potence 5 also –adds- an extra lethal to any Melee weapon’s damage. Stack this with Celerity and you have a powerhouse that’s going three times a turn, winning on ties in speed and strength, as well as blowing away your Paper and Rock with the Bomb. If Brujah cant win in a fist fight, for some reason, expect them to lean on Presence and use Majesty or Dread Gaze to get away…and watch for the Summon later, after they’ve picked up some heavier weapons and bigger friends.
 
 
-Nosferatu- They hit as hard as Brujah with Potence in-clan, but they’ve also go Animalism on their side which means they can make you Frenzy and lose access to any of your mental or social disciplines. This cuts off escape for Brujah and Toreador who have little Celerity, Tremere from their thaumaturgy, and sticks Ventrue in the fight for the long haul and makes them lean on Fortitude instead of Dominate and Presence to make it out of the fight. It also makes funny things happen to Gangrel, like sprout tails and other beast traits, but makes sure they cant use their Animalism as well to put you at the disadvantage. If all of this fails….use Obfuscate to Vanish and run! Sewer Rats are smart enough to know when they need to survive to fight another day.
+== Nosferatu ==
+They hit as hard as Brujah with Potence in-clan, but they’ve also go Animalism on their side which means they can make you Frenzy and lose access to any of your mental or social disciplines. This cuts off escape for Brujah and Toreador who have little Celerity, Tremere from their thaumaturgy, and sticks Ventrue in the fight for the long haul and makes them lean on Fortitude instead of Dominate and Presence to make it out of the fight. It also makes funny things happen to Gangrel, like sprout tails and other beast traits, but makes sure they cant use their Animalism as well to put you at the disadvantage. If all of this fails….use Obfuscate to Vanish and run! Sewer Rats are smart enough to know when they need to survive to fight another day.
 
 
-Gangrel- Protean does some nasty things, and give Gangrel access to aggravated damage via their Feral Claws and Shape of the Beast, so when a Gangel unloads on someone…they go down for good. They can use their Animalism to put someone into Frenzy to the same benefit as the Nosferatu, but they’ll have the Fortitude to take the beating. Fights with Gangrel usually end in two ways unless planned for ahead of time: stalemate, or in a new character.
+== Gangrel ==
+Protean does some nasty things, and give Gangrel access to aggravated damage via their Feral Claws and Shape of the Beast, so when a Gangel unloads on someone…they go down for good. They can use their Animalism to put someone into Frenzy to the same benefit as the Nosferatu, but they’ll have the Fortitude to take the beating. Fights with Gangrel usually end in two ways unless planned for ahead of time: stalemate, or in a new character.
 
 
-Ventrue- Fight? What the hell? No, no…Ventrue have people for that! No, seriously, a Ventrue in a fight is not a silly thing. They’ve got the Fortitude to out last most other clans save the Gangrel, and the Presence to either make all your piss and vinegar useless against their Majesty or make you run with your tail between your legs with Dread Gaze. Beware the Ventrue that tosses around Dominate commands like “Run!” and “Sit!”
+== Ventrue ==
+Fight? What the hell? No, no…Ventrue have people for that! No, seriously, a Ventrue in a fight is not a silly thing. They’ve got the Fortitude to out last most other clans save the Gangrel, and the Presence to either make all your piss and vinegar useless against their Majesty or make you run with your tail between your legs with Dread Gaze. Beware the Ventrue that tosses around Dominate commands like “Run!” and “Sit!”
 
 
-Toreador- Ok, so they’re frilly and foppish and concerned with art, but, make one of them mad and it’s on like Donkey Kong. With Celerity in clan, they’ll win on tests of speed, and the fight will be over much faster than you’d think. Some of them consider swordplay, martial arts, or marksmanship an art form, which probably means they have more retests than you. If they don’t, they’ve got the Presence to scare you away with Dread Gaze or put you in your place with Majesty.
+== Toreador ==
+Ok, so they’re frilly and foppish and concerned with art, but, make one of them mad and it’s on like Donkey Kong. With Celerity in clan, they’ll win on tests of speed, and the fight will be over much faster than you’d think. Some of them consider swordplay, martial arts, or marksmanship an art form, which probably means they have more retests than you. If they don’t, they’ve got the Presence to scare you away with Dread Gaze or put you in your place with Majesty.
 
 
-Malkavians- Ok…with most clans, it’s just bodily harm you’re up against. Malks will break your mind, disappear from view, and shank you from every which way. How easy is it to fight when your character suddenly has 5 new derangements that quite possibly conflict and throw you into frenzy? It takes 5 willpower to suppress them all for the scene. If the Crazy Blitzkrieg doesn’t work, they’ll just disappear and run for their big brother…which is probably nastier than you.
+== Malkavians ==
+Ok…with most clans, it’s just bodily harm you’re up against. Malks will break your mind, disappear from view, and shank you from every which way. How easy is it to fight when your character suddenly has 5 new derangements that quite possibly conflict and throw you into frenzy? It takes 5 willpower to suppress them all for the scene. If the Crazy Blitzkrieg doesn’t work, they’ll just disappear and run for their big brother…which is probably nastier than you.
 
 
-Tremere- They’ve got the Dominate tricks of the Ventrue, but they make of for their puny arms by way of Thaumaturgy. Set you on fire, fling you across the room, electrocute you, blow you up, cage you…all from out of range of your silly little Brujah sword. Bring a Gangrel or a Nosferatu to make them lose their cool, then it gets a lot easier from there. Oh, and bring –two- stakes.
+== Tremere ==
+They’ve got the Dominate tricks of the Ventrue, but they make of for their puny arms by way of Thaumaturgy. Set you on fire, fling you across the room, electrocute you, blow you up, cage you…all from out of range of your silly little Brujah sword. Bring a Gangrel or a Nosferatu to make them lose their cool, then it gets a lot easier from there. Oh, and bring –two- stakes.
 
 
-Assamites- Ok, they hide as well as the Malkavians and Nosferatu, are as fast on their feet as the Brujah and Toreador, but they have the unique trick of Quietus (Kwi-et-us, not Quiet-us) that turns their blood to all kinds of nasty poisons that take your physical traits away, damage you when they feel like it, or burn through you when they spit on you. There’s a reason the Cam wrote up a peace treaty with the Clan as a whole. Oh, they also have some that control magic like the Tremere.
+== Assamites ==
+Ok, they hide as well as the Malkavians and Nosferatu, are as fast on their feet as the Brujah and Toreador, but they have the unique trick of Quietus (Kwi-et-us, not Quiet-us) that turns their blood to all kinds of nasty poisons that take your physical traits away, damage you when they feel like it, or burn through you when they spit on you. There’s a reason the Cam wrote up a peace treaty with the Clan as a whole. Oh, they also have some that control magic like the Tremere.
 
 
-Caitiff- Unless you know them first, these guys are totally unpredictable. They have a hard life, so they probably have quite a few retests because they try to make themselves useful, they have unpredictable disciplines, and worst of all…something to prove. Do you homework, or start your next character.
+== Caitiff ==
+Unless you know them first, these guys are totally unpredictable. They have a hard life, so they probably have quite a few retests because they try to make themselves useful, they have unpredictable disciplines, and worst of all…something to prove. Do you homework, or start your next character.
 
 
-Followers of Set- Generally preferring to run and hide with Obfuscate, setites can get nasty when cornered. Serpentis allows for eyes that entrance you and make you stay put, new and interesting forms that add damage (extra agg from teeth! Ouch!), and immunity to staking. They also share a trick with the Toreador and Ventrue in the Presence Discipline. Some of these guys have magic, too. Take them down quick, or get ready for a long fight. 
+== Followers of Set ==
+Generally preferring to run and hide with Obfuscate, setites can get nasty when cornered. Serpentis allows for eyes that entrance you and make you stay put, new and interesting forms that add damage (extra agg from teeth! Ouch!), and immunity to staking. They also share a trick with the Toreador and Ventrue in the Presence Discipline. Some of these guys have magic, too. Take them down quick, or get ready for a long fight. 
 
 
-Lasombra- These are some Bad MothaF***ers. Swingin as hard as Brujah, forcing their will on people like the Ventrue with Dominate (Remember? “Sit!” “Run!”), but they’ve got this Obtenebration discipline that allows them to summon up buddies with Arms of the Abyss, change forms with Black Met, or become immune to most forms of damage with Tenebrous Form…all while using Potence with all of them (Arms of the Abyss + Potence 5= 10 lethal from 5 sources…). Best to take them down –first-, and with Fire or Magic.
+== Lasombra ==
+These are some Bad MothaF***ers. Swingin as hard as Brujah, forcing their will on people like the Ventrue with Dominate (Remember? “Sit!” “Run!”), but they’ve got this Obtenebration discipline that allows them to summon up buddies with Arms of the Abyss, change forms with Black Met, or become immune to most forms of damage with Tenebrous Form…all while using Potence with all of them (Arms of the Abyss + Potence 5= 10 lethal from 5 sources…). Best to take them down –first-, and with Fire or Magic.
 
 
-Tzimisce- Crazy skinshifters have the Animalism of the Gangrel and Nosferatu, which means they can make you go into Frenzy, and their own Discipline of Viscissitude which can do all kinds of nasty things from causing extra damage, moving their hearts to make them harder to stake, and changing into a Horrid Form which causes weaker characters to run in fear Frenzy, gives them bonus traits (6 traits!), and does an extra lethal damage in a fist-fight. Oh yeah, some have elemental magic that can control water, earth, lava, and wind…from 5 miles away…at a party. Opponents beware, opponents beware! They’re coming, they’re coming! 
+== Tzimisce ==
+Crazy skinshifters have the Animalism of the Gangrel and Nosferatu, which means they can make you go into Frenzy, and their own Discipline of Viscissitude which can do all kinds of nasty things from causing extra damage, moving their hearts to make them harder to stake, and changing into a Horrid Form which causes weaker characters to run in fear Frenzy, gives them bonus traits (6 traits!), and does an extra lethal damage in a fist-fight. Oh yeah, some have elemental magic that can control water, earth, lava, and wind…from 5 miles away…at a party. Opponents beware, opponents beware! They’re coming, they’re coming! 
 
+
+= Conclusion =
 I hope this helps you feel more comfortable with combats in character! My biggest points of advice are to make use of the notes section on your sheet to keep important, useful info close at hand, listen to the STs for your ques, and ask all the questions you can without making too much of a fuss. Get info about your surroundings from the STs running the combat, and you may be able to grab some improvisational clubs from table legs or knives from broken bottles! Happy thwacking!
