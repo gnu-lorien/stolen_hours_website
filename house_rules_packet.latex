@@ -8,6 +8,11 @@
 \begin{document}
 \date{03/13/2009}
 \maketitle
+\begin{center}
+ \includegraphics[bb=0 0 163 24]{stolenhoursbanner3.jpg}
+ % stolenhoursbanner3.jpg: 680x100 pixel, 300dpi, 5.76x0.85 cm, bb=0 0 163 24
+\end{center}
+
 \clearpage
 
 \tableofcontents
