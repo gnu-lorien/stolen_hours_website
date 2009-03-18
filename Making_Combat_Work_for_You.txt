@@ -2,14 +2,14 @@ Making Combat Work For You
 Trey Naivar
 %%mtime(%m/%d/%Y)
 
+%%toc
+
+= Introduction =
 We all play a game where conflicts are inevitable. When conflict arises, sometimes it will break down into raw fisticuffs.
 
 When that happens, do you know what to do?
 
 Of course not! You wouldn’t be listening to me prattle on if you did! So, with this in mind, I’m going to help you learn a few things: First, how combat goes down in the MET system, Second, what your options are when combat happens, and lastly, advanced tactics (also known as ‘twinkin’ and ‘rules lawyering’) and specific helpful hints for the different clans and their typical members.
-
-
-%%toc
 
 
 = Understanding Combat =

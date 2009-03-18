@@ -10,16 +10,19 @@
 \maketitle
 \clearpage
 
+\tableofcontents
+
+
+\hypertarget{toc1}{}
+\section{Introduction}
 We all play a game where conflicts are inevitable. When conflict arises, sometimes it will break down into raw fisticuffs.
 
 When that happens, do you know what to do?
 
 Of course not! You wouldn’t be listening to me prattle on if you did! So, with this in mind, I’m going to help you learn a few things: First, how combat goes down in the MET system, Second, what your options are when combat happens, and lastly, advanced tactics (also known as ‘twinkin’ and ‘rules lawyering’) and specific helpful hints for the different clans and their typical members.
 
-\tableofcontents
 
-
-\hypertarget{toc1}{}
+\hypertarget{toc2}{}
 \section{Understanding Combat}
 In order to understand combat, we have to know what is going to happen and when it’s going to go down. All combat happens inside the Combat Turn, which is broken down into rounds, and further augmented by different powers. The basic Combat Turn, goes like this:
 
@@ -61,7 +64,7 @@ I’ll now break down the Combat Turn even further, to allow for things like Cel
 \end{enumerate}
 
 
-\hypertarget{toc2}{}
+\hypertarget{toc3}{}
 \section{Retests}
 So you test, bidding the appropriate traits and...
 
@@ -90,7 +93,7 @@ least ask).
 It’s kind of hard to remember at first, heck, at all, so again I suggest copying it all to your Notes Section on your Character Sheet; Quick way to a 3 page sheet, right? :-p Hey, do what you have to so you can streamline the game and get back to the fun parts. I’d also suggest copying down any Disciplines or powers you cant remember into your Notes, too, just to have it all easily at hand.
 
 
-\hypertarget{toc3}{}
+\hypertarget{toc4}{}
 \section{Weapons}
 Ok, now that the basics have been covered, you know –how- combat happens and what you can do on a basic, what’s-on-my-sheet kinda way. There’s a world around you, though, and you’re not always fist-fighting on even terrain. Let’s include the world and the items in it now.
 
@@ -126,7 +129,7 @@ Here’s some Special Abilities you’ll probably run into:
 \end{enumerate}
 
 
-\hypertarget{toc4}{}
+\hypertarget{toc5}{}
 \section{Retests and Situational Modifiers}
 Some things to remember: Natural weapons like claws, teeth, fists, and feet are usually retested with the Brawl or Athletics Abilities, carried weapons that you swing are retested with Melee Ability, and weapons that you fire are retested with the Firearms or Archery (If you’re goin’ medieval on someone’s ass). To get out of the way of every one of these, always use the Dodge Ability.
 
@@ -139,60 +142,60 @@ Certain situations also afford you a retest, and I’ll list those and their req
 \end{enumerate}
 
 
-\hypertarget{toc5}{}
+\hypertarget{toc6}{}
 \section{Advanced Tactics}
 Now we get into the specific hints and tips for Combat, so that you can stack up to the rest of the herd when it comes time to go toe to toe.
 
-\hypertarget{toc6}{}
+\hypertarget{toc7}{}
 \subsection{Brujah}
 The Quintessential, Cam 6 combat monkey. Potence requires absolutely nothing to use, and will put your damage at an immediately higher quality than everyone else (lethal as opposed to bashing, just with level 1!), but more importantly at the advanced level it will put your bare hand on par with a Light Pistol vs humans, and a Sword vs Kindred. Potence 5 also –adds- an extra lethal to any Melee weapon’s damage. Stack this with Celerity and you have a powerhouse that’s going three times a turn, winning on ties in speed and strength, as well as blowing away your Paper and Rock with the Bomb. If Brujah cant win in a fist fight, for some reason, expect them to lean on Presence and use Majesty or Dread Gaze to get away…and watch for the Summon later, after they’ve picked up some heavier weapons and bigger friends.
 
-\hypertarget{toc7}{}
+\hypertarget{toc8}{}
 \subsection{Nosferatu}
 They hit as hard as Brujah with Potence in-clan, but they’ve also go Animalism on their side which means they can make you Frenzy and lose access to any of your mental or social disciplines. This cuts off escape for Brujah and Toreador who have little Celerity, Tremere from their thaumaturgy, and sticks Ventrue in the fight for the long haul and makes them lean on Fortitude instead of Dominate and Presence to make it out of the fight. It also makes funny things happen to Gangrel, like sprout tails and other beast traits, but makes sure they cant use their Animalism as well to put you at the disadvantage. If all of this fails….use Obfuscate to Vanish and run! Sewer Rats are smart enough to know when they need to survive to fight another day.
 
-\hypertarget{toc8}{}
+\hypertarget{toc9}{}
 \subsection{Gangrel}
 Protean does some nasty things, and give Gangrel access to aggravated damage via their Feral Claws and Shape of the Beast, so when a Gangel unloads on someone…they go down for good. They can use their Animalism to put someone into Frenzy to the same benefit as the Nosferatu, but they’ll have the Fortitude to take the beating. Fights with Gangrel usually end in two ways unless planned for ahead of time: stalemate, or in a new character.
 
-\hypertarget{toc9}{}
+\hypertarget{toc10}{}
 \subsection{Ventrue}
 Fight? What the hell? No, no…Ventrue have people for that! No, seriously, a Ventrue in a fight is not a silly thing. They’ve got the Fortitude to out last most other clans save the Gangrel, and the Presence to either make all your piss and vinegar useless against their Majesty or make you run with your tail between your legs with Dread Gaze. Beware the Ventrue that tosses around Dominate commands like “Run!” and “Sit!”
 
-\hypertarget{toc10}{}
+\hypertarget{toc11}{}
 \subsection{Toreador}
 Ok, so they’re frilly and foppish and concerned with art, but, make one of them mad and it’s on like Donkey Kong. With Celerity in clan, they’ll win on tests of speed, and the fight will be over much faster than you’d think. Some of them consider swordplay, martial arts, or marksmanship an art form, which probably means they have more retests than you. If they don’t, they’ve got the Presence to scare you away with Dread Gaze or put you in your place with Majesty.
 
-\hypertarget{toc11}{}
+\hypertarget{toc12}{}
 \subsection{Malkavians}
 Ok…with most clans, it’s just bodily harm you’re up against. Malks will break your mind, disappear from view, and shank you from every which way. How easy is it to fight when your character suddenly has 5 new derangements that quite possibly conflict and throw you into frenzy? It takes 5 willpower to suppress them all for the scene. If the Crazy Blitzkrieg doesn’t work, they’ll just disappear and run for their big brother…which is probably nastier than you.
 
-\hypertarget{toc12}{}
+\hypertarget{toc13}{}
 \subsection{Tremere}
 They’ve got the Dominate tricks of the Ventrue, but they make of for their puny arms by way of Thaumaturgy. Set you on fire, fling you across the room, electrocute you, blow you up, cage you…all from out of range of your silly little Brujah sword. Bring a Gangrel or a Nosferatu to make them lose their cool, then it gets a lot easier from there. Oh, and bring –two- stakes.
 
-\hypertarget{toc13}{}
+\hypertarget{toc14}{}
 \subsection{Assamites}
 Ok, they hide as well as the Malkavians and Nosferatu, are as fast on their feet as the Brujah and Toreador, but they have the unique trick of Quietus (Kwi-et-us, not Quiet-us) that turns their blood to all kinds of nasty poisons that take your physical traits away, damage you when they feel like it, or burn through you when they spit on you. There’s a reason the Cam wrote up a peace treaty with the Clan as a whole. Oh, they also have some that control magic like the Tremere.
 
-\hypertarget{toc14}{}
+\hypertarget{toc15}{}
 \subsection{Caitiff}
 Unless you know them first, these guys are totally unpredictable. They have a hard life, so they probably have quite a few retests because they try to make themselves useful, they have unpredictable disciplines, and worst of all…something to prove. Do you homework, or start your next character.
 
-\hypertarget{toc15}{}
+\hypertarget{toc16}{}
 \subsection{Followers of Set}
 Generally preferring to run and hide with Obfuscate, setites can get nasty when cornered. Serpentis allows for eyes that entrance you and make you stay put, new and interesting forms that add damage (extra agg from teeth! Ouch!), and immunity to staking. They also share a trick with the Toreador and Ventrue in the Presence Discipline. Some of these guys have magic, too. Take them down quick, or get ready for a long fight. 
 
-\hypertarget{toc16}{}
+\hypertarget{toc17}{}
 \subsection{Lasombra}
 These are some Bad MothaF***ers. Swingin as hard as Brujah, forcing their will on people like the Ventrue with Dominate (Remember? “Sit!” “Run!”), but they’ve got this Obtenebration discipline that allows them to summon up buddies with Arms of the Abyss, change forms with Black Met, or become immune to most forms of damage with Tenebrous Form…all while using Potence with all of them (Arms of the Abyss + Potence 5= 10 lethal from 5 sources…). Best to take them down –first-, and with Fire or Magic.
 
-\hypertarget{toc17}{}
+\hypertarget{toc18}{}
 \subsection{Tzimisce}
 Crazy skinshifters have the Animalism of the Gangrel and Nosferatu, which means they can make you go into Frenzy, and their own Discipline of Viscissitude which can do all kinds of nasty things from causing extra damage, moving their hearts to make them harder to stake, and changing into a Horrid Form which causes weaker characters to run in fear Frenzy, gives them bonus traits (6 traits!), and does an extra lethal damage in a fist-fight. Oh yeah, some have elemental magic that can control water, earth, lava, and wind…from 5 miles away…at a party. Opponents beware, opponents beware! They’re coming, they’re coming! 
 
 
-\hypertarget{toc18}{}
+\hypertarget{toc19}{}
 \section{Conclusion}
 I hope this helps you feel more comfortable with combats in character! My biggest points of advice are to make use of the notes section on your sheet to keep important, useful info close at hand, listen to the STs for your ques, and ask all the questions you can without making too much of a fuss. Get info about your surroundings from the STs running the combat, and you may be able to grab some improvisational clubs from table legs or knives from broken bottles! Happy thwacking!
 
