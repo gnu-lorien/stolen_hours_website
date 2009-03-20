@@ -1,0 +1,147 @@
+ clan_merits_flaws.t2t |    2 +-
+ dates.t2t             |    8 ++----
+ directions.t2t        |    5 +++-
+ houserules.t2t        |    1 -
+ index.t2t             |   53 +++++-------------------------------------------
+ merits_flaws.t2t      |    2 +-
+ 6 files changed, 15 insertions(+), 56 deletions(-)
+diff --git a/clan_merits_flaws.t2t b/clan_merits_flaws.t2t
+index 18c764c..c7e2db8 100644
+--- a/clan_merits_flaws.t2t
++++ b/clan_merits_flaws.t2t
+@@ -83,7 +83,7 @@ For whatever reason, you unconsciously cause a peculiar supernatural form of fee
+ : Stigmata ""[2-4 Flaw]""
+ You constantly seep blood from phantom wounds; even though your flesh remains unbroken, you bleed. The bleeding is fairly slight, but incessant, costing you an extra blood point each evening (marked off just before dawn). The 2-trait version of this flaw gives you a one-trait penalty on Social challenges; and the 4-trait version if this flaw indicates that you bleed from your eye-sockets. This obviously makes it almost impossible to travel within human society unveiled, and very much disturbs other Cainites increasing the penalty for Social challenges to two traits, and causing a one-trait penalty to visual perception challenges besides.
+ : Infectious ""[3 Flaw]""
+-Your bite transmits the madness of your clan. Whenever you feed from a mortal, the power of the Kiss holds them in place as normal. However, your mortal prey may gain a temporary derangement from the transmission of blood. The madness lasts for a week or so for each blood trait taken. Malkavians with this Flaw are often the ones you hear about infesting asylums. It's the most low-key place for them to feed. When a Malkavian with this Flaw feeds, she makes a static test with the Narrator or Storyteller to determine if a derangement transfers into the victim.</P></
++Your bite transmits the madness of your clan. Whenever you feed from a mortal, the power of the Kiss holds them in place as normal. However, your mortal prey may gain a temporary derangement from the transmission of blood. The madness lasts for a week or so for each blood trait taken. Malkavians with this Flaw are often the ones you hear about infesting asylums. It's the most low-key place for them to feed. When a Malkavian with this Flaw feeds, she makes a static test with the Narrator or Storyteller to determine if a derangement transfers into the victim.
+ 
+ 
+ === Nosferatu ===
+diff --git a/dates.t2t b/dates.t2t
+index 4dae03b..f7912b7 100644
+--- a/dates.t2t
++++ b/dates.t2t
+@@ -3,15 +3,13 @@
+ %!options: -o dates.html -H
+ %!postproc: WINDOW_TITLE "Game Dates"
+ %!postproc: MAIN_TITLE "Game Dates"
++%!postproc(xhtml): {{(.*?)}} <\1>
+ %!include(xhtml): ''pre_main_content.html''
+ We play on the Fridays before the first, third, and fifth Saturdays of each month. Essentially, the day before [Whispers of Atlanta www.whispersofatlanta.com]
+ 
+-1 Dec 2006
++""" {{iframe src="http://www.google.com/calendar/embed?mode=AGENDA&src=pneebfsq3ahi0in1nasjj73p7o%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="400" height="300" frameborder="0" scrolling="no"}}
+ 
+-15 Dec 2006
+ 
+-There will be no game on the 29th of December.
+-
+-5 January 2007
++""" {{/iframe}}
+ 
+ %!include(xhtml): ''post_main_content.html''
+diff --git a/directions.t2t b/directions.t2t
+index fdf743b..cb80f5e 100644
+--- a/directions.t2t
++++ b/directions.t2t
+@@ -4,5 +4,8 @@
+ %!postproc: WINDOW_TITLE "Directions"
+ %!postproc: MAIN_TITLE "Directions"
+ %!include(txt): ''pre_main_content.html''
+-We play in the Georgia Tech student center. You can use the <a href="http://gtalumni.org/campusmap/campusmap.php?section=8">campus map</a>. We play in building 114 near the radio station and back lobby.
++<p>We play in the Georgia Tech student center. You can use the <a href="http://gtalumni.org/campusmap/campusmap.php?section=8">campus map</a>. We play in building 114 near the radio station and back lobby.</p>
++
++<iframe width="300" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;t=h&amp;s=AARTsJoP8NiGzVw6HY6fFZfWcJSXxIiMOg&amp;msa=0&amp;msid=117208728880103285383.0004655abf1b8be2c9771&amp;ll=33.773172,-84.398153&amp;spn=0.002675,0.003219&amp;z=17&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;t=h&amp;msa=0&amp;msid=117208728880103285383.0004655abf1b8be2c9771&amp;ll=33.773172,-84.398153&amp;spn=0.002675,0.003219&amp;z=17&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
++
+ %!include(txt): ''post_main_content.html''
+diff --git a/houserules.t2t b/houserules.t2t
+index 86434a8..589a679 100644
+--- a/houserules.t2t
++++ b/houserules.t2t
+@@ -15,6 +15,5 @@
+ - [Downtimes Guide downtimes.html]
+ - [Disciplines disciplines.html]
+ - [General Merits and Flaws merits_flaws.html]
+-- [Clan Specific Merits and Flaws clan_merits_flaws.html]
+ 
+ %!include(xhtml): ''post_main_content.html''
+diff --git a/index.t2t b/index.t2t
+index 86fd063..19b24a8 100644
+--- a/index.t2t
++++ b/index.t2t
+@@ -5,55 +5,14 @@
+ %!postproc: MAIN_TITLE "RECENT UPDATES"
+ %!include(xhtml): ''pre_main_content.html''
+ 
+-== Updates 3/27/2007 ==
+-- Updated feeding grounds listing to reflect the new system
++== Updates 3/20/2009 ==
++The long awaited return of the Stolen Hours website! There's little new here yet but the updates will be coming. It's only been two years in the making right?
+ 
++- Game dates are now shown with an embedded Google Calendar so there's a chance they will actually be updated properly!
++- The directions page now includes an embedded Google Map to assist in finding our site.
++- Removed the clan merits and flaws section since it was nearly a set of reprints. Later version will have page references and any necessary clarifications.
+ 
+-[Explicit Changes Listing recent_updates/3_27_2007.txt]
+-
+-
+-== Updates 12/15/2006 ==
+-- Officially deprecated our PC ghoul rules. We don't have any right now.
+-- Further clarification and awesome about blood bonds.
+-- In character info page for things people should have readily available.
+-
+-
+-[Explicit Changes Listing recent_updates/12_15_2006.txt]
+-
+-
+-== Updates 12/12/2006 ==
+-- Added the first part of my [Guide to Virtues, Willpower, and Blood guide_to_virtues_willpower_and_blood.html]. It currently only contains descriptions and rules for blood bonds.
+-- Added some clarifying language to Aegis and Vanish. Nothing is different, I think it's just described better this way.
+-
+-
+-[Explicit Changes Listing recent_updates/12_12_2006.txt]
+-
+-
+-== Updates 11/28/2006 3 ==
+-- Reversed Auspex vs. Obfuscate thing. It's back to comparing levels of the discipline using the fivesy rule.
+-- Clarified how traits may be permanently expended for Aegis.
+-
+-
+-[Explicit Changes Listing recent_updates/11_28_2006_3.txt]
+-
+-
+-== Updates 11/28/2006 2 ==
+-- Clarifications and additions to Mentor, Allies, Generation, and Retainers section of character creation.
+-- Change in rollover experience policy
+-- Added a downtimes guide
+-- Added specific rules for Heightened Senses. Ties are now resolved using traits plus discipline levels rather than just discipline levels.
+-
+-
+-[Explicit Changes Listing recent_updates/11_28_2006_2.txt]
+-
+-
+-== Updates 11/28/2006 ==
+-- Updates to house rules, mostly for clarifications
+-- Updated narrator and storyteller staff listings
+-- Updated mailing lists page
+-
+-
+-[Explicit Changes Listing recent_updates/11_28_2006.txt]
++[Explicit Changes Listing recent_updates/20090320.txt]
+ 
+ 
+ %!include(xhtml): ''post_main_content.html''
+diff --git a/merits_flaws.t2t b/merits_flaws.t2t
+index fb88880..8af09a0 100644
+--- a/merits_flaws.t2t
++++ b/merits_flaws.t2t
+@@ -10,7 +10,7 @@ name [cost] - Book or Description.
+ 
+ %%toc
+ 
+-== Merits	==
++== Merits ==
+ === Mental ===
+ : Code of honor [1] 
+ As per LotH:R. This version of this merit is available to mortals only.
