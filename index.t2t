@@ -5,45 +5,14 @@
 %!postproc: MAIN_TITLE "RECENT UPDATES"
 %!include(xhtml): ''pre_main_content.html''
 
-== Updates 3/17/2009 ==
+== Updates 3/20/2009 ==
 The long awaited return of the Stolen Hours website! There's little new here yet but the updates will be coming. It's only been two years in the making right?
 
 - Game dates are now shown with an embedded Google Calendar so there's a chance they will actually be updated properly!
 - The directions page now includes an embedded Google Map to assist in finding our site.
 - Removed the clan merits and flaws section since it was nearly a set of reprints. Later version will have page references and any necessary clarifications.
 
-
-== Updates 3/27/2007 ==
-- Updated feeding grounds listing to reflect the new system
-
-
-== Updates 12/15/2006 ==
-- Officially deprecated our PC ghoul rules. We don't have any right now.
-- Further clarification and awesome about blood bonds.
-- In character info page for things people should have readily available.
-
-
-== Updates 12/12/2006 ==
-- Added the first part of my [Guide to Virtues, Willpower, and Blood guide_to_virtues_willpower_and_blood.html]. It currently only contains descriptions and rules for blood bonds.
-- Added some clarifying language to Aegis and Vanish. Nothing is different, I think it's just described better this way.
-
-
-== Updates 11/28/2006 3 ==
-- Reversed Auspex vs. Obfuscate thing. It's back to comparing levels of the discipline using the fivesy rule.
-- Clarified how traits may be permanently expended for Aegis.
-
-
-== Updates 11/28/2006 2 ==
-- Clarifications and additions to Mentor, Allies, Generation, and Retainers section of character creation.
-- Change in rollover experience policy
-- Added a downtimes guide
-- Added specific rules for Heightened Senses. Ties are now resolved using traits plus discipline levels rather than just discipline levels.
-
-
-== Updates 11/28/2006 ==
-- Updates to house rules, mostly for clarifications
-- Updated narrator and storyteller staff listings
-- Updated mailing lists page
+[Explicit Changes Listing recent_updates/20090320.txt]
 
 
 %!include(xhtml): ''post_main_content.html''
