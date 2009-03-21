@@ -3,7 +3,7 @@
 %!options: -o charter.html
 %!postproc: WINDOW_TITLE "Charter"
 %!postproc: MAIN_TITLE "Charter"
-%!include(txt): ''pre_main_content.html''
+%!include(xhtml): ''pre_main_content.html''
 == Rules of Conduct ==
 + No Touching. No Stunts.
 
@@ -67,6 +67,7 @@ The hierarchy below represents LARP organization. This hierarchy is only for Sto
 
 === Narrators ===
 Selected by Head Storyteller. May be required to pass Narrators Test (80%)
+
 : Term
 Until Narrator steps down, fails Narrator Test, fails in his duties, is stripped of Membership, or is otherwise removed by the Head Storyteller.
 
@@ -88,11 +89,14 @@ Until Narrator steps down, fails Narrator Test, fails in his duties, is stripped
 - Narrators receive an extra experience point per game as compensation.
 
 
-=== Assistant Storytellers (AST)
+=== Assistant Storytellers (AST) ===
 Selected by the Head Storyteller.
+
 : Term
 As long as they and the Head Storyteller choose. May be removed at any time for any reason by the Head Storyteller.
+
 : Duties as follows
+
 + Collaborate with other STs to develop plots, antagonists, genre, props, setting, and workshops for the benefit of the game
 + Portray NPCs and antagonists
 + Develop storylines
@@ -126,57 +130,66 @@ ASTs often are given assignments by the HST. These assignments can range widely,
 - Influence ST: Tracks and adjudicates Influence use, promotes influences as a way to resolve matters, holds Influence War seminars for players, etc
 
 
-<P ALIGN="JUSTIFY"></P>
-<B><P ALIGN="JUSTIFY">Head Storyteller (HST)</P>
-</B><P ALIGN="JUSTIFY">Voted into office by majority vote</P>
-<P ALIGN="JUSTIFY">Term: 1 year</P>
-<OL>
-<P ALIGN="JUSTIFY">Duties</P><OL>
+=== Head Storyteller (HST) ===
+Voted into office by majority vote
 
-<P ALIGN="JUSTIFY">In addition to all Narrator and AST duties, the HST is the final arbitrating authority on all disputes, adjudications, plot, genre, and setting issues. The HST sets the tone of the game. The HST assigns duties as necessary, but in the end, is the final person responsible for the game. This office requires an immense respect for genre, the art of theater, game balance, politics, conflict resolution, rules, and the patience of Job. There are no lists of duties, everything is a duty of the HST. The HST should be able to fill in any position at any time. The HST is as much of an "owner" of the game as there can be, in terms of responsibilities. May god have mercy on his soul.</P></OL>
-<P ALIGN="JUSTIFY"></P>
-<P ALIGN="JUSTIFY">Granted privileges: as per ASTs</P></OL>
-<B><U><P ALIGN="JUSTIFY"></P>
-<P ALIGN="JUSTIFY">Consequences</P>
-</B></U><P ALIGN="JUSTIFY"></P>
-<P ALIGN="JUSTIFY">All violations of the rules, amendments, duties, or responsibilities as deemed appropriate by the ST staff may be met with the following consequences:</P><UL>
-<P ALIGN="JUSTIFY"><LI> Verbal warning from ST</LI></P>
+: Term
+Until it is voted otherwise, or the Head Storyteller voluntarily steps down from his position.
 
-<P ALIGN="JUSTIFY"><LI> Loss of experience point award for the night</LI></P>
-<P ALIGN="JUSTIFY"><LI> Loss of character</LI></P>
-<P ALIGN="JUSTIFY"><LI> Probationary status: limits character options and may include restriction to only home chronicle</LI></P>
-<P ALIGN="JUSTIFY"><LI> Suspension from chronicle</LI></P>
-<P ALIGN="JUSTIFY"><LI> Ejection from chronicle</LI></P>
-<P ALIGN="JUSTIFY"><LI> Chronicle strike</LI></P>
+: Duties as follows
+In addition to all Narrator and AST duties, the HST is the final arbitrating authority on all disputes, adjudications, plot, genre, and setting issues. The HST sets the tone of the game. The HST assigns duties as necessary, but in the end, is the final person responsible for the game. This office requires an immense respect for genre, the art of theater, game balance, politics, conflict resolution, rules, and the patience of Job. There are no lists of duties, everything is a duty of the HST. The HST should be able to fill in any position at any time. The HST is as much of an "owner" of the game as there can be, in terms of responsibilities. May god have mercy on his soul.
 
-<P ALIGN="JUSTIFY"></P></UL>
-<B><U><P ALIGN="JUSTIFY">Metagaming:</P>
-</B></U><P ALIGN="JUSTIFY"></P>
-<P ALIGN="JUSTIFY">Lets talk about the concept of metagaming. This is the one thing that kills LARPs faster than the speed of rumor.</P>
-<P ALIGN="JUSTIFY"></P>
-<P ALIGN="JUSTIFY">Metagaming: (v) the process by which a player, taking information they know casually, and applying it to their character.</P>
-<P ALIGN="JUSTIFY"></P>
-<P ALIGN="JUSTIFY">For example, out-of-character, Austin and Trey are hanging out playing Earthworm Jim and talking about the LARP. Austin launches the cow and mentions something about how he'd love to have that cow land on Trey's character. Trey asks what Austin means, and Austin reveals that Trey's character is the best-friend's roommates cousins sister's uncle of his grandsire who was an Infernal diablerist from Pluto. And that the voices in his head have been telling Austin's character to pants Trey's character in the middle of Elysium.</P>
-<P ALIGN="JUSTIFY"></P>
-<P ALIGN="JUSTIFY">So Austin has told Trey, outside of game, all of this. Austin's character has not revealed his Infernal orders to Trey's character. However, Trey does not want to have his trousers hit the floor in the middle of game. So, during the next game, Rob's PC keeps avoiding Allan's PC. This is an example of metagaming.</P>
-<P ALIGN="JUSTIFY"></P>
-<P ALIGN="JUSTIFY">Another example: Roger the Ventrue and Sally the Toreador have been framed in Elysium so that it looks like they were trying to hire an Assamite to assassinate the Prince. Billy (Roger¿s player) and Lisa (Sally¿s player) are a little bit slow and don¿t realize that they¿ve been set up. All they know is that they¿re in trouble for something they didn¿t do. Instead of dealing with this plot in-character or considering that there might be things going on that they may not know about, they automatically begin whining and complaining to everyone within earshot that the ST¿s are cheating. They are taking an in-game issue and dealing with it in an out-of-game manner. Not only that, but they¿re annoying all the other players in earshot by breaking to mood of the game. Whining about what¿s happening to your character in hopes of changing it is Metagaming. Instead, try finding out the cause of what¿s going on or maybe just doing something about it. Vampire is a political game. Find a way to use this to your advantage. Just do it In-Character! </P>
+: Granted privileges
+As per AST
 
-<P ALIGN="JUSTIFY"></P>
-<P ALIGN="JUSTIFY">Metagaming is bad. Metagaming leads to more arguments, accusations, and errors than any other thing in the LARP. Knowingly metagaming will earn anyone a strike, even an ST. Guess what happens after 3 strikes?</P>
-<P ALIGN="JUSTIFY"></P>
-<P ALIGN="JUSTIFY">I went to a party once that had a very good rule: "What happens at the party, stays at the party." The same thing goes for the LARP. "What happens at LARP stays at LARP, and nothing else gets in." There are a few ways to avoid metagaming:</P>
-<P ALIGN="JUSTIFY"></P>
-<P ALIGN="JUSTIFY">1)"The first rule of Fight Club is: You do not talk about Fight Club!" The easiest way to prevent metagaming against you is not to talk about your character OOCly. Don't tell anyone that you're a Lasombra infiltrator. Do not tell anyone that you're planning to seize Praxis over the Domain. Don't tell anyone what your selective feeding is. Metagaming guilt very rarely ever rests on solely one party. And that makes it hard for STs to adjudicate. If you don't want something getting out, don't say anything. Simple.</P>
-<P ALIGN="JUSTIFY"></P>
-<P ALIGN="JUSTIFY">2) "The second rule of Fight Club is: You do not talk about Fight Club!" So, Bob just told me that he's planning on wiping out his whole clan. There are a couple of ways I can take this: 1) He wants me to help. 2) He's bragging about how billy-bad-assed he is. 3) He's sounding me out, to see whom I report this information to. 4) He's judging my reaction, to see what I'll do about it, if anything. Vampires are inherently duplicitous creatures. I'd rather not have the players become so conniving, but it has been known to happen. If somebody does decide to let you on to some information, ask yourself: Why? What does s/he have to gain? </P>
-<P ALIGN="JUSTIFY"></P>
-<P ALIGN="JUSTIFY">3) Keep your sheets to yourself: Don't flaunt your character sheet around, it holds weaknesses as well as strengths.</P>
-<P ALIGN="JUSTIFY"></P>
-<P ALIGN="JUSTIFY">4) If you do decide to tell someone something about your character, do it with the strict understanding that it's OOC.</P>
 
-<P ALIGN="JUSTIFY"></P>
-<P ALIGN="JUSTIFY">5) Maturity rules: This is a hobby, it is not a lifestyle. Make sure the game maintains its proper priority in your life. If you have to work, do not skip it for LARP. If you have a date, do not skip it for LARP. If you have a paper due, do not skip it to LARP. If you need a shower, please do not skip it to LARP. If you have to clean your room, skip it to LARP.</P>
-<P ALIGN="JUSTIFY"></P>
-<P ALIGN="JUSTIFY">6) Remember that it's just a game. This really should have gone first, as it¿s the single most important rule. Do NOT jimmy the lock to your IC rivals dorm room to peruse his e-mail and see whom he's plotting with. Not only will this get you booted from the game, but also very likely booted from the university. If you want to find things out, do it in game or over a downtime. DO NOT interrogate, B&amp;E, snoop, blackmail, etc.</P>
-%!include(txt): ''post_main_content.html''
+== Consequences ==
+All violations of the rules, amendments, duties, or responsibilities as deemed appropriate by the ST staff may be met with the following consequences:
+- Verbal warning from ST
+- Loss of experience point award for the night
+- Loss of character
+- Probationary status: limits character options and may include restriction to only home chronicle
+- Suspension from chronicle
+- Ejection from chronicle
+- Chronicle strike
+
+
+== Metagaming ==
+Lets talk about the concept of metagaming. This is the one thing that kills LARPs faster than the speed of rumor.
+: Metagaming
+(v) the process by which a player, taking information they know casually, and applying it to their character.
+
+
+For example, out-of-character, Austin and Trey are hanging out playing Earthworm Jim and talking about the LARP. Austin launches the cow and mentions something about how he'd love to have that cow land on Trey's character. Trey asks what Austin means, and Austin reveals that Trey's character is the best-friend's roommates cousins sister's uncle of his grandsire who was an Infernal diablerist from Pluto. And that the voices in his head have been telling Austin's character to pants Trey's character in the middle of Elysium.
+
+So Austin has told Trey, outside of game, all of this. Austin's character has not revealed his Infernal orders to Trey's character. However, Trey does not want to have his trousers hit the floor in the middle of game. So, during the next game, Rob's PC keeps avoiding Allan's PC. This is an example of metagaming.
+
+Another example: Roger the Ventrue and Sally the Toreador have been framed in Elysium so that it looks like they were trying to hire an Assamite to assassinate the Prince. Billy (Roger's player) and Lisa (Sally's player) are a little bit slow and don't realize that they've been set up. All they know is that they're in trouble for something they didn't do. Instead of dealing with this plot in-character or considering that there might be things going on that they may not know about, they automatically begin whining and complaining to everyone within earshot that the ST's are cheating. They are taking an in-game issue and dealing with it in an out-of-game manner. Not only that, but they're annoying all the other players in earshot by breaking to mood of the game. Whining about what's happening to your character in hopes of changing it is Metagaming. Instead, try finding out the cause of what's going on or maybe just doing something about it. Vampire is a political game. Find a way to use this to your advantage. Just do it In-Character!
+
+Metagaming is bad. Metagaming leads to more arguments, accusations, and errors than any other thing in the LARP. Knowingly metagaming will earn anyone a strike, even an ST. Guess what happens after 3 strikes?<
+
+I went to a party once that had a very good rule: "What happens at the party, stays at the party." The same thing goes for the LARP. "What happens at LARP stays at LARP, and nothing else gets in." There are a few ways to avoid metagaming:
+
++ "The first rule of Fight Club is: You do not talk about Fight Club!"
+
+The easiest way to prevent metagaming against you is not to talk about your character OOCly. Don't tell anyone that you're a Lasombra infiltrator. Do not tell anyone that you're planning to seize Praxis over the Domain. Don't tell anyone what your selective feeding is. Metagaming guilt very rarely ever rests on solely one party. And that makes it hard for STs to adjudicate. If you don't want something getting out, don't say anything. Simple.
+
++ "The second rule of Fight Club is: You do not talk about Fight Club!"
+
+So, Bob just told me that he's planning on wiping out his whole clan. There are a couple of ways I can take this: 1) He wants me to help. 2) He's bragging about how billy-bad-assed he is. 3) He's sounding me out, to see whom I report this information to. 4) He's judging my reaction, to see what I'll do about it, if anything. Vampires are inherently duplicitous creatures. I'd rather not have the players become so conniving, but it has been known to happen. If somebody does decide to let you on to some information, ask yourself: Why? What does s/he have to gain?
+
++ Keep your sheets to yourself
+
+Don't flaunt your character sheet around, it holds weaknesses as well as strengths.
+
++ If you do decide to tell someone something about your character, do it with the strict understanding that it's OOC.
+
++ Maturity rules
+
+This is a hobby, it is not a lifestyle. Make sure the game maintains its proper priority in your life. If you have to work, do not skip it for LARP. If you have a date, do not skip it for LARP. If you have a paper due, do not skip it to LARP. If you need a shower, please do not skip it to LARP. If you have to clean your room, skip it to LARP.
+
++ Remember that it's just a game.
+
+This really should have gone first, as it's the single most important rule. Do NOT jimmy the lock to your IC rivals dorm room to peruse his e-mail and see whom he's plotting with. Not only will this get you booted from the game, but also very likely booted from the university. If you want to find things out, do it in game or over a downtime. DO NOT interrogate, B&E, snoop, blackmail, etc.
+
+%!include(xhtml): ''post_main_content.html''
