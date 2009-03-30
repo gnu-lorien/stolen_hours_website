@@ -1,0 +1,539 @@
+ charter.t2t           |  410 +++++++++++++++++++++++--------------------------
+ creation.t2t          |    1 +
+ in_character_info.t2t |   65 +++-----
+ index.t2t             |    7 +
+ 4 files changed, 223 insertions(+), 260 deletions(-)
+diff --git a/charter.t2t b/charter.t2t
+index 954390f..a749f13 100644
+--- a/charter.t2t
++++ b/charter.t2t
+@@ -1,223 +1,195 @@
+ 
+-%!target: txt
++%!target: xhtml
+ %!options: -o charter.html
+ %!postproc: WINDOW_TITLE "Charter"
+ %!postproc: MAIN_TITLE "Charter"
+-%!include(txt): ''pre_main_content.html''
+-<p align="justify">The narrator's council recently voted to remove the formal voting rights of the narrator's council. The charter has yet to be updated to reflect this.</p>
+-<P ALIGN="JUSTIFY">Written 3/18/03 by Christi Nicodemus</P>
+-<P ALIGN="JUSTIFY"></P>
+-<B><U><P ALIGN="JUSTIFY">RULES:</P>
+-</B></U><P ALIGN="JUSTIFY"></P>
+-<B><P ALIGN="JUSTIFY">1. No Touching. No Stunts.</P>
+-
+-</B><P ALIGN="JUSTIFY">That means none whatsoever. It's far too easy for things to get out of hand in the heat of the moment. Save the stunts for your imagination. If you can imagine you're a centuries-old vampire, then you can sure imagine you're swinging on a chandelier or leaping across rooftops.</P>
+-<P ALIGN="JUSTIFY"></P>
+-<B><P ALIGN="JUSTIFY">2. No Weapons</P>
+-</B><P ALIGN="JUSTIFY">No matter how careful you are. Whether it's to prevent some fool from skewering himself on your new dagger, or to make sure the police don't think you're a threat, weapons of any sort are forbidden. Even fake or toy weapons, trained attack gerbils or laser pens are not allowed. Use item cards instead.</P>
+-<P ALIGN="JUSTIFY"></P>
+-<B><P ALIGN="JUSTIFY">3. No Drugs or Alcohol</P>
+-</B><P ALIGN="JUSTIFY">Drinking and drugs do not inspire peak performance, and players who are so impaired are a threat to other players and the game. It's one thing to play a character who is drunk or stoned, but another thing entirely to actually come to game under the influence. At best it's tasteless; at worst it's illegal. Don't do it.</P>
+-<P ALIGN="JUSTIFY"></P>
+-<B><P ALIGN="JUSTIFY">4. It's Only a Game</P>
+-</B><P ALIGN="JUSTIFY">If a character dies, if a plot falls apart, if a rival gets the upper hand, it's just a game. You and the rest of the players are doing this for fun. Taking things too seriously, or taking character issues into real life, will only spoil everyone's enjoyment, including yours. Remember that playing a game should be fun - if you're not having fun, it's time for a reassessment.</P>
+-
+-<P ALIGN="JUSTIFY">Remember to leave the game behind when the session's over. "Soft" roleplaying (conversing in character without challenges) can be fun, and there's nothing wrong with talking about the game afterward at the local diner. On the other hand, demanding weekly clan meetings or trying to rouse your primogen to talk business at three in the morning signifies the need for a change in perspective.</P>
+-<P ALIGN="JUSTIFY"></P>
+-<B><P ALIGN="JUSTIFY">5. Be Mindful of Others</P>
+-</B><P ALIGN="JUSTIFY">Not everyone around you is playing the game, and it's in extremely poor taste to try to feed off passers-by. You want to ensure that your game and your players are welcomed. Frightening people and getting the local law enforcement called on you is not the way to do it. This is especially true if you're playing in a public area, such as a park. It can be a very good idea to alert local merchants and police before you play so they're prepared. If you get curiosity-seekers, try to have some business cards on hand and offer to speak with them when you have more time.</P>
+-<P ALIGN="JUSTIFY"></P>
+-<B><P ALIGN="JUSTIFY">6. Do What Works for You</P>
+-</B><P ALIGN="JUSTIFY">&quot;The golden rule." Your game may have special circumstances that require a few extra bells and whistles to the rules, or your troupe may find a way to handle something that works better for you. So long as people are having fun, go ahead and run with it - it's your game.</P>
+-<P ALIGN="JUSTIFY">Likewise, if you see something that you want in your game that doesn't appear with an MET system, then sit down and cobble up something that will work for you. If MET is all about telling stories, then here's the part where the Storyteller improvises.</P>
+-<P ALIGN="JUSTIFY"></P>
+-<B><P ALIGN="JUSTIFY">7. Have Fun</P>
+-
+-</B><P ALIGN="JUSTIFY">Not "Win." Not "Go out and conquer everyone else." Just have fun, because in MET, it's not about how the game ends, but what happens along the way.</P>
+-<P ALIGN="JUSTIFY"></P>
+-<B><P ALIGN="JUSTIFY">8. No Cheating</P>
+-</B><P ALIGN="JUSTIFY">Be honest about the number of traits you have to bid.</P>
+-<P ALIGN="JUSTIFY">Don¿t try and use disciplines that you do not possess.</P>
+-<P ALIGN="JUSTIFY">Do not under any circumstances lie about merits and flaws!</P>
+-<P ALIGN="JUSTIFY">STs may examine your sheet at anytime.</P>
+-<P ALIGN="JUSTIFY"></P>
+-<B><P ALIGN="JUSTIFY">9. Normal codes of dress are enforced </P>
+-</B><P ALIGN="JUSTIFY">Dress in character, because it enhances the role play experience for everyone.</P>
+-
+-<P ALIGN="JUSTIFY">Use common sense.</P>
+-<P ALIGN="JUSTIFY"></P>
+-<B><P ALIGN="JUSTIFY">10. Respect our Location </P>
+-</B><P ALIGN="JUSTIFY">Stay in sight of the game location at all times.</P>
+-<P ALIGN="JUSTIFY">Keep the area tidy. If you bring trash to the game, throw it away.</P>
+-<P ALIGN="JUSTIFY">Remember that there may be students studying and sleeping in the dorms close by, so try to keep your volume &#9;to a reasonable level.</P>
+-<P ALIGN="JUSTIFY"></P>
+-<B><P ALIGN="JUSTIFY">11. The Storyteller has the final say in any decision </P>
+-</B><P ALIGN="JUSTIFY">If you argue unreasonably with the Storyteller or any Narrators on a decision, you may be asked to leave the &#9;game for the night.</P>
+-
+-<P ALIGN="JUSTIFY">If this is a constant problem you may be asked not to return.</P>
+-<P ALIGN="JUSTIFY">It is the Storyteller's responsibility to maintain a flow of storyline, adhere to rules conceived and held by this &#9;chronicle, and consider all characters and precedents when making decisions. The Head Storyteller is the &#9;highest law in the land. May god have mercy on his soul.</P>
+-<B><P ALIGN="JUSTIFY"></P>
+-<P ALIGN="JUSTIFY">12. Know the rules and follow them.</P>
+-</B><P ALIGN="JUSTIFY">&#9;GA:SH is a part of the MET RSO of GC&amp;SU in Milledgeville, GA. The Constitution of the RSO as well as the &#9;college¿s Code of Conduct applies to you just as much as our own game constitution. Know them and follow &#9;them.</P>
+-<P ALIGN="JUSTIFY"></P>
+-<B><U><P ALIGN="JUSTIFY">MEMBERSHIP:</P>
+-
+-</B></U><P ALIGN="JUSTIFY">Players must be 17 years of age or older to participate in Georgia: Stolen Hours. This chronicle will deal with mature themes and subject matter. There are no exceptions to this rule. Members from the community as well as GC&amp;SU students are welcome to participate as long as they meet this criteria and have not received previous disciplinary action, and pose no threat to either the players and/or the continuity of GA:SH.</P>
+-<P ALIGN="JUSTIFY"></P>
+-<B><U><P ALIGN="JUSTIFY">OFFICERS:</P>
+-</B></U><P ALIGN="JUSTIFY">The hierarchy below represents LARP organization. This hierarchy is only for GA:SH intra-game functioning. Outside of the game, either physically or in terms of scope, Officers of GA:SH agree to abide by the decisions of the MET RSO Officers. It should be noted here that GA:SH is an officially sanctioned event under the GC&amp;SU MET RSO.</P>
+-<P ALIGN="JUSTIFY"></P>
+-<B><P ALIGN="JUSTIFY">Narrators:</P>
+-</B><P ALIGN="JUSTIFY">Selected by Head Storyteller, may be required to pass Narrators Test (80%)</P>
+-<P ALIGN="JUSTIFY">Term: Until Narrator steps down, fails Narrator Test, fails in his duties, or is stripped of Membership</P>
+-<P ALIGN="JUSTIFY"></P>
+-
+-<OL><P ALIGN="JUSTIFY">Duties as follows:</P>
+-<OL>
+-
+-<P ALIGN="JUSTIFY"><LI>Adjudicate rules call in the absence of a Storyteller</LI></P>
+-<P ALIGN="JUSTIFY"><LI>Assist in character creation </LI></P>
+-<P ALIGN="JUSTIFY"><LI>Assist players understanding of game mechanics and genre as needed</LI></P>
+-<P ALIGN="JUSTIFY"><LI>Maintain dialogue with assigned clan; either informing them of changes in the game or canvassing them for feedback.</LI></P>
+-<P ALIGN="JUSTIFY"><LI>Act as liaison between the players and the ST staff</LI></P>
+-<P ALIGN="JUSTIFY"><LI>Participate in Narrators Council voting and debate. Note that Narrators vote as their clan¿s conscience guides them, not their own.</LI></P>
+-<P ALIGN="JUSTIFY"><LI>Maintain confidentiality, as needed</LI></P>
+-
+-<P ALIGN="JUSTIFY"><LI>Refer issues, conflicts, and reports to Storytellers, as needed.</LI></P>
+-<P ALIGN="JUSTIFY"><LI>Staff check-in desk</LI></P>
+-<P ALIGN="JUSTIFY"><LI>Portray non-player characters (extras) as needed.</LI></P></OL>
+-<P ALIGN="JUSTIFY">Granted privileges:</P>
+-
+-<UL>
+-<P ALIGN="JUSTIFY"><LI>Narrators may &quot;freeze a scene&quot; in the event that combat is about to begin, or a rules adjudication by an ST is needed. Only an ST may &quot;pop the timebubble&quot;.</LI></P>
+-
+-<P ALIGN="JUSTIFY"><LI>May look at any character sheet during a challenge</LI></P>
+-<P ALIGN="JUSTIFY"><LI>Narrators may sign off on any &quot;standard&quot; item card</LI></P>
+-<P ALIGN="JUSTIFY"><LI>Narrators vote for their constituency clans on the Narrators Council.</LI></P>
+-<P ALIGN="JUSTIFY"><LI>Narrators receive an extra experience point per game as compensation.</LI></P>
+-<P ALIGN="JUSTIFY"><LI>If Narrators portray an NPC for the evening, the XP they earn may be spent on their own character instead of the NPC</LI></P></UL>
+-</UL>
+-</OL>
+-<P ALIGN="JUSTIFY"></P>
+-<B><P ALIGN="JUSTIFY">Narrator¿s Council:</P>
+-
+-</B><P ALIGN="JUSTIFY">All Narrators and ASTs sit on the Narrator Council</P>
+-<P ALIGN="JUSTIFY"></P>
+-<P ALIGN="JUSTIFY">The Narrator¿s Council acts as both a Counsel and a Counterbalance to the HST. It is expected to act in the best interest of the game at all times. The Narrators Council duties and powers are listed below:</P>
+-
+-<UL>
+-<P ALIGN="JUSTIFY"><LI>Rules: Any new House Rule must meet a majority vote by the Narrators Council. The Narrator¿s Council does not have line item veto. They can either accept the new House Rule, or reject it. If rejected, the proposed amendment is stricken from game and all topics it concerned itself with revert to <I>as per LotN:R</I> This voting can also include amendments to the game Charter.</LI></P>
+-<P ALIGN="JUSTIFY"><LI>Shelving characters: If a player wishes to temporarily shelve his character, he must make an appeal to the Narrator¿s Council. The player will need to be candid about his or her reason for shelving the character. If the Narrator¿s agree that the In-Character rationale is valid, they may vote on the action. This requires a 2/3rds majority vote by the Narrators. That player may then play a new character, until such time as (a) he wishes to bring that shelved PC back into game and (b) the Character ST approves it.</LI></P>
+-<P ALIGN="JUSTIFY"><LI>Disciplinary measures: The Narrator¿s Council can overrule any disciplinary measure by the STs with a 2/3rds majority vote. This includes both &quot;strikes&quot; and &quot;dismemberships&quot;.</LI></P>
+-
+-<P ALIGN="JUSTIFY"><LI>The Narrator¿s Council may ask to meet in private, without the presence of any ST, at its leisure. However, full voting requires that the ASTs be present and able to vote.</LI></P>
+-<P ALIGN="JUSTIFY"><LI>The Narrator¿s Council may be asked to vote on topics and decisions as deemed appropriate by the Head Storyteller. Such votes are typically settled with a majority vote.</LI></P></UL>
+-
+-<P ALIGN="JUSTIFY"></P>
+-<B><P ALIGN="JUSTIFY">Assistant Storytellers (AST)</P>
+-</B><P ALIGN="JUSTIFY">Selected by HST</P>
+-<P ALIGN="JUSTIFY">Must pass Narrator¿s Test</P>
+-<P ALIGN="JUSTIFY">Term: 1 year or until removed by HST</P>
+-<P ALIGN="JUSTIFY"></P><OL>
+-<P ALIGN="JUSTIFY">Duties as follows:</P>
+-
+-<OL>
+-
+-<P ALIGN="JUSTIFY"><LI>Collaborate with other STs to develop plots, antagonists, genre, props, setting, and workshops for the benefit of the game</LI></P>
+-<P ALIGN="JUSTIFY"><LI>Portray NPCs and antagonists</LI></P>
+-<P ALIGN="JUSTIFY"><LI>Develop storylines</LI></P>
+-<P ALIGN="JUSTIFY"><LI>Maintain game logistics (character database, sign-in sheets, etc)</LI></P>
+-<P ALIGN="JUSTIFY"><LI>Adjudicate rules disputes</LI></P>
+-<P ALIGN="JUSTIFY"><LI>Adjudicate combat scenes</LI></P>
+-<P ALIGN="JUSTIFY"><LI>Collaborate on Downtime responses</LI></P>
+-<P ALIGN="JUSTIFY"><LI>Attend Narrator¿s Council meetings</LI></P>
+-
+-<P ALIGN="JUSTIFY"><LI>Assign disciplinary measures, as needed</LI></P>
+-<P ALIGN="JUSTIFY"><LI>Act in the best interest of GA:SH</LI></P>
+-<P ALIGN="JUSTIFY"><LI>STs are not eligible for golden ankhs</LI></P>
+-<P ALIGN="JUSTIFY"><LI>Meet with players, as needed</LI></P>
+-<P ALIGN="JUSTIFY"><LI>Submit House Rules revisions, as needed</LI></P>
+-<P ALIGN="JUSTIFY"><LI>Refer issues and arguments to HST, as needed</LI></P>
+-<P ALIGN="JUSTIFY"><LI>Supervise game site clean-up</LI></P>
+-<P ALIGN="JUSTIFY"><LI>Train new Narrators</LI></P>
+-<P ALIGN="JUSTIFY"><LI>Act as liaison between the Narrator¿s Council and the HST</LI></P>
+-
+-<P ALIGN="JUSTIFY"><LI>Maintain reference with and order over their particular assignment</LI></P></OL>
+-<P ALIGN="JUSTIFY">Granted privileges:</P>
+-
+-<UL>
+-<P ALIGN="JUSTIFY"><LI>STs may carry an unlimited amount of earned XP to their personal characters when they step down from their position or their term is up.</LI></P>
+-<P ALIGN="JUSTIFY"><LI>STs earn 4 XP a game for compensation</LI></P>
+-<P ALIGN="JUSTIFY"><LI>STs may &quot;freeze&quot; and &quot;unfreeze&quot; a scene.</LI></P>
+-
+-<P ALIGN="JUSTIFY"><LI>STs may look at a character sheet at anytime.</LI></P>
+-<P ALIGN="JUSTIFY"><LI>STs sign-off on any item cards.</LI></P>
+-<P ALIGN="JUSTIFY"><LI>STs alone may assign disciplinary measures</LI></P></UL>
+-</UL></OL>
+-
+-<P ALIGN="JUSTIFY">ASTs often are given assignments by the HST. These assignments can range widely, and are decided on by the HST. A list of typical assignments follows:</P>
+-<OL>
+-<OL>
+-
+-<P ALIGN="JUSTIFY"><LI>Character ST: Helps new players make characters, approves character concepts, records XP expenditures, records Influence growth, etc.</LI></P>
+-<P ALIGN="JUSTIFY"><LI>Continuity ST: Maintains strong relationship with metaplot and characters history, looks for connections between characters, maintains game history, references WW publications as needed, etc.</LI></P>
+-
+-<P ALIGN="JUSTIFY"><LI>Combat ST: Maintains close account of all combat scenes, adjudicates combat scenes exclusively, runs Combat seminars for players, etc</LI></P>
+-<P ALIGN="JUSTIFY"><LI>Influence ST: Tracks and adjudicates Influence use, promotes influences as a way to resolve matters, holds Influence War seminars for players, etc</LI></P></OL>
+-</OL>
+-</OL>
+-
+-<P ALIGN="JUSTIFY"></P>
+-<B><P ALIGN="JUSTIFY">Head Storyteller (HST)</P>
+-</B><P ALIGN="JUSTIFY">Voted into office by majority vote</P>
+-<P ALIGN="JUSTIFY">Term: 1 year</P>
+-<OL>
+-<P ALIGN="JUSTIFY">Duties</P><OL>
+-
+-<P ALIGN="JUSTIFY">In addition to all Narrator and AST duties, the HST is the final arbitrating authority on all disputes, adjudications, plot, genre, and setting issues. The HST sets the tone of the game. The HST assigns duties as necessary, but in the end, is the final person responsible for the game. This office requires an immense respect for genre, the art of theater, game balance, politics, conflict resolution, rules, and the patience of Job. There are no lists of duties, everything is a duty of the HST. The HST should be able to fill in any position at any time. The HST is as much of an &quot;owner&quot; of the game as there can be, in terms of responsibilities. May god have mercy on his soul.</P></OL>
+-<P ALIGN="JUSTIFY"></P>
+-<P ALIGN="JUSTIFY">Granted privileges: as per ASTs</P></OL>
+-<B><U><P ALIGN="JUSTIFY"></P>
+-<P ALIGN="JUSTIFY">Consequences</P>
+-</B></U><P ALIGN="JUSTIFY"></P>
+-<P ALIGN="JUSTIFY">All violations of the rules, amendments, duties, or responsibilities as deemed appropriate by the ST staff may be met with the following consequences:</P><UL>
+-<P ALIGN="JUSTIFY"><LI> Verbal warning from ST</LI></P>
+-
+-<P ALIGN="JUSTIFY"><LI> Loss of experience point award for the night</LI></P>
+-<P ALIGN="JUSTIFY"><LI> Loss of character</LI></P>
+-<P ALIGN="JUSTIFY"><LI> Probationary status: limits character options and may include restriction to only home chronicle</LI></P>
+-<P ALIGN="JUSTIFY"><LI> Suspension from chronicle</LI></P>
+-<P ALIGN="JUSTIFY"><LI> Ejection from chronicle</LI></P>
+-<P ALIGN="JUSTIFY"><LI> Chronicle strike</LI></P>
+-
+-<P ALIGN="JUSTIFY"></P></UL>
+-<B><U><P ALIGN="JUSTIFY">Metagaming:</P>
+-</B></U><P ALIGN="JUSTIFY"></P>
+-<P ALIGN="JUSTIFY">Lets talk about the concept of metagaming. This is the one thing that kills LARPs faster than the speed of rumor.</P>
+-<P ALIGN="JUSTIFY"></P>
+-<P ALIGN="JUSTIFY">Metagaming: (v) the process by which a player, taking information they know casually, and applying it to their character.</P>
+-<P ALIGN="JUSTIFY"></P>
+-<P ALIGN="JUSTIFY">For example, out-of-character, Austin and Trey are hanging out playing Earthworm Jim and talking about the LARP. Austin launches the cow and mentions something about how he'd love to have that cow land on Trey's character. Trey asks what Austin means, and Austin reveals that Trey's character is the best-friend's roommates cousins sister's uncle of his grandsire who was an Infernal diablerist from Pluto. And that the voices in his head have been telling Austin's character to pants Trey's character in the middle of Elysium.</P>
+-<P ALIGN="JUSTIFY"></P>
+-<P ALIGN="JUSTIFY">So Austin has told Trey, outside of game, all of this. Austin's character has not revealed his Infernal orders to Trey's character. However, Trey does not want to have his trousers hit the floor in the middle of game. So, during the next game, Rob's PC keeps avoiding Allan's PC. This is an example of metagaming.</P>
+-<P ALIGN="JUSTIFY"></P>
+-<P ALIGN="JUSTIFY">Another example: Roger the Ventrue and Sally the Toreador have been framed in Elysium so that it looks like they were trying to hire an Assamite to assassinate the Prince. Billy (Roger¿s player) and Lisa (Sally¿s player) are a little bit slow and don¿t realize that they¿ve been set up. All they know is that they¿re in trouble for something they didn¿t do. Instead of dealing with this plot in-character or considering that there might be things going on that they may not know about, they automatically begin whining and complaining to everyone within earshot that the ST¿s are cheating. They are taking an in-game issue and dealing with it in an out-of-game manner. Not only that, but they¿re annoying all the other players in earshot by breaking to mood of the game. Whining about what¿s happening to your character in hopes of changing it is Metagaming. Instead, try finding out the cause of what¿s going on or maybe just doing something about it. Vampire is a political game. Find a way to use this to your advantage. Just do it In-Character! </P>
+-
+-<P ALIGN="JUSTIFY"></P>
+-<P ALIGN="JUSTIFY">Metagaming is bad. Metagaming leads to more arguments, accusations, and errors than any other thing in the LARP. Knowingly metagaming will earn anyone a strike, even an ST. Guess what happens after 3 strikes?</P>
+-<P ALIGN="JUSTIFY"></P>
+-<P ALIGN="JUSTIFY">I went to a party once that had a very good rule: "What happens at the party, stays at the party." The same thing goes for the LARP. "What happens at LARP stays at LARP, and nothing else gets in." There are a few ways to avoid metagaming:</P>
+-<P ALIGN="JUSTIFY"></P>
+-<P ALIGN="JUSTIFY">1)"The first rule of Fight Club is: You do not talk about Fight Club!" The easiest way to prevent metagaming against you is not to talk about your character OOCly. Don't tell anyone that you're a Lasombra infiltrator. Do not tell anyone that you're planning to seize Praxis over the Domain. Don't tell anyone what your selective feeding is. Metagaming guilt very rarely ever rests on solely one party. And that makes it hard for STs to adjudicate. If you don't want something getting out, don't say anything. Simple.</P>
+-<P ALIGN="JUSTIFY"></P>
+-<P ALIGN="JUSTIFY">2) "The second rule of Fight Club is: You do not talk about Fight Club!" So, Bob just told me that he's planning on wiping out his whole clan. There are a couple of ways I can take this: 1) He wants me to help. 2) He's bragging about how billy-bad-assed he is. 3) He's sounding me out, to see whom I report this information to. 4) He's judging my reaction, to see what I'll do about it, if anything. Vampires are inherently duplicitous creatures. I'd rather not have the players become so conniving, but it has been known to happen. If somebody does decide to let you on to some information, ask yourself: Why? What does s/he have to gain? </P>
+-<P ALIGN="JUSTIFY"></P>
+-<P ALIGN="JUSTIFY">3) Keep your sheets to yourself: Don't flaunt your character sheet around, it holds weaknesses as well as strengths.</P>
+-<P ALIGN="JUSTIFY"></P>
+-<P ALIGN="JUSTIFY">4) If you do decide to tell someone something about your character, do it with the strict understanding that it's OOC.</P>
+-
+-<P ALIGN="JUSTIFY"></P>
+-<P ALIGN="JUSTIFY">5) Maturity rules: This is a hobby, it is not a lifestyle. Make sure the game maintains its proper priority in your life. If you have to work, do not skip it for LARP. If you have a date, do not skip it for LARP. If you have a paper due, do not skip it to LARP. If you need a shower, please do not skip it to LARP. If you have to clean your room, skip it to LARP.</P>
+-<P ALIGN="JUSTIFY"></P>
+-<P ALIGN="JUSTIFY">6) Remember that it's just a game. This really should have gone first, as it¿s the single most important rule. Do NOT jimmy the lock to your IC rivals dorm room to peruse his e-mail and see whom he's plotting with. Not only will this get you booted from the game, but also very likely booted from the university. If you want to find things out, do it in game or over a downtime. DO NOT interrogate, B&amp;E, snoop, blackmail, etc.</P>
+-%!include(txt): ''post_main_content.html''
++%!include(xhtml): ''pre_main_content.html''
++== Rules of Conduct ==
+++ No Touching. No Stunts.
++
++That means none whatsoever. It's far too easy for things to get out of hand in the heat of the moment. Save the stunts for your imagination. If you can imagine you're a centuries-old vampire, then you can sure imagine you're swinging on a chandelier or leaping across rooftops.
++
+++ No Weapons
++
++No matter how careful you are. Whether it's to prevent some fool from skewering himself on your new dagger, or to make sure the police don't think you're a threat, weapons of any sort are forbidden. Even fake or toy weapons, trained attack gerbils or laser pens are not allowed. Use item cards instead.
++
+++ No Drugs or Alcohol
++
++Drinking and drugs do not inspire peak performance, and players who are so impaired are a threat to other players and the game. It's one thing to play a character who is drunk or stoned, but another thing entirely to actually come to game under the influence. At best it's tasteless; at worst it's illegal. Don't do it.
++
+++ It's Only a Game
++
++If a character dies, if a plot falls apart, if a rival gets the upper hand, it's just a game. You and the rest of the players are doing this for fun. Taking things too seriously, or taking character issues into real life, will only spoil everyone's enjoyment, including yours. Remember that playing a game should be fun - if you're not having fun, it's time for a reassessment.
++
++Remember to leave the game behind when the session's over. "Soft" roleplaying (conversing in character without challenges) can be fun, and there's nothing wrong with talking about the game afterward at the local diner. On the other hand, demanding weekly clan meetings or trying to rouse your primogen to talk business at three in the morning signifies the need for a change in perspective.
++
+++ Be Mindful of Others
++
++Not everyone around you is playing the game, and it's in extremely poor taste to try to feed off passers-by. You want to ensure that your game and your players are welcomed. Frightening people and getting the local law enforcement called on you is not the way to do it. This is especially true if you're playing in a public area, such as a park. It can be a very good idea to alert local merchants and police before you play so they're prepared. If you get curiosity-seekers, try to have some business cards on hand and offer to speak with them when you have more time.
++
+++ Do What Works for You
++
++"The golden rule." Your game may have special circumstances that require a few extra bells and whistles to the rules, or your troupe may find a way to handle something that works better for you. So long as people are having fun, go ahead and run with it - it's your game.
++
++Likewise, if you see something that you want in your game that doesn't appear with an MET system, then sit down and cobble up something that will work for you. If MET is all about telling stories, then here's the part where the Storyteller improvises.
++
+++ Have Fun
++
++Not "Win." Not "Go out and conquer everyone else." Just have fun, because in MET, it's not about how the game ends, but what happens along the way.
++
+++ No Cheating
++  + Be honest about the number of traits you have to bid.
++  + Don't try and use disciplines that you do not possess.
++  + Do not under any circumstances lie about merits and flaws!
++  + STs may examine your sheet at anytime.
++
+++ Normal codes of dress are enforced
++
++Dress in character, because it enhances the role play experience for everyone. Use common sense.
++
+++ Respect our Location
++  + Stay in sight of the game location at all times.
++  + Keep the area tidy. If you bring trash to the game, throw it away.
++  + Remember that there may be students studying and sleeping in the dorms close by, so try to keep your volume to a reasonable level.
++
+++ The Storyteller has the final say in any decision
++  + If you argue unreasonably with the Storyteller or any Narrators on a decision, you may be asked to leave the game for the night.
++  + If this is a constant problem you may be asked not to return.
++  + It is the Storyteller's responsibility to maintain a flow of storyline, adhere to rules conceived and held by this chronicle, and consider all characters and precedents when making decisions. The Head Storyteller is the highest law in the land. May god have mercy on his soul.
++
++
++== Membership ==
++Players must be 17 years of age or older to participate in Stolen Hours. This chronicle will deal with mature themes and subject matter. There are no exceptions to this rule. Members from the community as well as Georgia Tech students are welcome to participate as long as they meet this criteria and have not received previous disciplinary action, and pose no threat to either the players and/or the continuity of Stolen Hours.
++
++
++== Officers ==
++The hierarchy below represents LARP organization. This hierarchy is only for Stolen Hours intra-game functioning.
++
++=== Narrators ===
++Selected by Head Storyteller. May be required to pass Narrators Test (80%)
++
++: Term
++Until Narrator steps down, fails Narrator Test, fails in his duties, is stripped of Membership, or is otherwise removed by the Head Storyteller.
++
++: Duties
+++ Adjudicate rules call in the absence of a Storyteller
+++ Assist in character creation
+++ Assist players understanding of game mechanics and genre as needed
+++ Maintain dialogue with assigned clan; either informing them of changes in the game or canvassing them for feedback.
+++ Act as liaison between the players and the ST staff
+++ Maintain confidentiality, as needed
+++ Refer issues, conflicts, and reports to Storytellers, as needed.
+++ Staff check-in desk
+++ Portray non-player characters (extras) as needed.
++
++: Granted privileges
++- Narrators may "freeze a scene" in the event that combat is about to begin, or a rules adjudication by an ST is needed. Only an ST may "pop the timebubble".
++- May look at any character sheet during a challenge
++- Narrators may sign off on any "standard" item card
++- Narrators receive an extra experience point per game as compensation.
++
++
++=== Assistant Storytellers (AST) ===
++Selected by the Head Storyteller.
++
++: Term
++As long as they and the Head Storyteller choose. May be removed at any time for any reason by the Head Storyteller.
++
++: Duties as follows
++
+++ Collaborate with other STs to develop plots, antagonists, genre, props, setting, and workshops for the benefit of the game
+++ Portray NPCs and antagonists
+++ Develop storylines
+++ Maintain game logistics (character database, sign-in sheets, etc)
+++ Adjudicate rules disputes
+++ Adjudicate combat scenes
+++ Collaborate on Downtime responses
+++ Assign disciplinary measures, as needed
+++ Act in the best interest of Stolen Hours
+++ STs are not eligible for golden ankhs
+++ Meet with players, as needed
+++ Submit House Rules revisions, as needed
+++ Refer issues and arguments to HST, as needed
+++ Supervise game site clean-up
+++ Train new Narrators
+++ Maintain reference with and order over their particular assignment
++
++: Granted privileges
++- STs may carry an unlimited amount of earned XP to their personal characters when they step down from their position or their term is up.
++- STs earn 4 XP a game for compensation
++- STs may "freeze" and "unfreeze" a scene.
++- STs may look at a character sheet at anytime.
++- STs sign-off on any item cards.
++- STs alone may assign disciplinary measures
++
++
++ASTs often are given assignments by the HST. These assignments can range widely, and are decided on by the HST. A list of typical assignments follows:
++- Character ST: Helps new players make characters, approves character concepts, records XP expenditures, records Influence growth, etc.
++- Continuity ST: Maintains strong relationship with metaplot and characters history, looks for connections between characters, maintains game history, references WW publications as needed, etc.
++- Combat ST: Maintains close account of all combat scenes, adjudicates combat scenes exclusively, runs Combat seminars for players, etc
++- Influence ST: Tracks and adjudicates Influence use, promotes influences as a way to resolve matters, holds Influence War seminars for players, etc
++
++
++=== Head Storyteller (HST) ===
++Voted into office by majority vote
++
++: Term
++Until it is voted otherwise, or the Head Storyteller voluntarily steps down from his position.
++
++: Duties as follows
++In addition to all Narrator and AST duties, the HST is the final arbitrating authority on all disputes, adjudications, plot, genre, and setting issues. The HST sets the tone of the game. The HST assigns duties as necessary, but in the end, is the final person responsible for the game. This office requires an immense respect for genre, the art of theater, game balance, politics, conflict resolution, rules, and the patience of Job. There are no lists of duties, everything is a duty of the HST. The HST should be able to fill in any position at any time. The HST is as much of an "owner" of the game as there can be, in terms of responsibilities. May god have mercy on his soul.
++
++: Granted privileges
++As per AST
++
++
++== Consequences ==
++All violations of the rules, amendments, duties, or responsibilities as deemed appropriate by the ST staff may be met with the following consequences:
++- Verbal warning from ST
++- Loss of experience point award for the night
++- Loss of character
++- Probationary status: limits character options and may include restriction to only home chronicle
++- Suspension from chronicle
++- Ejection from chronicle
++- Chronicle strike
++
++
++== Metagaming ==
++Lets talk about the concept of metagaming. This is the one thing that kills LARPs faster than the speed of rumor.
++: Metagaming
++(v) the process by which a player, taking information they know casually, and applying it to their character.
++
++
++For example, out-of-character, Austin and Trey are hanging out playing Earthworm Jim and talking about the LARP. Austin launches the cow and mentions something about how he'd love to have that cow land on Trey's character. Trey asks what Austin means, and Austin reveals that Trey's character is the best-friend's roommates cousins sister's uncle of his grandsire who was an Infernal diablerist from Pluto. And that the voices in his head have been telling Austin's character to pants Trey's character in the middle of Elysium.
++
++So Austin has told Trey, outside of game, all of this. Austin's character has not revealed his Infernal orders to Trey's character. However, Trey does not want to have his trousers hit the floor in the middle of game. So, during the next game, Rob's PC keeps avoiding Allan's PC. This is an example of metagaming.
++
++Another example: Roger the Ventrue and Sally the Toreador have been framed in Elysium so that it looks like they were trying to hire an Assamite to assassinate the Prince. Billy (Roger's player) and Lisa (Sally's player) are a little bit slow and don't realize that they've been set up. All they know is that they're in trouble for something they didn't do. Instead of dealing with this plot in-character or considering that there might be things going on that they may not know about, they automatically begin whining and complaining to everyone within earshot that the ST's are cheating. They are taking an in-game issue and dealing with it in an out-of-game manner. Not only that, but they're annoying all the other players in earshot by breaking to mood of the game. Whining about what's happening to your character in hopes of changing it is Metagaming. Instead, try finding out the cause of what's going on or maybe just doing something about it. Vampire is a political game. Find a way to use this to your advantage. Just do it In-Character!
++
++Metagaming is bad. Metagaming leads to more arguments, accusations, and errors than any other thing in the LARP. Knowingly metagaming will earn anyone a strike, even an ST. Guess what happens after 3 strikes?<
++
++I went to a party once that had a very good rule: "What happens at the party, stays at the party." The same thing goes for the LARP. "What happens at LARP stays at LARP, and nothing else gets in." There are a few ways to avoid metagaming:
++
+++ "The first rule of Fight Club is: You do not talk about Fight Club!"
++
++The easiest way to prevent metagaming against you is not to talk about your character OOCly. Don't tell anyone that you're a Lasombra infiltrator. Do not tell anyone that you're planning to seize Praxis over the Domain. Don't tell anyone what your selective feeding is. Metagaming guilt very rarely ever rests on solely one party. And that makes it hard for STs to adjudicate. If you don't want something getting out, don't say anything. Simple.
++
+++ "The second rule of Fight Club is: You do not talk about Fight Club!"
++
++So, Bob just told me that he's planning on wiping out his whole clan. There are a couple of ways I can take this: 1) He wants me to help. 2) He's bragging about how billy-bad-assed he is. 3) He's sounding me out, to see whom I report this information to. 4) He's judging my reaction, to see what I'll do about it, if anything. Vampires are inherently duplicitous creatures. I'd rather not have the players become so conniving, but it has been known to happen. If somebody does decide to let you on to some information, ask yourself: Why? What does s/he have to gain?
++
+++ Keep your sheets to yourself
++
++Don't flaunt your character sheet around, it holds weaknesses as well as strengths.
++
+++ If you do decide to tell someone something about your character, do it with the strict understanding that it's OOC.
++
+++ Maturity rules
++
++This is a hobby, it is not a lifestyle. Make sure the game maintains its proper priority in your life. If you have to work, do not skip it for LARP. If you have a date, do not skip it for LARP. If you have a paper due, do not skip it to LARP. If you need a shower, please do not skip it to LARP. If you have to clean your room, skip it to LARP.
++
+++ Remember that it's just a game.
++
++This really should have gone first, as it's the single most important rule. Do NOT jimmy the lock to your IC rivals dorm room to peruse his e-mail and see whom he's plotting with. Not only will this get you booted from the game, but also very likely booted from the university. If you want to find things out, do it in game or over a downtime. DO NOT interrogate, B&E, snoop, blackmail, etc.
++
++%!include(xhtml): ''post_main_content.html''
+diff --git a/creation.t2t b/creation.t2t
+index 26f7f22..3273d8a 100644
+--- a/creation.t2t
++++ b/creation.t2t
+@@ -1,3 +1,4 @@
++
+ %!target: xhtml
+ %!options: -o creation.html -H --toc
+ %!postproc: WINDOW_TITLE "Character Creation"
+diff --git a/in_character_info.t2t b/in_character_info.t2t
+index 3b3cb56..f6f41cb 100644
+--- a/in_character_info.t2t
++++ b/in_character_info.t2t
+@@ -11,59 +11,42 @@
+ Coming soon!
+ 
+ 
+-== Feeding Grounds ==
+-These are the places in which your character is officially allowed to feed if you are a member of the listed clan. They are in descending order of which clan is currently getting the most blood.
++== Administration ==
++=== Prince ===
++Ivan Sjeckna of Clan Gangrel
+ 
+-: Clan Gangrel
+-City of Perry
+ 
+-Bleckley County
++=== Officers ===
++: Seneschal
++Rachel Dubhan of Clan Toreador
+ 
+-Twiggs County
++: Harpy
++Justice Scarborough of Clan Tremere
+ 
+-Macon: Ward 1 North
++: Sheriff
++Rocky of Clan Nosferatu
+ 
+-: Clan Nosferatu
+-Peach County
++: Scourge
++Harley of the Clanless
+ 
+-Washington County
+ 
+-Morgan County
++=== Primogen ===
++Primogen are responsible for deciding who may feed within each of these political territories of Macon, GA.
+ 
+-: Clan Toreador
+-Greene County
++: Ward 1
++Lindsey Whitmore of Clan Brujah
+ 
+-Hancock County
++: Ward 2
++Krum of Clan Nosferatu
+ 
+-Macon: Ward 1 South
++: Ward 3
++Lilyanna Salvatore of Clan Toreador
+ 
+-Macon: Ward 3 North
++: Ward 4
++Jonathan Edson of Clan Ventrue
+ 
+-: Clan Brujah
+-Monroe County
+-
+-Crawford County
+-
+-Macon: Ward 3 South
+-
+-: Clan Ventrue
+-City of Dublin
+-
+-Johnson County
+-
+-: Clan Tremere
+-Wilkinson County
+-
+-Macon: Ward 5
+-
+-: Clan Malkavian
+-Jasper County
+-
+-Putnam County
+-
+-
+-== News Articles ==
+-Coming soon!
++: Ward 5
++Adrian Riddle of Clan Tremere
+ 
+ 
+ %!include(xhtml): ''post_main_content.html''
+diff --git a/index.t2t b/index.t2t
+index 19b24a8..865d8ec 100644
+--- a/index.t2t
++++ b/index.t2t
+@@ -5,6 +5,13 @@
+ %!postproc: MAIN_TITLE "RECENT UPDATES"
+ %!include(xhtml): ''pre_main_content.html''
+ 
++== Updates 3/30/2009 ==
++- Updated Charter
++- Updated In Character Info to reflect the latest organization
++
++[Explicit Changes Listing recent_updates/20090320.txt]
++
++
+ == Updates 3/20/2009 ==
+ The long awaited return of the Stolen Hours website! There's little new here yet but the updates will be coming. It's only been two years in the making right?
+ 
