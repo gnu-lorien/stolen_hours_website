@@ -5,11 +5,17 @@
 %!postproc: MAIN_TITLE "RECENT UPDATES"
 %!include(xhtml): ''pre_main_content.html''
 
+== Updates 4/20/2009 ==
+- Added a map of the wards to the IC info
+
+[Explicit Changes Listing recent_updates/20090420.txt]
+
+
 == Updates 3/30/2009 ==
 - Updated Charter
 - Updated In Character Info to reflect the latest organization
 
-[Explicit Changes Listing recent_updates/20090320.txt]
+[Explicit Changes Listing recent_updates/20090330.txt]
 
 
 == Updates 3/20/2009 ==

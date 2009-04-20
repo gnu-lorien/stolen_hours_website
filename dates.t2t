@@ -4,6 +4,7 @@
 %!postproc: WINDOW_TITLE "Game Dates"
 %!postproc: MAIN_TITLE "Game Dates"
 %!postproc(xhtml): {{(.*?)}} <\1>
+%!postproc(xhtml): &amp; &
 %!include(xhtml): ''pre_main_content.html''
 We play on the Fridays before the first, third, and fifth Saturdays of each month. Essentially, the day before [Whispers of Atlanta www.whispersofatlanta.com]
 
