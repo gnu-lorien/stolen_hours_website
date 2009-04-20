@@ -1,0 +1,64 @@
+ dates.t2t             |    1 +
+ in_character_info.t2t |    9 +++++++++
+ index.t2t             |    8 +++++++-
+ 3 files changed, 17 insertions(+), 1 deletions(-)
+diff --git a/dates.t2t b/dates.t2t
+index f7912b7..aa37752 100644
+--- a/dates.t2t
++++ b/dates.t2t
+@@ -4,6 +4,7 @@
+ %!postproc: WINDOW_TITLE "Game Dates"
+ %!postproc: MAIN_TITLE "Game Dates"
+ %!postproc(xhtml): {{(.*?)}} <\1>
++%!postproc(xhtml): &amp; &
+ %!include(xhtml): ''pre_main_content.html''
+ We play on the Fridays before the first, third, and fifth Saturdays of each month. Essentially, the day before [Whispers of Atlanta www.whispersofatlanta.com]
+ 
+diff --git a/in_character_info.t2t b/in_character_info.t2t
+index f6f41cb..af3d552 100644
+--- a/in_character_info.t2t
++++ b/in_character_info.t2t
+@@ -3,6 +3,8 @@
+ %!options: -o teaching.html -H --toc
+ %!postproc: WINDOW_TITLE "In Character Info"
+ %!postproc: MAIN_TITLE "In Character Info"
++%!postproc(xhtml): {{(.*?)}} <\1>
++%!postproc(xhtml): &amp; &
+ %!include(xhtml): ''pre_main_content.html''
+ 
+ %%toc
+@@ -49,4 +51,11 @@ Jonathan Edson of Clan Ventrue
+ Adrian Riddle of Clan Tremere
+ 
+ 
++== Ward Map ==
++
++""" {{iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=117208728880103285383.0004501fe2d22d80e8ce9&ll=32.831976,-83.644012&spn=0.132701,0.19078&output=embed"}}
++
++""" {{/iframe}}
++View [Macon City Council Ward Map http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=117208728880103285383.0004501fe2d22d80e8ce9&ll=32.831976,-83.644012&spn=0.132701,0.19078&source=embed] in a larger map.
++
+ %!include(xhtml): ''post_main_content.html''
+diff --git a/index.t2t b/index.t2t
+index 865d8ec..e084e1f 100644
+--- a/index.t2t
++++ b/index.t2t
+@@ -5,11 +5,17 @@
+ %!postproc: MAIN_TITLE "RECENT UPDATES"
+ %!include(xhtml): ''pre_main_content.html''
+ 
++== Updates 4/20/2009 ==
++- Added a map of the wards to the IC info
++
++[Explicit Changes Listing recent_updates/20090420.txt]
++
++
+ == Updates 3/30/2009 ==
+ - Updated Charter
+ - Updated In Character Info to reflect the latest organization
+ 
+-[Explicit Changes Listing recent_updates/20090320.txt]
++[Explicit Changes Listing recent_updates/20090330.txt]
+ 
+ 
+ == Updates 3/20/2009 ==
