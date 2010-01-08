@@ -5,6 +5,13 @@
 %!postproc: MAIN_TITLE "RECENT UPDATES"
 %!include(xhtml): ''pre_main_content.html''
 
+== Updates 1/7/2010 ==
+- Updated staff information
+- Updated IC info about the current administration
+
+[Explicit Changes Listing recent_updates/20100107.txt]
+
+
 == Updates 4/20/2009 ==
 - Added a map of the wards to the IC info
 
@@ -16,16 +23,6 @@
 - Updated In Character Info to reflect the latest organization
 
 [Explicit Changes Listing recent_updates/20090330.txt]
-
-
-== Updates 3/20/2009 ==
-The long awaited return of the Stolen Hours website! There's little new here yet but the updates will be coming. It's only been two years in the making right?
-
-- Game dates are now shown with an embedded Google Calendar so there's a chance they will actually be updated properly!
-- The directions page now includes an embedded Google Map to assist in finding our site.
-- Removed the clan merits and flaws section since it was nearly a set of reprints. Later version will have page references and any necessary clarifications.
-
-[Explicit Changes Listing recent_updates/20090320.txt]
 
 
 %!include(xhtml): ''post_main_content.html''
