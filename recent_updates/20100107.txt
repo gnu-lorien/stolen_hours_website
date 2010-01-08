@@ -1,0 +1,96 @@
+ in_character_info.t2t  |   12 ++++++------
+ index.t2t              |   17 +++++++----------
+ post_main_content.html |    2 +-
+ 3 files changed, 14 insertions(+), 17 deletions(-)
+
+diff --git a/in_character_info.t2t b/in_character_info.t2t
+index af3d552..f5f7d0b 100644
+--- a/in_character_info.t2t
++++ b/in_character_info.t2t
+@@ -15,34 +15,34 @@ Coming soon!
+ 
+ == Administration ==
+ === Prince ===
+-Ivan Sjeckna of Clan Gangrel
++Lindsey Whitmore of Clan Brujah
+ 
+ 
+ === Officers ===
+ : Seneschal
+-Rachel Dubhan of Clan Toreador
++Lilyanna Salvatore of Clan Toreador
+ 
+ : Harpy
+ Justice Scarborough of Clan Tremere
+ 
+ : Sheriff
+-Rocky of Clan Nosferatu
++Alexander Pompeii of Clan Brujah
+ 
+ : Scourge
+-Harley of the Clanless
++Undisclosed
+ 
+ 
+ === Primogen ===
+ Primogen are responsible for deciding who may feed within each of these political territories of Macon, GA.
+ 
+ : Ward 1
+-Lindsey Whitmore of Clan Brujah
++None
+ 
+ : Ward 2
+ Krum of Clan Nosferatu
+ 
+ : Ward 3
+-Lilyanna Salvatore of Clan Toreador
++Abigail McCormack of Clan Toreador
+ 
+ : Ward 4
+ Jonathan Edson of Clan Ventrue
+diff --git a/index.t2t b/index.t2t
+index e084e1f..1a70504 100644
+--- a/index.t2t
++++ b/index.t2t
+@@ -5,6 +5,13 @@
+ %!postproc: MAIN_TITLE "RECENT UPDATES"
+ %!include(xhtml): ''pre_main_content.html''
+ 
++== Updates 1/7/2010 ==
++- Updated staff information
++- Updated IC info about the current administration
++
++[Explicit Changes Listing recent_updates/20100107.txt]
++
++
+ == Updates 4/20/2009 ==
+ - Added a map of the wards to the IC info
+ 
+@@ -18,14 +25,4 @@
+ [Explicit Changes Listing recent_updates/20090330.txt]
+ 
+ 
+-== Updates 3/20/2009 ==
+-The long awaited return of the Stolen Hours website! There's little new here yet but the updates will be coming. It's only been two years in the making right?
+-
+-- Game dates are now shown with an embedded Google Calendar so there's a chance they will actually be updated properly!
+-- The directions page now includes an embedded Google Map to assist in finding our site.
+-- Removed the clan merits and flaws section since it was nearly a set of reprints. Later version will have page references and any necessary clarifications.
+-
+-[Explicit Changes Listing recent_updates/20090320.txt]
+-
+-
+ %!include(xhtml): ''post_main_content.html''
+diff --git a/post_main_content.html b/post_main_content.html
+index 23efaba..f51e99d 100644
+--- a/post_main_content.html
++++ b/post_main_content.html
+@@ -12,7 +12,7 @@
+ <center>
+ <b><u>CONTACTS</u></b>
+ <br><br></center>
+-&gt; <a href="http://groups.yahoo.com/group/Stolen_Hours_ST/">The ST Staff</a><br>&nbsp;&nbsp;- Michael Amos<br>&nbsp;&nbsp;- James Hardin<br>&nbsp;&nbsp;- Justin Stedham<br><br>
++&gt; <a href="http://groups.yahoo.com/group/Stolen_Hours_ST/">The ST Staff</a><br>&nbsp;&nbsp;- Michael Amos<br>&nbsp;&nbsp;- Kurt<br><br>
+ 
+ &gt; <a href="http://games.groups.yahoo.com/group/SH-Narrators/">The Narrator Staff</a><br>&nbsp;&nbsp;- Andrew Sayman<br>&nbsp;&nbsp;- Trey Naivar<br>&nbsp;&nbsp;- Mandy Malone<br>&nbsp;&nbsp;- Corey<br>&nbsp;&nbsp;- Jessica Berglind<br><br>
+ 
