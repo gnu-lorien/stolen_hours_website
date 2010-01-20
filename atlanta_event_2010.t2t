@@ -1,0 +1,77 @@
+
+%!target: xhtml
+%!options: -o combat.html -H --toc
+%!postproc: WINDOW_TITLE "Atlanta Event 2010"
+%!postproc: MAIN_TITLE "Atlanta Event 2010"
+%!postproc(xhtml): '(?i)(gala_2010.png.*?width=")' '\1400'
+%!include(xhtml): ''pre_main_content.html''
+
+
+%%toc
+
+
+== Official Invitation ==
+[gala_2010_small.png]
+
+Prince McMillan and the Court of Atlanta cordially invite all Camarilla citizens to the Atlanta Gala 19-21 March 2010.
+
+Join us for a celebration of the charms of the Victorian Era and its modern incarnations.
+
+If you wish to attend, Contact [Harpy Rachel Dubhan http://mailhide.recaptcha.net/d?k=012FrfRUcRm6jepjm21eWAZg==&c=l8fLK7ykYJTqN7Btl6B4UsM2BLrUM0M30HoO3nN5d1E=]
+
+== Schedule ==
+Here is a tentative schedule
+
+
+=== Friday ===
+6:00 - Check in
+
+6:30 - Game on
+
+7:00 - Opening Court
+
+7:30 - Performances
+
+8:30 - Mad Tea Party opens
+
+
+=== Saturday ===
+5:00 - Game On
+
+6:00 - Clan Meeting (Toreador, Malkavian, Nosferatu)
+
+6:45 - Clan Meetings (Ventrue, Tremere, Brujah)
+
+7:30 - Clan Meetings (Gangrel, Children of Haqim, Others)
+
+8:20 - Invention Competition
+
+9:00 - Steam and Clockwork Ball 
+
+
+=== Sunday ===
+5:00 - Game on
+
+10:30 - Event Wrap up
+
+
+== Event Invitations ==
+=== Mad Tea Party ===
+[mad_tea_small.png]
+
+Friday 19 March at the Atlanta Gala You are invited to a Very Important Tea Party.
+
+Join us for a relaxed evening of Victorian parlor games, cards, chess, tea, and just a touch of madness.
+
+
+=== Steampunk Ball ===
+[steampunk_ball_small.png]
+The 2010 Atlanta Gala presents the Steam and Clockwork Ball.
+
+Dance to quadrilles, reels, waltzes, and more set to an ecclectic mix of modern and Victorian music.
+
+Dress to dazzle in Steampunk, Victorian, or Neo-Victorian attire.
+
+
+%!include(xhtml): ''post_main_content.html''
+
