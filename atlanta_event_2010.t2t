@@ -3,7 +3,6 @@
 %!options: -o combat.html -H --toc
 %!postproc: WINDOW_TITLE "Atlanta Event 2010"
 %!postproc: MAIN_TITLE "Atlanta Event 2010"
-%!postproc(xhtml): '(?i)(gala_2010.png.*?width=")' '\1400'
 %!include(xhtml): ''pre_main_content.html''
 
 
@@ -11,7 +10,7 @@
 
 
 == Official Invitation ==
-[gala_2010_small.png]
+[[gala_2010_small.png] gala_2010.png]
 
 Prince McMillan and the Court of Atlanta cordially invite all Camarilla citizens to the Atlanta Gala 19-21 March 2010.
 
@@ -57,7 +56,7 @@ Here is a tentative schedule
 
 == Event Invitations ==
 === Mad Tea Party ===
-[mad_tea_small.png]
+[[mad_tea_small.png] mad_tea.png]
 
 Friday 19 March at the Atlanta Gala You are invited to a Very Important Tea Party.
 
@@ -65,7 +64,8 @@ Join us for a relaxed evening of Victorian parlor games, cards, chess, tea, and 
 
 
 === Steampunk Ball ===
-[steampunk_ball_small.png]
+[[steampunk_ball_small.png] steampunk_ball.png]
+
 The 2010 Atlanta Gala presents the Steam and Clockwork Ball.
 
 Dance to quadrilles, reels, waltzes, and more set to an ecclectic mix of modern and Victorian music.
