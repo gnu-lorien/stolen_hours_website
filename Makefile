@@ -4,7 +4,8 @@ OBJS=$(SRCS:.t2t=.html)
 TEMPLATES=post_main_content.html \
 		pre_main_content.html \
 		atlanta_event_2010/post_main_content.html \
-		atlanta_event_2010/pre_main_content.html
+		atlanta_event_2010/pre_main_content.html \
+		atlanta_event_2010/emails.header
 
 %.html: %.t2t $(TEMPLATES)
 	echo `date`\;$< >> updates
