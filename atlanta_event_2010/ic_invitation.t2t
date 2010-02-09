@@ -3,6 +3,7 @@
 %!options: -o combat.html -H --toc --no-mask-email
 %!postproc: WINDOW_TITLE "Atlanta Event 2010 : Official IC Invitation"
 %!postproc: MAIN_TITLE "Atlanta Event 2010 : Official IC Invitation"
+%!includeconf: emails.header
 %!include(xhtml): ''pre_main_content.html''
 
 
@@ -17,7 +18,7 @@ Dear Citizens of the Camarilla,
 
 On behalf of Prince McMillan and the Court of Atlanta, I cordially invite all Camarilla citizens in good standing to attend the Atlanta Gala to be held 19-21 March 2010.  Our celebrations will center around the themes of the Victorian Era and its modern incarnations.  
 
-As is traditional for large gatherings, we will host a time of performances and artistic displays.  We already have a number of artists lined up for what is certain to be a spectacular extravaganza of talent.  If you wish to before or display artwork in the gallery, please contact me at [via email http://mailhide.recaptcha.net/d?k=01ffmbBOczH0ysBY7r6s99WA==&c=C65zpSola8jvF1vg3kgZ4ZXoLY1J_CkN7nxpE06bogY=]
+As is traditional for large gatherings, we will host a time of performances and artistic displays.  We already have a number of artists lined up for what is certain to be a spectacular extravaganza of talent.  If you wish to before or display artwork in the gallery, please contact me at DUBHAN_EMAIL.
 
 Another one of the festivities will be the Steam and Clockwork ball.  The Ball is a celebration of all things Victorian and Neo-Victorian, both historical and speculative.  Dress to dazzle in steampunk, Victorian, or Neo-Victorian attire.  Become part of the living clockwork as you dance to Victorian-inspired quadrilles and reels.   Glide across the floor to elegant waltzes or spin madly to lively polkas.  No previous experience is necessary, as lessons will be given prior to the dance.  Keeper Antonia Petrella will provide an eclectic mix of music from the modern, Victorian, and Edwardian eras. 
 
@@ -33,28 +34,30 @@ Status:
 
 Please also contact the Primogen for your Clan.  The Primogen will inform you of the relevant Domain edicts as well as tell you how to best travel safely in Atlanta.  If you do not have a Primogen, I will provide you this service.  The Primogen contact information is as follows:
 
-Brujah: [Alexander Pompeii http://mailhide.recaptcha.net/d?k=01BVqmZFnFMix8Y1fxULB_kw==&c=fHsgdkvJwsCNWyjjMHtKeTZpKUSOiV771YxxeioDpqY=]
+Brujah: Alexander Pompeii POMPEII_EMAIL
 
-Gangrel: [Greg Fields http://mailhide.recaptcha.net/d?k=01XBPspJroRqoMztNVo_nlHQ==&c=W2aD56zV68ZKHZmLMBA5TbAvg94AQgJFW3g6i0JLDU0=]
+Gangrel: Greg Fields GREG_EMAIL
 
-Malkavian: [Jacob Pearl http://mailhide.recaptcha.net/d?k=01VTZtYHJ_t1WricaUzvFkAg==&c=1QIGrWjZ2uvG_dgUvMGhM74aPjWEChUuxBjmjAwxaFY=]
+Malkavian: Jacob Pearl PEARL_EMAIL
 
-Nosferatu: [Emily Sutton http://mailhide.recaptcha.net/d?k=01DnLpFanZw6Q5l71hPrpFjA==&c=olkBLWKgAEVQM3Orgi_XumSiI6LZGO5QeVpFqvnMZmU=]
+Nosferatu: Emily Sutton SUTTON_EMAIL
 
-Toreador: [Davy Blanchett http://mailhide.recaptcha.net/d?k=01okpmO7LWp6vWuoilRdOM7Q==&c=MS7H8MIEVo3qSJwx6uFx7xk_i1Jm3EWXtidq8wbeQj4=]
+Toreador: Davy Blanchett DAVY_EMAIL
 
-Tremere: [Paul Zimmerman http://mailhide.recaptcha.net/d?k=01Xk6Ltp_7tY5LyEMFGcJ1yw==&c=1LzRnEUugvjsS6nG_M791ZRuwzqyVCB-fkG81tsqb80=]
+Tremere: Paul Zimmerman PAUL_EMAIL
 
-Ventrue: [Brian Faulkner http://mailhide.recaptcha.net/d?k=01dguMBFJQ3rOW9s579hyuhw==&c=H-3Z5-5liiyb6r0K7fuNAFJJRr8sWtLotG3biCWjV60=]
+Ventrue: Brian Faulkner FAULKNER_EMAIL
 
 We look forward to seeing you in Atlanta!
 
 
-Sincerely, 
-[Rachel Dubhan http://mailhide.recaptcha.net/d?k=01ffmbBOczH0ysBY7r6s99WA==&c=C65zpSola8jvF1vg3kgZ4ZXoLY1J_CkN7nxpE06bogY=]
-Harpy of Atlanta 
+Sincerely,
 
-If you wish to attend, Contact [Harpy Rachel Dubhan http://mailhide.recaptcha.net/d?k=01ffmbBOczH0ysBY7r6s99WA==&c=C65zpSola8jvF1vg3kgZ4ZXoLY1J_CkN7nxpE06bogY=]
+Rachel Dubhan
+
+Harpy of Atlanta
+
+If you wish to attend, Contact Harpy Rachel Dubhan at DUBHAN_EMAIL
 
 
 %!include(xhtml): ''post_main_content.html''
