@@ -4,20 +4,18 @@ BODY {
      scrollbar-track-color:#C0C0C0;
      scrollbar-shadow-color:#DBDBDB;
      scrollbar-highlight-color:#DBDBDB;
-     scrollbar-3dlight-color:#000000;
-     scrollbar-darkshadow-Color:#000000;
+     scrollbar-3dlight-color:#362f2d;
+     scrollbar-darkshadow-Color:#362f2d;
      }
 BODY, P, TD {
-            font-family: arial;
-            font-size: 8pt;
-            color: #000000; text-transform: none;
+            color: #362f2d; text-transform: none;
             }
 A:link, A:visited {
-                  color: #000000;
-                  text-decoration: none; text-transform: none;
+                  color: #362f2d;
+                  text-decoration: underline; text-transform: none;
                   }
 A:hover {
-        color: #000000;
+        color: #362f2d;
         text-decoration: underline; text-transform: none;
         }
 a:special { 
