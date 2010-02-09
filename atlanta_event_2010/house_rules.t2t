@@ -1,0 +1,216 @@
+
+%!target: xhtml
+%!options: -o combat.html -H --toc --no-mask-email
+%!postproc: WINDOW_TITLE "Atlanta Event 2010 : House Rules"
+%!postproc: MAIN_TITLE "Atlanta Event 2010 : House Rules"
+%!include(xhtml): ''pre_main_content.html''
+
+
+%%toc
+
+
+== Merits and Flaws ==
+Bonus traits from meritis do not stack.  Characters may not get bonus traits in the same category from multiple merits at once.  They can still have multiple merits for the role play effects.  For example, if a character has two merits that give bonus social traits, he or she may only apply the bonus traits from one or the other for any given challenge.
+
+
+== Adjudication ==
+An ST must be present for any scene involving a PC's death or removal from play.  It is recommended that players speak with STs prior to initiating such scenes in order to ensure things run smoothly and mitigate the chances of red lines.
+
+
+== Note on Conversational Familiarity ==
+Many abilities require a conversational action. Abilities based around evaluation the habits of others (psychology, etc.) requires the user to be conversationally familiar with the target -having been involved in at least 10 minutes of conversation previously. 
+
+
+== Abilities and Lores ==
+Only those abilities with clarifications from LotN:R are listed here.
+
+: Alertness
+As per LotE. You may spend a level of alertness to negate surprise in one situation (No this does not work like Eyes of Chaos)
+: Awareness
+This ability allows you to detect a discipline use ONLY if it is on you. This only allows you to know it happened, not who did it, unless one must be familiar with you to use it (ie, Summon)
+: Crafts
+As per LotN:R. If you win the challenge, your creation is at your highest craft level. If you fail, you may test again for each level you have in the ability, however each retest brings the rating of the creation down by one.
+Example: A PC with Painting x5 fails her initial crafts chop. She tests again to see if the painting is at Crafts 4. She fails again and on her third try, she succeeds, so she creates a painting at Crafts 3.
+: Disguise
+Creating a disguise requires a mental challenge, where the difficulty and the level of disguise required depends on how much of a change the character is trying to make.
+
+Generic "Someone else" - Requires just one level and has a difficulty of 3.
+
+General type of individual – Requires two levels and has a difficulty of 5.
+
+Specific person – Requires 3 levels and has a difficulty of that person's social traits.
+
+The ST may raise or lower the difficulty to accommodate other factors as well. The player is required to wear a description tag that describes their altered appearance.
+
+: Performance
+See Crafts. 
+
+: Tactics
+# of retest is # of tactics abilities expended by the person with the highest level within the group. These are then used as retest for the scene. Retests must be doled out immediately after succeeding the test and before the plan is implemented.
+
+
+== Willpower and Frenzy ==
+Willpower can be used to temporarily repress a frenzy as long as the vampire tries to then leave the presence of the stimulus. If after 10 minutes the vampire has still not escaped from the presence of the stimulus then they must spend another willpower or frenzy. Willpower cannot be used to try to repress the Beast after frenzy chops have been made. So the only options are chop and risk it, or willpower to suppress.
+
+
+== House Rules: Disciplines ==
+These House Rules are in relation to Laws of the Night Revised.  Any power which is not listed is done as per that book.  Powers with revisions listed here, unless it is specifically stated to be unlike LotN:R, are otherwise as per that book. 
+
+Any disciplines not listed in this document are up to ST discretion and require an ST present during their use. 
+
+
+=== Animalism ===
+
+: Feral Whispers
+It may be used to speak to a character in Beast Form or Subsume, provided both parties have Feral Whispers.
+: Quell the Beast
+Does not negate the use of willpower for the purpose of Aegis.
+: Subsume the Spirit
+Aura Perception always reveals the aura of the vampire except when checking for creature type. 
+: Drawing out the Beast
+Note that if you throw your beast into someone else and lose track of him/her, your beast comes back to you after a full day's sleep. 
+
+
+=== Auspex ===
+"Threesy rule" on obfuscate.  When attempting to break Obfuscate, add 1 bonus trait for each level of Auspex.  For example, Psychic Projection gives a total of 5 bonus traits. 
+
+: Heightened Senses
+This discipline is only active if a hand signal is used or a card is worn. When active, attacking characters must add one to the surprise count.
+
+When using Heightened Senses the player must specifically initiate the chop to break someone's obfuscate(including Mask of 1000 Faces), and can do so at any time.
+: Aura Perception
+In the event of a failure when searching for anything other than creature type or mood, the character cannot tell that she failed. Note that it can also detect the use of possession, magic, or madness (but not specific derangements).  At ST discretion, you may also search for other effects.  Aura Perception works only on intelligent creatures (not objects).
+: The Spirit's Touch
+Use of this discipline always requires an ST or Narrator.  This power also detects if items are magical.
+: Telepathy
+You must have line of sight to establish and maintain Telepathy.
+: Psychic Projection
+You may not use any Disciplines that require blood from Astral.  If you wish to use any Discipline other than Auspex on someone in the physical plane, you must manifest to do so.
+
+
+=== Celerity ===
+If you spend blood for Celerity, it is assumed that you use the highest level you have. If you wish to only activate up to a certain level, you must state your intentions at the time the blood is spent.  The additional actions from Celerity only grant physical actions.
+
+: Alacrity
+The simple action (pull gun, jump out of the way, pull someone from harm, etc) may be used in the Alacrity action.  After a simple action is taken, the character's combat action occurs in the normal round. If a simple action is not taken, the character's combat action occurs during Alacrity. 
+: Rapidity
+The Bomb does not need to be declared. Cannot be applied to ranged attacks. 
+: Fleetness
+Ties do not need to be declared. Cannot be applied to ranged attacks. 
+
+
+=== Chimerstry ===
+Uses of Chimerstry require an ST to be present and consulted first.
+
+
+=== Dementation ===
+: Eyes of Chaos
+An ST or Narrator may adjudicate an additional use of this power to gain an insight into plots.
+: Voice of Madness
+As per LotN:R, but note that you only risk one Social trait when engaging your targets in a mass challenge. Willpower applies to the frenzy checks just as for any other Courage check.
+
+
+=== Dominate ===
+You can be Dominated to act against your Nature or Path Rating, but your Nature/Path Rating will give you a retest to resist the Discipline.  If Dominated to sin against your path rating, you need not make a path check.  You may not be Dominated into direct harm, and Dominate 1 and 2 will break if the subject takes any damage while carrying out the command.  You cannot be Dominated into committing a sin against a Path Rating of 1.  STs reserve the right to make the final call on all usages of Dominate.  STs reserve the right to enforce Path tests against those attempting to abuse this rule.
+
+: Conditioning
+As per LotN:R, but note that Conditioned people need not be complete zombies. They can still perform tasks that do not require creativity, and can still hold conversations(albeit very dull ones).
+: Possession
+Aura Perception made against the character possessing always answer in regards to the possessor except for creature type. If a character comes into play with Possession up, they must mark off a willpower to show the expenditure at the beginning of the night. 
+
+
+=== Fortitude ===
+Fortitude may protect against staking, but the Fortitude declaration must be made prior to the simple tests performed for staking.
+
+: Aegis
+You cannot permanently expend something you have already temporarily expended.  Aegis must be called before staking challenges in order to negate staking.
+
+
+=== Necromancy ===
+Any use of Necromancy requires an ST
+
+: Soul Steal
+Requires physical contact for one round.
+
+
+=== Obfuscate ===
+"Threes rule" when testing vs. Auspex.  When Auspex is used to attempt to break Obfuscate, add 1 bonus trait for each level of Obfuscate.  For example, Cloak of the Gathering gives a total of 5 bonus traits.
+
+: Cloak of the Gathering
+Can cloak unconscious persons.
+
+
+=== Obtenebration ===
+Only one Clumsy trait may be given from each appropriate level of Obtenebration, though multiple levels can cause multiple Clumsy Traits. Multiples of one level will not cause multiple traits.
+
+: Arms of the Abyss
+The user may summon and control as many Arms as she has levels of Obtenebration. Arms cannot act the turn they are summoned.
+
+
+=== Potence ===
+Unless specifically mentioned, it is assumed that you use your full Potence when you hit. If you do not wish to use your full Potence, you must declare your intentions before making any test. Potence may not be applied to ranged attacks. 
+
+: Vigor
+The Bomb does not need to be declared.
+: Puissance
+Ties do not need to be declared.
+
+
+=== Presence ===
+Levels of Entrancement, Summons, and Majesty may include the specific "flavor" of the trait used to initiate the challenge.  (These are based upon the trait you use to initiate the challenge. Ex: Intimidating Majesty)
+Those who are affected by Presence, including Majesty, never know that they are being so affected during its use.  Mortals have no way of detecting Presence and will always rationalize their emotions as solely their own.  The exception to this rule is Dread Gaze which is obvious. 
+
+: Awe
+Awe may only be used on those in your presence and only once per Social Challenge.  Note that Awe can be used to cancel Awe.  You may also use Awe to gain someone's attention with a successful social test.  You can use Awe to retest for that challenge, but it would require a separate activation and another trait.
+: Summon
+As per LotN:R but, the target of Summon must come within 6 steps of the Summoner.  You cannot be summoned into or through direct danger (ST discretion).  If the target cannot possibly reach you before sunrise, the target cannot be Summoned (ST discretion).  PC's who are not signed into game cannot be summoned without the consent of the player or explicit ST approval.  If a summon does not work there is a 10 minute rule to initiating the summons again.
+: Majesty
+As per LotN:R except that it works for everybody within line of non-augmented sight.  A sniper who can only see you by looking through his scope is not affected by your Majesty.  If someone successfully penetrates your Majesty, you may spend another willpower trait to reactivate it.  If reactivated, all those who have previously failed their test may attempt to break majesty once again, as it is a new application of the power. 
+
+
+=== Protean ===
+: Feral Claws
+All levels of damage become aggravated when striking with Feral Claws.
+: Earth Meld
+When in this form, the user is in a state almost like torpor. She may not initiate or be subject to any challenges except that she may be Summoned. 
+: Shape of the Beast
+Using CB:G pg. 67-69.
+
+//Fight form//
+
+Gain five extra traits between physical and mental categories with at least 1 in each (work with character ST).
+
+Gain 3 steps during the normal round.
+
+Normally Bite will do two agg and claws one agg but you may work with ST for special effects if desired. All damage done with your claws and teeth is Aggravated.
+
+//Flight Form//
+
+Flight forms may only bid a maximum of 3 traits when attacking/enduring. Gains a +3 to dodge ranged attacks. Characters in flight form may declare fair escape if at least 5 paces from all attackers with no ranged attacks. 
+
+
+=== Serpentis ===
+
+: Form of the Cobra
+Form of the Cobra gets the same trait bonuses/penalties as Skin of the Adder, in addition to everything else the form provides.
+
+
+=== Thanatosis ===
+
+: Ashes to Ashes
+If your ashes are separated, awareness of your immediate surroundings (as per LotN:R) is only applicable from the largest pile of ash. 
+: The Withering
+Withering the head causes all the results listed in LotN:R, with the exception of the victim ONLY being able to use the disciplines of Celerity, Fortitude, and Potence. 
+
+
+=== Thaumaturgy ===
+Any use of Thaumaturgy requires an ST. The banning or effects of all rituals/paths are up to the HST and will be explained to the player during check-in. Any use of Thaumaturgy requires ST adjudication.
+
+
+=== Vicissitude ===
+There are no uses of Vicissitude in combat other than the ones laid out in the Laws of the Night Revised (page 188).  Note that the Repugnant traits and scars inflicted by Vicissitude are healed at the same cost as aggravated damage regardless of generation.  Experience is not required to buy them off.
+
+Actual damage dealt by Vicissitude is lethal.  Limbs can be fused, and characters can be blinded, but only as a time consuming crafting (not during combat) process. 
+
+
+%!include(xhtml): ''post_main_content.html''
