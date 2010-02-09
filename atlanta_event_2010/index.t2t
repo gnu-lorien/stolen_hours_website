@@ -3,6 +3,7 @@
 %!options: -o combat.html -H --toc --no-mask-email
 %!postproc: WINDOW_TITLE "Atlanta Event 2010"
 %!postproc: MAIN_TITLE "Atlanta Event 2010"
+%!includeconf: emails.header
 %!include(xhtml): ''pre_main_content.html''
 
 
@@ -13,11 +14,11 @@ The Event takes place on the GA Tech Campus in Atlanta in the Van Leer building 
 
 The cost to attend the event is FREE!  We welcome donations, but there is no charge for the event or Con.
 
-Please have your STs send your sheets to [Sheet of Atlanta http://mailhide.recaptcha.net/d?k=016ldvoS7Xa4KIc9GSujuUqg==&c=RIOJJbL5d073uzeQgMeg_wqfV9C86oKWqdNLdnSfyvmpRgQqF3VZ94YGRdUF0o5F]
+Please have your STs send your sheets to Sheets to Atlanta
 
 The STs for the event are:
 
-[Michael Amos http://mailhide.recaptcha.net/d?k=01KINCxzEYPvyNXP9DQgTq4Q==&c=KJgUGe-4IFVjJTNG5WM_JFcXmNQCeLdvN3P4tzIFJWo=]
+Michael Amos AMOS_EMAIL
 
 Jon B.
 
@@ -28,7 +29,7 @@ Geoff
 Austin
 
 
-Please contact the [event HST http://mailhide.recaptcha.net/d?k=01KINCxzEYPvyNXP9DQgTq4Q==&c=KJgUGe-4IFVjJTNG5WM_JFcXmNQCeLdvN3P4tzIFJWo=] for any ST related questions.  
+Please contact the Michael Amos for any ST related questions.  
 
 
 %!include(xhtml): ''post_main_content.html''
