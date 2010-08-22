@@ -5,6 +5,10 @@
 %!postproc: MAIN_TITLE "RECENT UPDATES"
 %!include(xhtml): ''pre_main_content.html''
 
+== Updates 8/21/2010==
+- Updated administration listing for the Seneschal and Ward 2 Primogen
+
+
 == Updates 5/20/2010 ==
 - Updated staff information
 - Updated IC info about the current administration
@@ -24,13 +28,6 @@
 - Added a map of the wards to the IC info
 
 [Explicit Changes Listing recent_updates/20090420.txt]
-
-
-== Updates 3/30/2009 ==
-- Updated Charter
-- Updated In Character Info to reflect the latest organization
-
-[Explicit Changes Listing recent_updates/20090330.txt]
 
 
 %!include(xhtml): ''post_main_content.html''
