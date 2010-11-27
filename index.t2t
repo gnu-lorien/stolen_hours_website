@@ -5,29 +5,9 @@
 %!postproc: MAIN_TITLE "RECENT UPDATES"
 %!include(xhtml): ''pre_main_content.html''
 
-== Updates 8/21/2010==
-- Updated administration listing for the Seneschal and Ward 2 Primogen
-
-
-== Updates 5/20/2010 ==
+== Updates 11/27/2010 ==
+- Updated information on the Primogen Council
 - Updated staff information
-- Updated IC info about the current administration
-- Fixed up some inaccuracies on the ward map
-
-[Explicit Changes Listing recent_updates/20100520.txt]
-
-
-== Updates 1/7/2010 ==
-- Updated staff information
-- Updated IC info about the current administration
-
-[Explicit Changes Listing recent_updates/20100107.txt]
-
-
-== Updates 4/20/2009 ==
-- Added a map of the wards to the IC info
-
-[Explicit Changes Listing recent_updates/20090420.txt]
 
 
 %!include(xhtml): ''post_main_content.html''
