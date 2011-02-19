@@ -4,8 +4,8 @@
 %!postproc: WINDOW_TITLE "Directions"
 %!postproc: MAIN_TITLE "Directions"
 %!include(txt): ''pre_main_content.html''
-<p>We play in the Georgia Tech student center. You can use the <a href="http://gtalumni.org/campusmap/campusmap.php?section=8">campus map</a>. We play in building 114 near the radio station and back lobby.</p>
+<p>We play in a private home that is shortly off of exit 276 on I-75. Please contact the ST staff to get directions.</p>
 
-<iframe width="300" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;t=h&amp;s=AARTsJoP8NiGzVw6HY6fFZfWcJSXxIiMOg&amp;msa=0&amp;msid=117208728880103285383.0004655abf1b8be2c9771&amp;ll=33.773172,-84.398153&amp;spn=0.002675,0.003219&amp;z=17&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;t=h&amp;msa=0&amp;msid=117208728880103285383.0004655abf1b8be2c9771&amp;ll=33.773172,-84.398153&amp;spn=0.002675,0.003219&amp;z=17&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;source=embed&amp;msa=0&amp;msid=204716836710087740702.0004655abf1b8be2c9771&amp;ll=33.773172,-84.398153&amp;spn=0.002675,0.003219&amp;iwloc=00049ca6dd5e07a7c33fa&amp;output=embed"></iframe><br /><small>View <a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;source=embed&amp;msa=0&amp;msid=204716836710087740702.0004655abf1b8be2c9771&amp;ll=33.773172,-84.398153&amp;spn=0.002675,0.003219&amp;iwloc=00049ca6dd5e07a7c33fa" style="color:#0000FF;text-align:left">GeorgiaOWbN Sites</a> in a larger map</small>
 
 %!include(txt): ''post_main_content.html''

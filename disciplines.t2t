@@ -58,4 +58,7 @@
 %!include: disciplines/vicissitude.t2t
 
 
+%!include: disciplines/thanatosis.t2t
+
+
 %!include(xhtml): ''post_main_content.html''
