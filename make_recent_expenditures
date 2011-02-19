@@ -1,0 +1,5 @@
+git diff --color-words --stat 8842a614be6d1f6719b48344668e3a4d2a9a32b6..1d2a7117d0c40d6fbe94bc7b6dd0743d215583b2 > recent_updates/20110219.txt
+git diff --color-words 8842a614be6d1f6719b48344668e3a4d2a9a32b6..1d2a7117d0c40d6fbe94bc7b6dd0743d215583b2 >> recent_updates/20110219.txt
+wget http://www.pixelbeat.org/scripts/ansi2html.sh -O /tmp/ansi2html.sh
+chmod +x /tmp/ansi2html.sh
+/tmp/ansi2html.sh < 20110219.txt > 20110219.html

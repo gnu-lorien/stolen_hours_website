@@ -1,0 +1,162 @@
+ combat.t2t                 |   10 [32m+++++[m[31m-----[m
+ directions.t2t             |    4 [32m++[m[31m--[m
+ disciplines.t2t            |    3 [31m---[m
+ disciplines/animalism.t2t  |    2 [31m--[m
+ disciplines/auspex.t2t     |    4 [32m++[m[31m--[m
+ disciplines/necromancy.t2t |    2 [32m+[m[31m-[m
+ disciplines/thanatosis.t2t |   14 [31m--------------[m
+ in_character_info.t2t      |   23 [32m++++++++++++[m[31m-----------[m
+ 8 files changed, 22 insertions(+), 40 deletions(-)
+[1mdiff --git a/combat.t2t b/combat.t2t[m
+[1mindex 41f8f87..df17d0e 100644[m
+[1m--- a/combat.t2t[m
+[1m+++ b/combat.t2t[m
+[36m@@ -10,7 +10,7 @@[m [mCombat should not be the main focus of any LARP. Portrayal, drama, and genre are[m
+
+
+== Declaration ==[m
+[31mCombat[m[32mcombat[m begins when a player announces an action and bids a trait. "I'm Brutal enough to stake you," for example. At that moment, combat has begun. All combat scenes should be adjudicated by an ST or Narrator otherwise //not involved in the scene//.
+
+If a Narrator's character is in the combat scene, either as an aggressor or a defender, that Narrator may not adjudicate the combat. Narrators may not run combat that involves more than three participants without the agreement of the participants or an ST. An ST //must// run any combat that originates in an effort to kill a PC.[m
+
+[36m@@ -89,7 +89,7 @@[m [mA 1 point blood bond lasts for 1 month, a two point blood bond lasts for 6 month[m
+== Weapons and Item Cards ==[m
+Weapon stats will be drawn from Dark Epics. Item cards should represent all weapons. Withdrawing an item card from an (ooc) pocket or (ic) holster/sheath constitutes an action. If you're not prepared for combat, you're at a disadvantage.[m
+
+Item cards [31mcan be[m[32mare[m color coded for concealability.
+
+: Blue cards[m
+Jacket concealment or smaller. These can be tucked into ooc pockets, boots, backpacks, etc. and still be available for game play.[m
+[36m@@ -102,11 +102,11 @@[m [mUnconcealable. These MUST be shown at all times, either in hand or pinned to the[m
+== Errata ==[m
+- Firearms are considered to do bashing damage against vampires.  All other creatures still take Lethal damage.[m
+- If a character has the ability of Archery or Firearms they may bid their mental traits during the challenge rather than physical ones. This still occurs during the physical round of combat.[m
+- Aggravated Damage: [32mWow, this hurts.[m Healing Aggravated wounds takes 3 blood and a full day of immobilization ("rest"). In order to heal more than 1 agg a night, 3 blood and 1 Willpower must be spent per additional aggravated wound healed. Aggravated Damage may not be healed during a game [31mnight.[m[32mnight (with the exception of Fortitude).[m
+- The bomb: The bomb does not need to be declared before being used.[m
+- Willpower: May be used at any time to refresh all traits from a single category once per night. Willpower may be used to stave off wound effects for one round of combat. This Willpower may be used at any time.[m
+- Thaumaturgy: Some aspects of Thaumaturgy require a physical challenge. However, Thaumaturgy is considered to be [31m"mental"[m[32m&quot;mental&quot;[m in nature. Therefore, Celerity does not allow additional Thaumaturgy actions. You could not Firestorm someone during the Mental phase, and then Cauldron them during a Swiftness round. The only things that allows for additional Thaumaturgy actions in a single round are higher levels of rare Thaumaturgy Paths (Path of Focused Mind, for example).[31m- Carrier Attacks: Stolen Hours generally does not allow carrier attacks. Most importantly, Quell the Beast cannot be utilized as a carrier attack.[m
+
+
+[32mThermonuclear Holocaust: This is a bad mamma jamma.[m
+%!include(xhtml): ''post_main_content.html''[m
+[1mdiff --git a/directions.t2t b/directions.t2t[m
+[1mindex c7fa3c6..cb80f5e 100644[m
+[1m--- a/directions.t2t[m
+[1m+++ b/directions.t2t[m
+[36m@@ -4,8 +4,8 @@[m
+%!postproc: WINDOW_TITLE "Directions"[m
+%!postproc: MAIN_TITLE "Directions"[m
+%!include(txt): ''pre_main_content.html''[m
+<p>We play in[31ma private home that is shortly off of exit 276 on I-75. Please contact[m the [31mST staff to get directions.</p>[m[32mGeorgia Tech student center. You can use the <a href="http://gtalumni.org/campusmap/campusmap.php?section=8">campus map</a>. We play in building 114 near the radio station and back lobby.</p>[m
+
+<iframe [31mwidth="425" height="350"[m[32mwidth="300" height="300"[m frameborder="0" scrolling="no" marginheight="0" marginwidth="0" [31msrc="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;source=embed&amp;msa=0&amp;msid=204716836710087740702.0004655abf1b8be2c9771&amp;ll=33.773172,-84.398153&amp;spn=0.002675,0.003219&amp;iwloc=00049ca6dd5e07a7c33fa&amp;output=embed"></iframe><br /><small>View <a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;source=embed&amp;msa=0&amp;msid=204716836710087740702.0004655abf1b8be2c9771&amp;ll=33.773172,-84.398153&amp;spn=0.002675,0.003219&amp;iwloc=00049ca6dd5e07a7c33fa" style="color:#0000FF;text-align:left">GeorgiaOWbN Sites</a> in a larger map</small>[m[32msrc="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;t=h&amp;s=AARTsJoP8NiGzVw6HY6fFZfWcJSXxIiMOg&amp;msa=0&amp;msid=117208728880103285383.0004655abf1b8be2c9771&amp;ll=33.773172,-84.398153&amp;spn=0.002675,0.003219&amp;z=17&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;t=h&amp;msa=0&amp;msid=117208728880103285383.0004655abf1b8be2c9771&amp;ll=33.773172,-84.398153&amp;spn=0.002675,0.003219&amp;z=17&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>[m
+
+%!include(txt): ''post_main_content.html''[m
+[1mdiff --git a/disciplines.t2t b/disciplines.t2t[m
+[1mindex 05fe702..dbd3e8c 100644[m
+[1m--- a/disciplines.t2t[m
+[1m+++ b/disciplines.t2t[m
+[36m@@ -58,7 +58,4 @@[m
+%!include: disciplines/vicissitude.t2t[m
+
+
+[31m%!include: disciplines/thanatosis.t2t[m
+
+
+%!include(xhtml): ''post_main_content.html''[m
+[1mdiff --git a/disciplines/animalism.t2t b/disciplines/animalism.t2t[m
+[1mindex 2dd4e3d..df6b4c4 100644[m
+[1m--- a/disciplines/animalism.t2t[m
+[1m+++ b/disciplines/animalism.t2t[m
+[36m@@ -8,8 +8,6 @@[m [mAs per LotN: R. Must RP animal noise. Cannot be used through electronic means.[m
+As per LotN:R. This power will pull a werewolf from frenzy and also removes their ability to spend Rage. If used on a werewolf not in frenzy, it has all of the normal effects as well as removing their ability to spend Rage.[m
+
+It should be noted that Quell the Beast only directly affects a character's ability to temporarily expend Willpower traits.[m
+
+[31mQuell may not be used as a carrier attack.[m
+: Subsume the Spirit[m
+As per LotN:R. No discipline that requires the expenditure of blood may be used while possessing an animal, and all requirements of the discipline(s) carried over must be met. If possessing an animal ghoul, it is possible to carry disciplines that require blood. All requirements for using the disciplines must also be met by the possessed animal (example: You cannot issue commands with the first level of Dominate while possessing a cat. They can't speak.)[m
+: Drawing out the Beast[m
+[1mdiff --git a/disciplines/auspex.t2t b/disciplines/auspex.t2t[m
+[1mindex 4556cfc..b3ee93d 100644[m
+[1m--- a/disciplines/auspex.t2t[m
+[1m+++ b/disciplines/auspex.t2t[m
+[36m@@ -5,7 +5,7 @@[m [mAs per LotN:R, except for calculating ties when attempting to pierce Obfuscate.[m
+
+For example, we have the Toreador Carla with Auspex: Telepathy. She is using Heightened Senses when the Malkavian Bigglesby walks by using Obfuscate: Unseen Presence. He has up to Obfuscate: Cloak the Gathering. She initiates a mental challenge and the two tie. Bigglesby has a greater mastery of Obfuscate than Carla does of Auspex, so he wins. If, for instance, Bigglesby had only known Obfuscate: Vanish from the Mind's Eye, then the two would have compared mental traits.[m
+
+It should be noted that any loud sound or bright flash only destroys your ability to continue using Heightened Senses. You may still see and hear normally, but must spend a Willpower point to prevent being dazed for a round. You may not reactivate Heightened Senses until the next scene or [31myou have spent blood to heal the damage[m[32msome significant action is taken[m to [32mreadjust[m your [31msense organ.[m[32msense.[m
+: Aura Perception[m
+As per LotN:R. Reminder: This is a Static Challenge and has no defensive retest aside from Luck. The defender does not bid a trait. In the event of a failed challenge, the character cannot detect deception, creature type, etc. If you fail a creature type challenge, the aura appears human. If you're searching for deception, magic or diablerie, you find none on a failed challenge. If you're searching for mood and fail, the mood is indeterminable.[m
+: Spirit's Touch[m
+[36m@@ -13,4 +13,4 @@[m [mAs per LotN:R. Use of this discipline ALWAYS requires an ST or Narrator. Persons[m
+: Telepathy[m
+As per LotN:R. The initial telepathic contact must be made while in line of sight. After contact is established, the telepathically connected individuals may move freely without breaking the telepathy. Malkavians have the option of bidding their derangement in defense against a telepathy challenge in lieu of a trait. The telepathic character suffers the bid derangement for the remainder of the night if she loses the challenge. When probing for deeper thoughts, all characters may bid their derangements. The deeper you go into the mind of a madman, the more likely you are to return with something unexpected. This is a static challenge where the aggressor avoids gaining a derangement on a win or a tie. When going from scene to scene, an out of character announcement must be made if you are telepathically connected to another character.[m
+: Psychic Projection[m
+[31mAs[m[32ms[m per LotN:R. No discipline requiring the expenditure of blood may be used while psychically projected. Any other requirements for disciplines carried over must be met.
+[1mdiff --git a/disciplines/necromancy.t2t b/disciplines/necromancy.t2t[m
+[1mindex ed95afb..daee643 100644[m
+[1m--- a/disciplines/necromancy.t2t[m
+[1m+++ b/disciplines/necromancy.t2t[m
+[36m@@ -34,6 +34,6 @@[m [mAs per LotN:R.[m
+: Shambling Hordes[m
+As per LotN:R.[m
+: Soul Steal[m
+[31mA target must be fully subdued before their[m[32mAs per LotN:R. To remove the[m soul [31mcan be stolen. If they have any capacity to resist or even move, then Soul Steal automatically fails.[m[32mof a mortal, you must first touch the target followed by a reflexive social challenge.[m
+: Daemonic Possession[m
+As per LotN:R. [m
+[1mdiff --git a/disciplines/thanatosis.t2t b/disciplines/thanatosis.t2t[m
+[1mdeleted file mode 100644[m
+[1mindex 88c5930..0000000[m
+[1m--- a/disciplines/thanatosis.t2t[m
+[1m+++ /dev/null[m
+[36m@@ -1,14 +0,0 @@[m
+
+[31m== Thanatosis ==[m
+[31m: Hags' Wrinkles[m
+[31mAs per LotN:R[m
+[31m: Putrefaction[m
+[31mBlood must be spent at the beginning of the round during normal combat declarations of expenditures. You may only add up to five negative traits to your target. After they have reached five negative traits from Putrefaction, only the lethal damage continues afterwards.[m
+[31m: Ashes to Ashes[m
+[31mAs per LotN:R[m
+[31m: Withering[m
+[31mYou must have an available physical action in which you are already in contact with your target to activate Withering.[m
+
+[31mYou may not make Simple Tests to strike the head. In order to strike the head your opponent must either accept the called shot, or attack you with their head. Withering the head removes the target's mental disciplines, not their physical ones.[m
+[31m: Necrosis[m
+[31mBlood must be spent at the beginning of the round during normal combat declarations of expenditures. You may only add up to five of each of the negative traits to your target. After they have reached five negative traits from Putrefaction, only the lethal damage continues afterwards.[m
+[1mdiff --git a/in_character_info.t2t b/in_character_info.t2t[m
+[1mindex 5f3f290..42f6d3d 100644[m
+[1m--- a/in_character_info.t2t[m
+[1m+++ b/in_character_info.t2t[m
+[36m@@ -29,24 +29,25 @@[m [mUndisclosed[m
+
+
+=== Primogen ===[m
+[31m: Toreador[m
+[31mRachel Dubhan[m[32mPrimogen are responsible for deciding who may feed within each of these political territories of Macon, GA.[m
+
+: [31mNosferatu[m
+[31mMaxwell Trent[m[32mWard 1[m
+[32mVictor Gaunt of the Children of Haqim[m
+
+: [31mTremere[m
+[31mAdrian Riddle[m[32mWard 2[m
+[32mVacant[m
+
+: [31mMalkavian[m
+[31mYeeves[m[32mWard 3[m
+[32mRachel Dubhan of Clan Toreador[m
+
+[32m: Ward 4[m
+[32mVacant[m
+
+[31m=== Feeding Grounds ===[m
+[31mFeeding grounds are separated between the political wards[m[32m: Ward 5[m
+[32mAdrian Riddle[m of [31mthe city of Macon.[m[32mClan Tremere[m
+
+
+[31m====[m[32m==[m Ward Map [31m====[m[32m==[m
+
+""" {{iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=117208728880103285383.0004501fe2d22d80e8ce9&ll=32.831976,-83.644012&spn=0.132701,0.19078&output=embed"}}[m
+
