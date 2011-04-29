@@ -7,6 +7,18 @@
 %!postproc(xhtml): &amp; &
 %!include(xhtml): ''pre_main_content.html''
 
+== Updates 4/29/2011 ==
+- Add a facebook like box
+- Change Fortitude 3 and 4 so that you can expend the physical trait for ties at any time
+- Note that the person using Obfuscate is the aggressor
+ - This means that those using Auspex can expend Willpower to break Obfuscate since they are defending
+- Clarifications about how Obfuscate interacts with technology
+- Added the rules for knockout and killingb blows
+
+
+[Explicit Changes Listing recent_updates/20110429.html]
+
+
 == Updates 2/19/2011 ==
 - Update IC info to represent the shift from the ward system for Primogen
 - Changed the directions to reflect that we play at the Cookie house now
@@ -18,11 +30,6 @@
 
 
 [Explicit Changes Listing recent_updates/20110219.html]
-
-
-== Updates 11/27/2010 ==
-- Updated information on the Primogen Council
-- Updated staff information
 
 
 """ {{iframe src="http://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FStolen-Hours%2F212221638806269&amp;width=400&amp;colorscheme=light&amp;show_faces=true&amp;stream=true&amp;header=true&amp;height=427" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:400px; height:427px;" allowTransparency="true"}}

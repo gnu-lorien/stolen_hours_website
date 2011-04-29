@@ -1,5 +1,7 @@
-git diff --color-words --stat 8842a614be6d1f6719b48344668e3a4d2a9a32b6..1d2a7117d0c40d6fbe94bc7b6dd0743d215583b2 > recent_updates/20110219.txt
-git diff --color-words 8842a614be6d1f6719b48344668e3a4d2a9a32b6..1d2a7117d0c40d6fbe94bc7b6dd0743d215583b2 >> recent_updates/20110219.txt
+datestring=20110429
+revisions=baccad78ac5c0146dd3dac252b43e491e8856fa4..a38c1ae02c5093b32e8a1b0dd1d36f7b5c0a21bb
+git diff --color-words --stat ${revisions} > recent_updates/${datestring}.txt
+git diff --color-words ${revisions} >> recent_updates/${datestring}.txt
 wget http://www.pixelbeat.org/scripts/ansi2html.sh -O /tmp/ansi2html.sh
 chmod +x /tmp/ansi2html.sh
-/tmp/ansi2html.sh < 20110219.txt > 20110219.html
+/tmp/ansi2html.sh < recent_updates/${datestring}.txt > recent_updates/${datestring}.html

@@ -1,0 +1,172 @@
+ combat.t2t                |   76 [32m++++++++++++++++++++++++++++++++++++[m[31m---------[m
+ disciplines/fortitude.t2t |   16 [32m++++++++[m[31m--[m
+ disciplines/obfuscate.t2t |   11 [32m+++++[m[31m-[m
+ index.t2t                 |    7 [32m++++[m
+ 4 files changed, 90 insertions(+), 20 deletions(-)
+[1mdiff --git a/combat.t2t b/combat.t2t[m
+[1mindex 41f8f87..b7deb97 100644[m
+[1m--- a/combat.t2t[m
+[1m+++ b/combat.t2t[m
+[36m@@ -16,17 +16,49 @@[m [mIf a Narrator's character is in the combat scene, either as an aggressor or a de[m
+
+
+== Order of Combat Turns within a Round ==[m
+
+
+[31m+ **Blood expenditures**.[m[32m=== 1 Blood expenditures ===[m
+These may not exceed Generational limits in any situation. Blood rules may be found in Laws of the Night: Revised. Generally, this blood expenditure is used to boost physical traits, fuel disciplines, or heal wounds.
+
+
+[31m+ **Declaration[m[32m=== 2 Declaration[m of [31mtargets**.[m[32mtargets ===[m
+Everyone points to his or her targets.
+
+
+[31m+ **Alacrity Actions**.[m[32m=== 3 Alacrity Actions ===[m
+Characters who spend blood traits for Celerity: Alacrity have the first action in combat. This action is a non-offensive pre-emptive action, such as moving or drawing a weapon. In the case that two or more people are trying to go first in the Alacrity round, levels of celerity, then physical traits, then generation, and then a static test determine order (if needed).
+
+
+[31m+ **Normal[m[32m=== 4 Normal[m Mental [31mActions**.[m[32mActions ===[m
+Some Thaumaturgy or Necromancy can be either Mental or Physical or Social. Please consult the various power levels to determine which stage is appropriate.
+
+
+[31m+ **Normal[m[32m=== 5 Normal[m Social [31mActions**.[m[32mActions ===[m
+In this stage, a player may speak a short statement. To complete a full sentence, a character may very well spend several rounds. Some social actions allow Status to be tacked onto the bid. Please consult with the Narrator or ST running the scene to determine if this is appropriate.
+
+
+[31m+ **Normal[m[32m=== 6 Normal[m Physical [31mActions**.[m
+[31m+ **Swiftness Actions**.[m[32mActions ===[m
+
+
+[32m=== 7 Swiftness Actions ===[m
+Tenebrous Form actions are resolved. All extra actions gained because of Celerity or Obtenebration must be physical actions.
+
+
+[31m+ **Legerity Actions**.[m[32m=== 8 Legerity Actions ===[m
+All extra actions gained because of Celerity must be Physical actions.
+
+
+[31m+ **Arms[m[32m=== 9 Arms[m of the Abyss [31mActions**.[m[32mActions ===[m
+All actions in this phase must be Physical.
+
+
+[31m+ **Clean Up**.[m[32m=== 10 Clean Up ===[m
+Healing (if blood was spent) is completed in this action, blood spent for disciplines and/or Physical traits (if above Gen Max) are exhausted. Characters who declared Vanish from the Mind's Eye disappear at this time.  Make any appropriate Humanity Tests. Scratch off special limited weapons and/or armor. Make special notations onto any character sheet, as needed.
+
+
+[31m+ **Narration**.[m[32m=== 11 Narration ===[m
+At the end of a combat scene, the ST or Narrator running the scene will thematically recap what happened in the previous round.  4 seconds of IC time have just passed. Return to step one and begin the process again until combat is resolved.
+
+
+== Surprise ==[m
+[36m@@ -42,22 +74,36 @@[m [mCharacters who are surprised may only defend appropriately.  Any aggressor who g[m
+
+
+== Special Attacks ==[m
+[31m:[m[32m===[m Staking [32m===[m
+To stake an individual, a person must declare s/he is attempting to stake their target. If s/he is successful, two simple tests are **immediately** made. If the aggressor wins both tests, the victim is staked and loses the rest of his actions in the round (if any). Staking by use of a crossbow or bow requires 3 tests (win or tie) to achieve staking. The only merit that may retest against staking is Luck. [m
+
+Fortitude does not prevent staking until level 5 (and beyond). Use of __Fortitude: Aegis__ must be declared before any staking challenges are thrown.[m
+
+
+[31m:[m[32m===[m Disarming [32m===[m
+Weapons may be disarmed by announcing you are attempting to disarm an opponent. The challenge is resolved as normal, but instead of dealing damage, the victim's weapon is removed from his or her grasp. The disarmed weapon shall be placed in such a location that the victim may retrieve it at the end of the next turn. [m
+
+In effect, disarming an opponent removes his weapon for a turn, unless special arrangements are made (someone else stepping on it, disarming it into a vat of molten lava, Mechagodzilla, etc).[m
+
+
+[31m:[m[32m===[m Called Shots [32m===[m
+There may be no forced addition to the mechanics outcome of a challenge due to RP alone when in combat or otherwise. If you declare that you are "brutal enough to cut off his head," you may be successful in the challenge, but will not instantly remove the target's head. The effects of the challenge can never be greater than the mechanics involved.[m
+
+Called shots only happen if both parties involved agree on the outcome of the challenge.[m
+
+
+[31m:[m[32m===[m Two-weapon Combat [32m===[m
+Two-weapons are used as per DE. Using multiple weapons does not grant you extra actions or additional damage. It allows you to bid an extra trait on ties. Mixing two guns with multiple damage types has no effect, as you must choose which weapon is the primary, or damage dealing, weapon.[m
+
+
+[32m=== Knockout Blow ===[m
+[32mWhen attacking beings that don't have Fortitude or some other supernatural resilience, you made bid an extra trait with your attack and declare it a Knockout Blow. After the attack has landed, you may make two simple tests. If you win both simple tests then the target is knocked unconcious.[m
+
+
+[32m=== Killing Blow ===[m
+[32mWhen attacking beings that don't have Fortitude or some other supernatural resilience, you made bid an extra trait with your attack and declare it a Knockout Blow. After the attack has landed, you may make two simple tests. If you win both simple tests then the target is killed.[m
+
+
+== Pummel Parties ==[m
+Combatants may choose to forego dodging in an effort to beat down their opponents. Two boxers, standing their ground, raining blows down upon each other is the appropriate image for this tactic. When an aggressor declares an attack, rather than declaring a dodge, a defender may declare an attack of his own. The winner of the challenge hits, while the loser misses. However, in this situation, **neither** may have access to __Dodge__ as a retest. Both fighters are more concerned with their opponent's untimely demise more than their own safety. Pummel parties are declared round by round.[m
+
+[1mdiff --git a/disciplines/fortitude.t2t b/disciplines/fortitude.t2t[m
+[1mindex 2ba76b6..69db826 100644[m
+[1m--- a/disciplines/fortitude.t2t[m
+[1m+++ b/disciplines/fortitude.t2t[m
+[36m@@ -5,10 +5,20 @@[m [mAs per LotN:R.[m
+: Mettle[m
+As per LotN:R.[m
+: Resilience[m
+As per LotN:R.
+
+[32mYou may expend a physical trait in order to win on ties in this challenge before or after the challenge has been thrown.[m
+
+The display of this level of Fortitude and all higher levels is a breach of the Masquerade.
+: Resistance[m
+As per LotN:R.
+
+[32mYou may expend a physical trait in order to win on ties in this challenge before or after the challenge has been thrown.[m
+
+The appearance of wounds being soaked is a serious breach of the Masquerade. It is also extremely intimidating to witness. Bear this in mind in your role-playing.
+: Aegis[m
+As per LotN:R.
+
+At this level of Fortitude, staking may be prevented //only// if the use of Aegis has been declared before the initial staking challenge is begun, //not// the tests to determine if the stake actually hits the heart. This level of Fortitude is intensely intimidating to witness and may have serious role-play effects.
+
+When you permanently expend Willpower or Physical traits for the usage of Aegis, you may expend any traits which have not been temporarily expended.[m
+[1mdiff --git a/disciplines/obfuscate.t2t b/disciplines/obfuscate.t2t[m
+[1mindex 07c882d..ad8e251 100644[m
+[1m--- a/disciplines/obfuscate.t2t[m
+[1m+++ b/disciplines/obfuscate.t2t[m
+[36m@@ -1,5 +1,7 @@[m
+
+== Obfuscate ==[m
+[32mThe Kindred using Obfuscate is considered the aggressor in the challenge.[m
+
+: Cloak of Shadows[m
+As per LotN:R. Fifty percent of your body must be hidden. Stop signposts and thin, growing trees do not provide the cover required to use this discipline.[m
+: Unseen Presence[m
+[36m@@ -7,8 +9,13 @@[m [mAs per LotN:R. You must be actively searching for hidden individuals while using[m
+: Mask of 1000 Faces[m
+As per LotN:R. When you create your Mask, you may freely replace social traits on a one for one basis to determine the characteristics of your Mask. This can only be done when the Mask is created and never again. These social traits become the permanent social traits of your mask. Blood may also be spent to add Appearance based Social traits to your mask at the cost of one blood per Social trait, not to exceed your generational limit. This blood must be spent every time the mask is used, even if it is your "permanent" mask. When masking as a specific individual, a badge must be worn to designate this. Given a distinct role-play reason when masking as a specific individual, it is possible to have sufficient reason to doubt the validity of the mask. When attempting to mask as another individual, you cannot add another trait once the mask is in place. You must begin again, including the expenditure of blood.[m
+: Vanish From Mind's Eye[m
+As per LotN:R.
+
+The use of this discipline is not counted as a Mental Action during combat, but the mental tests are made during the mental round. This means that if another character is not an onlooker during the mental round, the activation of the power is implicitly successful against them. Vanish From the Mind's Eye activates at the end of the round against everybody you were successful against.
+
+[32m"Fading Away" should be justified appropriately for the onlookers. Considering how Obfuscate is a mental affect that causes you to ignore something, it can easily be seen as meta-gaming to jump to the correct conclusion about where somebody that used this power just went. You will ignore their presence and see nothing strange about it even if you're staring straight into them.[m
+
+[32mWhen using electronics to record a person that is Vanished, you will ignore the image of the person on the camera just as you would if you were looking at them. You will not move the camera around or take any action that alerts others to the fact that you're being affected by Vanish. Those receiving remote feeds who are outside of teh Vanisher's presence will be able to see them, but will not be able to convince anybody in their presence that they are there. This sort of information does not constitute "interaction with the environment," so the Vanisher doesn't need to reactivate the power no matter how many times the person to your left tells you, "He's right there!!!"[m
+
+[31m"Fading Away" should be justified appropriately for the onlookers. Considering how Obfuscate is a mental affect that causes you to ignore something, it can easily be seen as meta-gaming to jump to the conclusion that Vanish was just used.[m
+: Cloak the Gathering[m
+As per LotN:R. You must remain visible to the originator of the cloak. Subjects must be willing to be cloaked, including any staked individuals. Torpored individuals and corpses are the exception to this rule.[m
+[1mdiff --git a/index.t2t b/index.t2t[m
+[1mindex 12380fb..bfa724f 100644[m
+[1m--- a/index.t2t[m
+[1m+++ b/index.t2t[m
+[36m@@ -3,6 +3,8 @@[m
+%!options: -o index.html -H[m
+%!postproc: WINDOW_TITLE "Main Page"[m
+%!postproc: MAIN_TITLE "RECENT UPDATES"[m
+[32m%!postproc(xhtml): {{(.*?)}} <\1>[m
+[32m%!postproc(xhtml): &amp; &[m
+%!include(xhtml): ''pre_main_content.html''[m
+
+== Updates 2/19/2011 ==[m
+[36m@@ -23,4 +25,9 @@[m
+- Updated staff information[m
+
+
+[32m""" {{iframe src="http://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FStolen-Hours%2F212221638806269&amp;width=400&amp;colorscheme=light&amp;show_faces=true&amp;stream=true&amp;header=true&amp;height=427" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:400px; height:427px;" allowTransparency="true"}}[m
+
+[32m""" {{/iframe}}[m
+
+
+%!include(xhtml): ''post_main_content.html''[m
