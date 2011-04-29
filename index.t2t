@@ -3,6 +3,8 @@
 %!options: -o index.html -H
 %!postproc: WINDOW_TITLE "Main Page"
 %!postproc: MAIN_TITLE "RECENT UPDATES"
+%!postproc(xhtml): {{(.*?)}} <\1>
+%!postproc(xhtml): &amp; &
 %!include(xhtml): ''pre_main_content.html''
 
 == Updates 2/19/2011 ==
@@ -21,6 +23,11 @@
 == Updates 11/27/2010 ==
 - Updated information on the Primogen Council
 - Updated staff information
+
+
+""" {{iframe src="http://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FStolen-Hours%2F212221638806269&amp;width=400&amp;colorscheme=light&amp;show_faces=true&amp;stream=true&amp;header=true&amp;height=427" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:400px; height:427px;" allowTransparency="true"}}
+
+""" {{/iframe}}
 
 
 %!include(xhtml): ''post_main_content.html''
