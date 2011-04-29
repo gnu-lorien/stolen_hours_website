@@ -16,17 +16,49 @@ If a Narrator's character is in the combat scene, either as an aggressor or a de
 
 
 == Order of Combat Turns within a Round ==
-+ **Blood expenditures**. These may not exceed Generational limits in any situation. Blood rules may be found in Laws of the Night: Revised. Generally, this blood expenditure is used to boost physical traits, fuel disciplines, or heal wounds.
-+ **Declaration of targets**. Everyone points to his or her targets.
-+ **Alacrity Actions**. Characters who spend blood traits for Celerity: Alacrity have the first action in combat. This action is a non-offensive pre-emptive action, such as moving or drawing a weapon. In the case that two or more people are trying to go first in the Alacrity round, levels of celerity, then physical traits, then generation, and then a static test determine order (if needed).
-+ **Normal Mental Actions**. Some Thaumaturgy or Necromancy can be either Mental or Physical or Social. Please consult the various power levels to determine which stage is appropriate.
-+ **Normal Social Actions**. In this stage, a player may speak a short statement. To complete a full sentence, a character may very well spend several rounds. Some social actions allow Status to be tacked onto the bid. Please consult with the Narrator or ST running the scene to determine if this is appropriate.
-+ **Normal Physical Actions**.
-+ **Swiftness Actions**. Tenebrous Form actions are resolved. All extra actions gained because of Celerity or Obtenebration must be physical actions.
-+ **Legerity Actions**. All extra actions gained because of Celerity must be Physical actions.
-+ **Arms of the Abyss Actions**. All actions in this phase must be Physical.
-+ **Clean Up**. Healing (if blood was spent) is completed in this action, blood spent for disciplines and/or Physical traits (if above Gen Max) are exhausted. Characters who declared Vanish from the Mind's Eye disappear at this time.  Make any appropriate Humanity Tests. Scratch off special limited weapons and/or armor. Make special notations onto any character sheet, as needed.
-+ **Narration**. At the end of a combat scene, the ST or Narrator running the scene will thematically recap what happened in the previous round.  4 seconds of IC time have just passed. Return to step one and begin the process again until combat is resolved.
+
+
+=== 1 Blood expenditures ===
+These may not exceed Generational limits in any situation. Blood rules may be found in Laws of the Night: Revised. Generally, this blood expenditure is used to boost physical traits, fuel disciplines, or heal wounds.
+
+
+=== 2 Declaration of targets ===
+Everyone points to his or her targets.
+
+
+=== 3 Alacrity Actions ===
+Characters who spend blood traits for Celerity: Alacrity have the first action in combat. This action is a non-offensive pre-emptive action, such as moving or drawing a weapon. In the case that two or more people are trying to go first in the Alacrity round, levels of celerity, then physical traits, then generation, and then a static test determine order (if needed).
+
+
+=== 4 Normal Mental Actions ===
+Some Thaumaturgy or Necromancy can be either Mental or Physical or Social. Please consult the various power levels to determine which stage is appropriate.
+
+
+=== 5 Normal Social Actions ===
+In this stage, a player may speak a short statement. To complete a full sentence, a character may very well spend several rounds. Some social actions allow Status to be tacked onto the bid. Please consult with the Narrator or ST running the scene to determine if this is appropriate.
+
+
+=== 6 Normal Physical Actions ===
+
+
+=== 7 Swiftness Actions ===
+Tenebrous Form actions are resolved. All extra actions gained because of Celerity or Obtenebration must be physical actions.
+
+
+=== 8 Legerity Actions ===
+All extra actions gained because of Celerity must be Physical actions.
+
+
+=== 9 Arms of the Abyss Actions ===
+All actions in this phase must be Physical.
+
+
+=== 10 Clean Up ===
+Healing (if blood was spent) is completed in this action, blood spent for disciplines and/or Physical traits (if above Gen Max) are exhausted. Characters who declared Vanish from the Mind's Eye disappear at this time.  Make any appropriate Humanity Tests. Scratch off special limited weapons and/or armor. Make special notations onto any character sheet, as needed.
+
+
+=== 11 Narration ===
+At the end of a combat scene, the ST or Narrator running the scene will thematically recap what happened in the previous round.  4 seconds of IC time have just passed. Return to step one and begin the process again until combat is resolved.
 
 
 == Surprise ==
@@ -42,23 +74,33 @@ Characters who are surprised may only defend appropriately.  Any aggressor who g
 
 
 == Special Attacks ==
-: Staking
+=== Staking ===
 To stake an individual, a person must declare s/he is attempting to stake their target. If s/he is successful, two simple tests are **immediately** made. If the aggressor wins both tests, the victim is staked and loses the rest of his actions in the round (if any). Staking by use of a crossbow or bow requires 3 tests (win or tie) to achieve staking. The only merit that may retest against staking is Luck. 
 
 Fortitude does not prevent staking until level 5 (and beyond). Use of __Fortitude: Aegis__ must be declared before any staking challenges are thrown.
-: Disarming
+
+
+=== Disarming ===
 Weapons may be disarmed by announcing you are attempting to disarm an opponent. The challenge is resolved as normal, but instead of dealing damage, the victim's weapon is removed from his or her grasp. The disarmed weapon shall be placed in such a location that the victim may retrieve it at the end of the next turn. 
 
 In effect, disarming an opponent removes his weapon for a turn, unless special arrangements are made (someone else stepping on it, disarming it into a vat of molten lava, Mechagodzilla, etc).
-: Called Shots
+
+
+=== Called Shots ===
 There may be no forced addition to the mechanics outcome of a challenge due to RP alone when in combat or otherwise. If you declare that you are "brutal enough to cut off his head," you may be successful in the challenge, but will not instantly remove the target's head. The effects of the challenge can never be greater than the mechanics involved.
 
 Called shots only happen if both parties involved agree on the outcome of the challenge.
-: Two-weapon Combat
+
+
+=== Two-weapon Combat ===
 Two-weapons are used as per DE. Using multiple weapons does not grant you extra actions or additional damage. It allows you to bid an extra trait on ties. Mixing two guns with multiple damage types has no effect, as you must choose which weapon is the primary, or damage dealing, weapon.
-: Knockout Blow
+
+
+=== Knockout Blow ===
 When attacking beings that don't have Fortitude or some other supernatural resilience, you made bid an extra trait with your attack and declare it a Knockout Blow. After the attack has landed, you may make two simple tests. If you win both simple tests then the target is knocked unconcious.
-: Killing Blow
+
+
+=== Killing Blow ===
 When attacking beings that don't have Fortitude or some other supernatural resilience, you made bid an extra trait with your attack and declare it a Knockout Blow. After the attack has landed, you may make two simple tests. If you win both simple tests then the target is killed.
 
 
