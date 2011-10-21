@@ -1,0 +1,26 @@
+BODY {
+     scrollbar-face-color:#C0C0C0;
+     scrollbar-arrow-color:#FFFFFFF;
+     scrollbar-track-color:#C0C0C0;
+     scrollbar-shadow-color:#DBDBDB;
+     scrollbar-highlight-color:#DBDBDB;
+     scrollbar-3dlight-color:#362f2d;
+     scrollbar-darkshadow-Color:#362f2d;
+     }
+BODY, P, TD {
+            color: #362f2d; text-transform: none;
+            }
+A:link, A:visited {
+                  color: #362f2d;
+                  text-decoration: underline; text-transform: none;
+                  }
+A:hover {
+        color: #362f2d;
+        text-decoration: underline; text-transform: none;
+        }
+a:special { 
+          color: #C0C0C0;
+          }
+dt {
+   font-weight: bold;
+   } 

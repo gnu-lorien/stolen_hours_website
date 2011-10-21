@@ -1,0 +1,35 @@
+
+%!target: xhtml
+%!options: -o combat.html -H --toc --no-mask-email
+%!postproc: WINDOW_TITLE "Atlanta Event 2010"
+%!postproc: MAIN_TITLE "Atlanta Event 2010"
+%!includeconf: emails.header
+%!include(xhtml): ''pre_main_content.html''
+
+
+%%toc
+
+
+The Event takes place on the GA Tech Campus in Atlanta in the Van Leer building (777 Atlantic Drive NW).  It is run in conjunction with [MomoCon http://momocon.moonfruit.com/]
+
+The cost to attend the event is FREE!  We welcome donations, but there is no charge for the event or Con.
+
+Please have your STs send your sheets to Sheets to Atlanta
+
+The STs for the event are:
+
+Michael Amos AMOS_EMAIL
+
+Jon B.
+
+Larry
+
+Geoff 
+
+Austin
+
+
+Please contact the Michael Amos for any ST related questions.  
+
+
+%!include(xhtml): ''post_main_content.html''
