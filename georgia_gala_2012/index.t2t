@@ -10,23 +10,17 @@
 %%toc
 
 
-The Event takes place on the GA Tech Campus in Atlanta in the Van Leer building (777 Atlantic Drive NW).  It is run in conjunction with [MomoCon http://momocon.moonfruit.com/]
-
-The cost to attend the event is FREE!  We welcome donations, but there is no charge for the event or Con.
-
-Please have your STs send your sheets to Sheets to Atlanta
-
-The STs for the event are:
-
-Andrew Sayman SAYMAN_EMAIL
-
-Michael Amos AMOS_EMAIL
-
-Roddy RODDY_EMAIL
-
-Please contact the ST staff ST_STAFF_EMAIL for any storytelling related questions.  
+== Pre-registration and Payment ==
+%!include: payment_information_text.t2ti
 
 %!include(xhtml): ''paypalbutton.html''
+
+
+
+== Sheets and Storyteller Info ==
+Sheets should be sent to Sheets to Atlanta in .gex format.  Sheets may be sent by players as long as the home chronicle STs are copied.  
+
+Andrew Sayman is the head ST for the event, and you can contact him and the rest of the staff at: ST_STAFF_EMAIL
 
 
 %!include(xhtml): ''post_main_content.html''
