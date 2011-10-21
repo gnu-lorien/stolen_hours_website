@@ -1,26 +1,27 @@
 body {
-	background-color: #c0c0c0;
+	background-color: white;
+	font-family:sans-serif;
 }
 
 body, p, td {
-	color: #362f2d;
+	color: black;
 	text-transform: none;
 }
 
 a:link, a:visited {
-	color: #362f2d;
+	color: #3c8dc5;
 	text-decoration: underline;
 	text-transform: none;
 }
 
 a:hover {
-	color: #362f2d;
+	color: #b2d1e5;
 	text-decoration: underline;
 	text-transform: none;
 }
 
 a:special {
-	color: #C0C0C0;
+	color: #6fb7e9;
 }
 
 dt {
@@ -53,15 +54,27 @@ dt {
 
 #lefttd {
 	border: 1px solid black;
-	background-color:#ada38f;
+	background-color:#3c8dc5;
 	height:350px;
 	width:200px;
 	vertical-align:top;
 }
 
+#lefttd a:link, #lefttd a:visited {
+	color: white;
+	text-decoration: underline;
+	text-transform: none;
+}
+
+h1 {
+	text-align: center;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
 #maintd {
 	border: 1px solid black;
-	background-color:#c7bba5;
+	background-color:white;
 	height: 350px;
 	width: 900px;
 	vertical-align: top;
