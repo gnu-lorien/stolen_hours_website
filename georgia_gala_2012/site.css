@@ -39,8 +39,7 @@ dt {
 
 #headertd {
 	border: 1px solid black;
-	background-image:url('background.png');
-	background-color:#747474;
+	background-color:#00000d;
 	height:110px;
 	width:700px;
 	vertical-align:middle;
