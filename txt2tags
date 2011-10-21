@@ -4252,8 +4252,9 @@ def finish_him(outlist, config):
 		errmsg = _('Invalid PostProc filter replacement')
 		for line in outlist:
 			for rgx,repl in filters:
-				try: line = rgx.sub(repl, line)
-				except: Error("%s: '%s'"%(errmsg, repl))
+				line = rgx.sub(repl, line)
+				#try: line = rgx.sub(repl, line)
+				#except: Error("%s: '%s'"%(errmsg, repl))
 			postoutlist.append(line)
 		outlist = postoutlist[:]
 	
