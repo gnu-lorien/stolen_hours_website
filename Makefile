@@ -16,11 +16,11 @@ TEMPLATES=post_main_content.html \
 	echo `date`\;$< >> updates
 	$(TXT2TAGS) --mask-email --css-sugar -H -o $@ $<
 
+all: $(OBJS)
+
 georgia_gala_2012/pay.html: georgia_gala_2012/pay.t2t $(TEMPLATES) georgia_gala_2012/payment_information_text.t2ti
 	echo `date`\;$< >> updates
 	$(TXT2TAGS) --mask-email --css-sugar -H -o $@ $<
-
-all: $(OBJS)
 
 disciplines.html: disciplines.t2t $(DISCIPLINES)
 
