@@ -1,8 +1,8 @@
  
 %!target: xhtml
 %!options: -o combat.html -H --toc --no-mask-email
-%!postproc: WINDOW_TITLE "Atlanta Event 2010 : Official IC Invitation"
-%!postproc: MAIN_TITLE "Atlanta Event 2010 : Official IC Invitation"
+%!postproc: WINDOW_TITLE "Georgia Gala 2012 : Official IC Invitation"
+%!postproc: MAIN_TITLE "Georgia Gala 2012 : Official IC Invitation"
 %!includeconf: emails.header
 %!include(xhtml): ''pre_main_content.html''
 
