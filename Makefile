@@ -9,7 +9,8 @@ TEMPLATES=post_main_content.html \
 		atlanta_event_2010/emails.header \
 		georgia_gala_2012/post_main_content.html \
 		georgia_gala_2012/pre_main_content.html \
-		georgia_gala_2012/emails.header
+		georgia_gala_2012/emails.header \
+		georgia_gala_2012/paypalbutton.html
 
 %.html: %.t2t $(TEMPLATES)
 	echo `date`\;$< >> updates

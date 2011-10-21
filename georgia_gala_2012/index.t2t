@@ -26,5 +26,7 @@ Roddy RODDY_EMAIL
 
 Please contact the ST staff ST_STAFF_EMAIL for any storytelling related questions.  
 
+%!include(xhtml): ''paypalbutton.html''
+
 
 %!include(xhtml): ''post_main_content.html''
