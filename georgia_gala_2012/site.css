@@ -1,0 +1,92 @@
+body {
+	background-color: #c0c0c0;
+}
+
+body, p, td {
+	color: #362f2d;
+	text-transform: none;
+}
+
+a:link, a:visited {
+	color: #362f2d;
+	text-decoration: underline;
+	text-transform: none;
+}
+
+a:hover {
+	color: #362f2d;
+	text-decoration: underline;
+	text-transform: none;
+}
+
+a:special {
+	color: #C0C0C0;
+}
+
+dt {
+	font-weight: bold;
+}
+
+#sitetable {
+	border-collapse: collapse;
+	border-spacing: 4px;
+}
+
+#sitetable td, #sitetable th {
+	padding: 0px;
+}
+
+#headertd {
+	border: 1px solid black;
+	background-image:url('background.png');
+	background-color:#747474;
+	height:110px;
+	width:700px;
+	vertical-align:middle;
+}
+
+#headertd img {
+	border:0px solid black;
+	height: 100px;
+	width: 680px;
+}
+
+#lefttd {
+	border: 1px solid black;
+	background-color:#ada38f;
+	height:350px;
+	width:200px;
+	vertical-align:top;
+}
+
+#maintd {
+	border: 1px solid black;
+	background-color:#c7bba5;
+	height: 350px;
+	width: 900px;
+	vertical-align: top;
+}
+
+#maintd > table {
+	border: 0px solid black;
+	width: 100%;
+}
+
+#righttd {
+	border: 1px solid black;
+	color:#dcd0bd;
+	background-color:#9a9485;
+	background-image:url('right_background_01.png');
+	background-repeat:no-repeat;
+	height:350px;
+	width:200px;
+	vertical-align:top;
+}
+
+#footertd {
+	border: 1px solid black;
+	background-color: #747474;
+	height:15px;
+	width:700px;
+	vertical-align:top;
+}
