@@ -85,6 +85,10 @@ h1 {
 	width: 100%;
 }
 
+#maintd img {
+	max-width: 460px;
+}
+
 #righttd {
 	border: 1px solid black;
 	color:#dcd0bd;
